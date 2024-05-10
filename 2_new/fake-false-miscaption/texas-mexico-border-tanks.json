@@ -1,0 +1,42 @@
+{
+    "url": "https://www.snopes.com/fact-check/texas-mexico-border-tanks/",
+    "claim_content": "A video shows tanks near the Texas-Mexico border in January 2024.",
+    "rating_content": "Miscaptioned",
+    "article_content": "On Jan. 29, 2024, a video circulated on X (formerly Twitter) that reportedly showed tanks moving near Texas' border with Mexico as a result of rising tensions between the state and the U.S. government. \"Texas is moving its tanks across its borders. Surreal sight,\" one X user captioned the video.\n \n(X user @idan_bg)\nAnother post with the video read (we translated it from Spanish):\n??? LATEST NEWS – Texas: Unusual movement of Texas Defense Forces tanks observed\nThere are rumors that these tanks are combat ready in response to the possible military presence of the Biden administration in the state of Texas\n\"Images from rebellious Texas,\" a YouTube video caption claimed in Russian. Another post on X read (in Spanish): \"Abrams tanks are deployed on the Texas border, amid increasing pressure from the Texas state administration and the central administration.\"\nNumerous social media users suggested that the footage was captured in Chile, not Texas. We also found evidence of this, so we have rated the claim as \"Miscaptioned.\"\nFor instance, the license plate of a vehicle visible in the video does not match Texas license plate designs.\n \n(Texas DMV)\nLicense plates in Chile much more closely resemble the plate in the video:\n\n(Wikimedia.org)\nMoreover, we found that the video was shared on TikTok in November 2023 and therefore could not have been captured in January 2024 as tensions flared between Texas officials and the U.S. government.\n \nAdditionally, Newsweek investigated the exact location of video and found it \"was recorded east of Antofagasta, outside a lithium carbonate plant, owned by Chilean chemical company SQM.\"\nWe've previously covered a Supreme Court ruling allowing U.S. Border Patrol agents to cut razor wire along the border, as well as a rumor that Republican governors were deploying state National Guard units in support of Texas.",
+    "original_rationals": {
+        "raw_Rationale": "Numerous social media users suggested that the footage was captured in Chile, not Texas. We also found evidence of this, so we have rated the claim as \"Miscaptioned.\"",
+        "Additional_rationale1": "For instance, the license plate of a vehicle visible in the video does not match Texas license plate designs.",
+        "Additional_rationale2": "Moreover, we found that the video was shared on TikTok in November 2023 and therefore could not have been captured in January 2024 as tensions flared between Texas officials and the U.S. government."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The claim about tanks near the Texas-Mexico border in January 2024 being shown in a video was rated as 'Miscaptioned' due to several key pieces of evidence provided in the paragraphs. The video was reportedly circulating on social media platforms, with claims linking it to Texas amid tensions with the U.S. government. However, details such as the license plates visible in the video resembling those of Chile, the video being shared on TikTok in November 2023, and its actual location being identified as east of Antofagasta in Chile indicate that it was not filmed near the Texas-Mexico border in January 2024.",
+        "detailed_reasons": {
+            "reason1": "The license plates visible in the video do not match those of Texas but closely resemble Chilean license plate designs, suggesting that the footage was not captured in Texas.",
+            "reason2": "The video was shared on TikTok in November 2023, contradicting the claim that it was filmed in January 2024 near the Texas-Mexico border.",
+            "reason3": "Investigations by Newsweek located the actual recording site of the video in Chile, specifically east of Antofagasta, confirming that the tanks were not near the Texas-Mexico border as initially claimed."
+        }
+    },
+    "evidences": {
+        "evidence0": "??? LATEST NEWS – Texas: Unusual movement of Texas Defense Forces tanks observed\nThere are rumors that these tanks are combat ready in response to the possible military presence of the Biden administration in the state of Texas"
+    },
+    "relationship_with_evidence": [
+        {
+            "relationship_between_raw_Rationale_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason2_and_evidence_0": "Refute. The evidence directly contradicts the rationale detail by mentioning tanks moving in Texas in response to a possible military presence in the state in a timeframe close to January 2024, which aligns with the claim. This directly opposes the rationale that the video was shared on TikTok in November 2023, indicating that it was not filmed near the Texas-Mexico border in January 2024."
+        },
+        {
+            "relationship_between_reason3_and_evidence_0": "Refute. The evidence directly contradicts the rationale detail by indicating unusual movement of tanks in Texas due to the possible military presence of the Biden administration, which opposes the initial claim that the tanks were near the Texas-Mexico border. This clear contradiction categorizes the relationship as 'Refute'."
+        }
+    ]
+}

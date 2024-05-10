@@ -1,0 +1,99 @@
+{
+    "url": "https://www.snopes.com/fact-check/god-made-trump-video/",
+    "claim_content": "On Jan. 5, 2024, former U.S. President Donald Trump shared on his Truth Social account a video with the repeated words, \"So God made Trump.\"",
+    "rating_content": "True",
+    "article_content": "The video was originally created by a group of Trump's supporters named the Dilley Meme Team and was later reposted to the former president's account.\nIn early January 2024, we received emails from readers who asked if it was true that former U.S. President Donald Trump had shared a video on his own Truth Social platform in which the phrase \"So God made Trump\" is repeatedly said.\nThe video featured what appeared to be an artificial-intelligence (AI) version of the voice of radio broadcaster Paul Harvey, who died in 2009 and was known for famously speaking the tagline, \"Only now you know ... the rest of the story.\"\nFor example, one reader sent in the following email:\n\"God Made Trump\" video with Paul Harvey posthumously narrating. Saw coverage first at CNN. Looks like an ad to make Trump look ridiculous, but apparently the intent was to support him. Trump shared it on Truth Social.\nAnother reader asked:\nCan you tell us if the \"God Made Trump\" video posted on Truth Social is real or fake?\nIn answer to that question, yes, a \"So God made Trump\" video truly was shared on Trump's official Truth Social account. It was also true that the video featured an AI version of Harvey's voice and that it was discussed on TV on CNN, as the first reader mentioned.\nTrump's Truth Social post was made on the morning of Jan. 5, 2024, just before the three-year anniversary of Jan. 6, 2021 – the day when the former president's own supporters rioted at the U.S. Capitol in Washington, D.C. and attempted to block the certification of the 2020 presidential election results.\nTrump's post also appeared on @TrumpDailyPosts – an account on X that shares his Truth Social posts across platforms.\n“GOD MADE TRUMP” pic.twitter.com/l03fK9SSfC\n— Donald J. Trump Posts From His Truth Social (@TrumpDailyPosts) January 5, 2024\n\nAdditionally, the video was shared on X on Jan. 6 by both U.S. Rep. Marjorie Taylor Greene and conservative activist Laura Loomer, among other prominent conservative users.\nThe video with Harvey's AI voice began, \"And on June 14, 1946, God looked down on his planned paradise, and said, 'I need a caretaker.' So God gave us Trump.\"\nThe narration continued: \"God said, 'I need somebody willing to get up before dawn, fix this country, work all day, fight the Marxists, eat supper, then go to the Oval Office and stay up past midnight at a meeting of the heads of state.' So God made Trump.\"\nThe video then featured spoken mentions of Trump purportedly fighting a \"deep state,\" being \"gentle enough to deliver his own grandchild\" and able to \"shape an ax but wield a sword,\" having \"the courage to step foot in North Korea,\" working 112 hours in one week and taking on \"the fake news\" in \"the den of vipers,\" among other moments.\nThe video was originally made by a group of the former president's supporters known as the Dilley Meme Team and was not an official creation of Trump's 2024 reelection campaign.\n\"Known as Trump's Online War Machine, our content generates millions and millions of views,\" the Dilley Meme Team's website reads. \"Often shared by the man himself, and played at the rallies, we've been fighting fake narratives of the commies and fascists for years - BY ANY MEMES NECESSARY.\"\nCongratulations to the Dilley Meme Team!\nPresident Trump just shared this meme on his Truth Social account!\n\"So God made Trump\"pic.twitter.com/OJ27ElQr5V\n— Brenden Dilley (@WarlordDilley) January 5, 2024\n\n\"So God made Trump\" (or simply \"God Made Trump\") was at least partially inspired by a real speech delivered by Harvey in 1978 for the Future Farmers of America convention. That speech was known as, \"So God made a farmer.\"\n",
+    "original_rationals": {
+        "raw_Rationale": "In answer to that question, yes, a \"So God made Trump\" video truly was shared on Trump's official Truth Social account.",
+        "Additional_rationale2": "\"So God made Trump\" (or simply \"God Made Trump\") was at least partially inspired by a real speech delivered by Harvey in 1978 for the Future Farmers of America convention."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The 'True' rating is supported by clear evidence and analysis in the paragraphs, confirming that former President Donald Trump did indeed share a video on his Truth Social account with the repeated words 'So God made Trump,' originally created by his supporters. The text provides specific details about the video, its content, the involvement of known personalities like Marjorie Taylor Greene and Laura Loomer, and how it was shared on various platforms, corroborating the claim's accuracy.",
+        "detailed_reasons": {
+            "reason1": "The text confirms that the video featuring the phrase 'So God made Trump' was indeed posted on former President Donald Trump's official Truth Social account, validating the claim's accuracy.",
+            "reason2": "Specific information is provided about the origins of the video, stating that it was created by a group of Trump supporters known as the Dilley Meme Team, not as an official part of Trump's reelection campaign, adding credibility to the claim.",
+            "reason3": "The paragraph details how prominent personalities such as U.S. Rep. Marjorie Taylor Greene and conservative activist Laura Loomer also shared the video, reinforcing its authenticity and wide circulation among conservative circles.",
+            "reason4": "References to the content of the video, including mentions of Trump fighting the 'deep state,' personal anecdotes, and his accomplishments, further support the claim's truthfulness by aligning with the video's actual narrative shared on social media."
+        }
+    },
+    "evidences": {
+        "evidence0": "\"God Made Trump\" video with Paul Harvey posthumously narrating. Saw coverage first at CNN. Looks like an ad to make Trump look ridiculous, but apparently the intent was to support him. Trump shared it on Truth Social.",
+        "evidence1": "Can you tell us if the \"God Made Trump\" video posted on Truth Social is real or fake?",
+        "evidence2": "“GOD MADE TRUMP” pic.twitter.com/l03fK9SSfC\n— Donald J. Trump Posts From His Truth Social (@TrumpDailyPosts) January 5, 2024",
+        "evidence3": "Congratulations to the Dilley Meme Team!\nPresident Trump just shared this meme on his Truth Social account!\n\"So God made Trump\"pic.twitter.com/OJ27ElQr5V\n— Brenden Dilley (@WarlordDilley) January 5, 2024"
+    },
+    "relationship_with_evidence": [
+        {
+            "relationship_between_raw_Rationale_and_evidence_0": "Supportive. The evidence directly supports the rationale detail by confirming that a 'So God made Trump' video was indeed shared on Trump's official Truth Social account. The evidence describes the video content with Paul Harvey posthumously narrating and indicates that despite initially appearing as an ad to mock Trump, its actual intent was to support him, which aligns with the rationale provided."
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_0": "Supportive. The evidence directly supports the rationale detail by confirming that there exists a 'God Made Trump' video with Paul Harvey narrating, which aligns with the claim that the phrase was inspired by Harvey's speech at the Future Farmers of America convention in 1978."
+        },
+        {
+            "relationship_between_reason1_and_evidence_0": "Supportive. The evidence directly aligns with the rationale detail by confirming that the 'God Made Trump' video, as mentioned in the evidence, was indeed posted on former President Donald Trump's Truth Social account, thereby validating the claim's accuracy."
+        },
+        {
+            "relationship_between_reason2_and_evidence_0": "Supportive. The evidence directly upholds the rationale by confirming that the video, featuring the words 'So God made Trump,' was indeed shared by Trump on his Truth Social account. This aligns with the specific information provided in the rationale detailing the origins of the video and its connection to Trump supporters, thus adding credibility to the claim."
+        },
+        {
+            "relationship_between_reason3_and_evidence_0": "Supportive. The evidence directly supports the rationale detail by confirming the existence of the 'God Made Trump' video mentioned in the rationale. It mentions that Trump shared the video on Truth Social, aligning with the claim and bolstering its credibility regarding the circulation of the video among conservative circles."
+        },
+        {
+            "relationship_between_reason4_and_evidence_0": "Supportive. The evidence directly aligns with the rationale detail by confirming the content of the video mentioned, including the references to Trump fighting the 'deep state,' personal anecdotes, and his accomplishments. The video shared by Trump on Truth Social, featuring the repeated phrase 'So God made Trump,' corresponds to the 'God Made Trump' video with Paul Harvey narrating and the attempt to portray Trump positively despite initial perceptions of ridicule."
+        },
+        {
+            "relationship_between_raw_Rationale_and_evidence_1": "Supportive. The evidence directly validates the rationale detail by confirming the existence of the 'So God made Trump' video shared on Trump's official Truth Social account."
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_reason2_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_reason3_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_reason4_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_raw_Rationale_and_evidence_2": "Supportive. The evidence directly supports the rationale detail by confirming the existence of the 'So God made Trump' video shared on Trump's Truth Social account."
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_2": "Supportive. The evidence directly supports the rationale detail by showing that the phrase 'GOD MADE TRUMP' was indeed shared by Donald Trump on his Truth Social account, aligning closely with the claim that the statement 'So God made Trump' was at least partially inspired by a real speech delivered by Harvey in 1978."
+        },
+        {
+            "relationship_between_reason1_and_evidence_2": "Supportive. The evidence directly confirms the presence of the video with the phrase 'So God made Trump' on Donald Trump's Truth Social account, aligning perfectly with the rationale detail that highlights the video's existence on the platform."
+        },
+        {
+            "relationship_between_reason2_and_evidence_2": "Supportive. The evidence directly aligns with the rationale detail by showing the phrase 'GOD MADE TRUMP', which corroborates the claim that the video with the repeated words 'So God made Trump' was indeed shared by former President Donald Trump on his Truth Social account. This strong correlation between the evidence and the origins of the video supports the credibility of the claim."
+        },
+        {
+            "relationship_between_reason3_and_evidence_2": "Supportive. The evidence directly aligns with the rationale detail by confirming the existence of the video mentioned in the claim, shared by Donald Trump on his Truth Social account. This direct correlation supports the authenticity and wide circulation of the video among conservative circles as indicated in the rationale."
+        },
+        {
+            "relationship_between_reason4_and_evidence_2": "Supportive. The evidence directly aligns with the rationale detail by showing a video where the words 'GOD MADE TRUMP' are repeated, which corresponds to the mention of the video content in the rationale detailing Trump's narrative on social media."
+        },
+        {
+            "relationship_between_raw_Rationale_and_evidence_3": "Supportive. The evidence directly supports the rationale detail as it confirms that the video with the words 'So God made Trump' was indeed shared on former President Donald Trump's Truth Social account on January 5, 2024."
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_3": "Supportive. The evidence directly supports the rationale detail by confirming that former U.S. President Donald Trump indeed shared a video on his Truth Social account with the repeated words 'So God made Trump,' aligning with the assertion that this phrase was at least partially inspired by a real speech delivered by Harvey in 1978."
+        },
+        {
+            "relationship_between_reason1_and_evidence_3": "Supportive. The evidence directly aligns with the rationale detail by confirming that the video containing the phrase 'So God made Trump' was indeed shared on former President Donald Trump's Truth Social account, thus supporting the accuracy of the claim."
+        },
+        {
+            "relationship_between_reason2_and_evidence_3": "Supportive. The evidence directly confirms the rationale detail by mentioning the Dilley Meme Team, as stated in the rationale, providing credibility to the claim that the video was shared on Trump's Truth Social account."
+        },
+        {
+            "relationship_between_reason3_and_evidence_3": "Supportive. The provided evidence directly aligns with the rationale detail by confirming that former U.S. President Donald Trump shared the mentioned video on his Truth Social account. This endorsement from President Trump substantiates the authenticity and wide circulation of the video among conservative circles, as previously stated in the rationale."
+        },
+        {
+            "relationship_between_reason4_and_evidence_3": "Supportive. The evidence directly supports the rationale detail by confirming that former U.S. President Donald Trump shared a meme on his Truth Social account with the words 'So God made Trump,' which aligns with the references to the video content in the rationale."
+        }
+    ]
+}

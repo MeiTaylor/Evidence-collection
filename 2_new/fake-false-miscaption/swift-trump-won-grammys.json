@@ -1,0 +1,42 @@
+{
+    "url": "https://www.snopes.com/fact-check/swift-trump-won-grammys/",
+    "claim_content": "A video shared in early 2024 showed Taylor Swift holding up a flag at the 2024 Grammy Awards that read, \"Trump Won, Democrats Cheated.\"",
+    "rating_content": "Fake",
+    "article_content": "On Feb. 4, 2024, a user on X named il Donaldo Trumpo (@PapiTrumpo) – whose account mentions that it posts \"a little bit of parody\" – posted (archived) a video that appeared to show 14-time Grammy Award-winning recording artist Taylor Swift holding up a flag while walking the red carpet that read, \"Trump Won, Democrats Cheated.\"\n\nWhile the video may have appeared obviously fake to some users, Elon Musk's social media platform X still showed a label that was displayed under the post that identified it as \"manipulated media,\" adding a link to \"find out more\" and \"stay informed.\"\nThe link in the \"manipulated media\" label led to a policy page on help.twitter.com, which showed that remnants of the old name \"Twitter\" could still be found on the platform. The page began, \"You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm ('misleading media'). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.\"\nThe original video posted by Variety on Feb. 4 showed Swift simply walking the red carpet and posing for photos, holding no flags or banners of any kind.\nTaylor Swift is gorgeous at the #Grammys. https://t.co/Imoq8xlJM9 pic.twitter.com/ydotYDoXFI\n— Variety (@Variety) February 5, 2024\n\nAs Snopes previously reported, Swift's past expressions of her political beliefs were somewhat the opposite of the idea of embracing false conspiracy theories about the 2020 U.S. presidential election. For example, she previously expressed views in opposition to the politics of former U.S. President Donald Trump and U.S. Sen. Marsha Blackburn of Tennessee – who are both Republicans – in the 2020 documentary \"Miss Americana\" and on her Instagram account.",
+    "original_rationals": {
+        "raw_Rationale": "The link in the \"manipulated media\" label led to a policy page on help.twitter.com, which showed that remnants of the old name \"Twitter\" could still be found on the platform",
+        "Additional_rationale1": "The original video posted by Variety on Feb. 4 showed Swift simply walking the red carpet and posing for photos, holding no flags or banners of any kind.",
+        "Additional_rationale2": "As Snopes previously reported, Swift's past expressions of her political beliefs were somewhat the opposite of the idea of embracing false conspiracy theories about the 2020 U.S. presidential election."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The claim of Taylor Swift holding up a 'Trump Won, Democrats Cheated' flag at the 2024 Grammy Awards is rated as 'Fake' due to substantial evidence refuting the video's authenticity, including Twitter labeling it as 'manipulated media,' the lack of any flag in the original video by Variety, and Swift's documented opposition to false conspiracy theories in the past.",
+        "detailed_reasons": {
+            "reason1": "Twitter explicitly labeled the video as 'manipulated media,' indicating it was not authentic and directing users to information about misleading content, which undermines the video's credibility.",
+            "reason2": "The original footage from Variety does not show Taylor Swift holding any flag or banner, contradicting the claim made in the video shared on social media, thereby casting doubt on its accuracy.",
+            "reason3": "Swift has a history of speaking out against false political narratives, as evidenced by her previous statements against figures like Donald Trump and Marsha Blackburn, making it unlikely that she would promote a message like 'Trump Won, Democrats Cheated.' This inconsistency further discredits the claim."
+        }
+    },
+    "evidences": {
+        "evidence0": "Taylor Swift is gorgeous at the #Grammys. https://t.co/Imoq8xlJM9 pic.twitter.com/ydotYDoXFI\n— Variety (@Variety) February 5, 2024"
+    },
+    "relationship_with_evidence": [
+        {
+            "relationship_between_raw_Rationale_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason3_and_evidence_0": "Irrelevant"
+        }
+    ]
+}

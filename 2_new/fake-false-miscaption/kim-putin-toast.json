@@ -1,0 +1,38 @@
+{
+    "url": "https://www.snopes.com/fact-check/kim-putin-toast/",
+    "claim_content": "A video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.",
+    "rating_content": "False",
+    "article_content": "A video that frequently goes viral on social media is often presented as an awkward exchange between North Korean leader Kim Jong Un and Russian President Vladimir Putin, betraying a lack of trust between the two. A popular account on X, for example, shared the clip in late 2023 with the caption \"Trust issues\":\n\nThis video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse. The full unedited video shows the action as it occurred, and it ends with both leaders sipping from their drinks after their toast:\n\nThis meeting occurred in Russia on April 25, 2019, following a breakdown of talks between former U.S. President Donald Trump and Kim over North Korea's nuclear program, with Putin attempting to serve as a mediator, as reported by The Washington Post:\nRussian President Vladimir Putin emerged from his first summit with Kim Jong Un [...] saying that North Korea needs international security guarantees, not just U.S. pledges, to consider giving up its nuclear arsenal.\nPutin’s call for more multinational involvement contrasts sharply with President Trump’s strategy of one-on-one dialogue with the North Korean leader. It also reinforced North Korea’s attempt to link security and sanctions relief as twin demands in negotiations over its nuclear program.\nBecause the video was manipulated to suggest a sequence of events that did not happen, the claim is False.",
+    "original_rationals": {
+        "raw_Rationale": "Because the video was manipulated to suggest a sequence of events that did not happen, the claim is False.",
+        "Additional_rationale1": "This video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The 'False' rating is supported by the fact that the video in question depicting Kim Jong Un and Vladimir Putin placing their drinks on the table without consuming them was manipulated. The original, unedited footage shows the leaders actually drinking after toasting, contradicting the misrepresented snippet often circulated on social media.",
+        "detailed_reasons": {
+            "reason1": "The video clip showing Kim Jong Un and Vladimir Putin placing their drinks on the table is revealed to be altered, as explained by the article, where the action was played in reverse to create a misleading appearance.",
+            "reason2": "The unedited video, which captures the real sequence of events, demonstrates that both leaders did consume their drinks after toasting, debunking the false impression created by the manipulated snippet used to support the claim.",
+            "reason3": "The context provided in the text further clarifies that the meeting between Kim Jong Un and Vladimir Putin was held in Russia as a diplomatic effort following discussions related to North Korea's nuclear program, emphasizing the importance of accurate representation over sensationalized, incorrect claims."
+        }
+    },
+    "evidences": {
+        "evidence0": "Russian President Vladimir Putin emerged from his first summit with Kim Jong Un [...] saying that North Korea needs international security guarantees, not just U.S. pledges, to consider giving up its nuclear arsenal.\nPutin’s call for more multinational involvement contrasts sharply with President Trump’s strategy of one-on-one dialogue with the North Korean leader. It also reinforced North Korea’s attempt to link security and sanctions relief as twin demands in negotiations over its nuclear program."
+    },
+    "relationship_with_evidence": [
+        {
+            "relationship_between_raw_Rationale_and_evidence_0": "Supportive. The evidence directly supports the rationale detail by providing information about Putin's statements that align with the idea that the video was manipulated, indicating a false claim."
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason3_and_evidence_0": "Irrelevant"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://www.snopes.com/fact-check/israel-aid-gaza-moldova/",
+    "claim_content": "Israel's official X account made a post on Feb. 4, 2024, about humanitarian aid it said it had provided to Gaza that included a video clip showing an unrelated Ukrainian refugee camp in Moldova.",
+    "rating_content": "True",
+    "article_content": "The protracted, often bloody Israeli-Palestinian conflict exploded into a hot war on Oct. 7, 2023, when the militant Palestinian group Hamas launched a deadly attack on Israel and Israel retaliated by bombarding the Gaza Strip. More than 20,000 people, the vast majority of them Palestinians, were reportedly killed during the first two months of the war alone. The violence is driven by mutual hostilities and territorial ambitions dating back more than a century. The internet has become an unofficial front in that war and is rife with misinformation, which Snopes is dedicated to countering with facts and context. You can help. Read the latest fact checks. Submit questionable claims. Become a Snopes Member to support our work. We welcome your participation and feedback.\nOn Feb. 4, 2024, the @Israel account on X — Israel's official presence on the social media platform — posted a 30-second video listing the humanitarian aid it claimed it had provided for the people of Gaza in the months since the Israel-Hamas war began.\nA claim emerged the following week that footage included in the video depicted an unrelated Ukrainian refugee camp, not Gaza. We rate this claim as \"True.\"\nAbove the video in the post on X, the caption included a list that claimed Israel had provided aid to Gazans in the form of 11,000 trucks, 140,000 tons of food, 1,000 water trucks, 17,000 tons of medical supplies and 23,000 tons of tents and shelter equipment.\n\"Israel will continue to facilitate the transfer of life-saving humanitarian aid to Gaza,\" the post continued. \"Our war is with Hamas, not with the people of Gaza.\" The post ended with the hashtag #FreeGazaFromHamas.\nDuring the brief video, a narrator's voice-over mentioned the same statistics regarding aid Israel said it had provided to Gaza.\n\"Israel does not limit the amount of humanitarian aid that can enter Gaza,\" the narrator began. \"Since Hamas attacked Israel on Oct. 7, over 11,000 trucks of humanitarian aid have entered Gaza, carrying over 140,000 tons of food, over 1,000 water trucks, almost 17,000 tons of medical supplies and approximately 23,000 tons of tents and shelter equipment. We are at war with Hamas, not the people of Gaza.\"\nEight days later, on Feb. 12, @Israel's post and video from @Israel were no longer available and appeared to have been deleted. Shortly before the post disappeared, BBC Verify journalist Shayan Sardarizadeh reported via X, \"The official state of Israel account has posted this video, saying it is facilitating aid into Gaza. A short clip at the end of the video, claiming to show tents and shelter equipment for Gazans, was actually filmed in March 2022, showing tents in Moldova for Ukrainian refugees.\"\nThe official state of Israel account has posted this video, saying it is facilitating aid into Gaza.\nA short clip at the end of the video, claiming to show tents and shelter equipment for Gazans, was actually filmed in March 2022, showing tents in Moldova for Ukrainian refugees. pic.twitter.com/gKW2O1VdPF\n— Shayan Sardarizadeh (@Shayan86) February 12, 2024\n\nThe same brief video clip that appeared at the end of the video posted by @Israel to represent \"approximately 23,000 tons of tents and shelter equipment\" was available on the Getty Images website, where it was dated as having been recorded on March 21, 2022. It was originally described as follows: \"Land arranged on the territory of Moldova with tents near the border of Ukraine for refugees coming from the war in Ukraine.\"\nThis video clip had nothing to do with Israel or Gaza.\nAs of this writing, the same video that had been posted and removed from the @Israel account on X was available from official social media accounts for the Embassy of Israel in the U.S., including on Facebook, X, Instagram and TikTok.\nSnopes reached out to Israel's Ministry of Foreign Affairs to ask about the removed post and will update this story if a response is received.",
+    "original_rationals": {
+        "raw_Rationale": "A claim emerged the following week that footage included in the video depicted an unrelated Ukrainian refugee camp, not Gaza. We rate this claim as \"True.\"",
+        "Additional_rationale1": "During the brief video, a narrator's voice-over mentioned the same statistics regarding aid Israel said it had provided to Gaza."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The 'True' rating of the claim is supported by the evidence that the video posted by Israel's official account on humanitarian aid for Gaza actually contained footage of a Ukrainian refugee camp in Moldova. The post claimed to provide assistance to Gaza but used an unrelated video. The misrepresentation was confirmed by BBC Verify journalist Shayan Sardarizadeh, pointing to the discrepancy between the content and the caption. The fact that the video was removed from Israel's account but remained on other official social media platforms adds to the veracity of the claim's rating.",
+        "detailed_reasons": {
+            "reason1": "The presence of a video clip in the post by Israel's official account that did not depict aid to Gaza but rather footage from a Ukrainian refugee camp supports the 'True' rating.",
+            "reason2": "Confirmation from BBC Verify journalist Shayan Sardarizadeh that the clip was unrelated to Gaza aid and was actually filmed in Moldova for Ukrainian refugees adds credibility to the claim being rated as 'True.'",
+            "reason3": "The removal of the video post by @Israel after the misrepresentation was exposed, while the same video remained available on other official social media platforms, strengthens the argument for the rating of 'True.'"
+        }
+    },
+    "evidences": {
+        "evidence0": "The protracted, often bloody Israeli-Palestinian conflict exploded into a hot war on Oct. 7, 2023, when the militant Palestinian group Hamas launched a deadly attack on Israel and Israel retaliated by bombarding the Gaza Strip. More than 20,000 people, the vast majority of them Palestinians, were reportedly killed during the first two months of the war alone. The violence is driven by mutual hostilities and territorial ambitions dating back more than a century. The internet has become an unofficial front in that war and is rife with misinformation, which Snopes is dedicated to countering with facts and context. You can help. Read the latest fact checks. Submit questionable claims. Become a Snopes Member to support our work. We welcome your participation and feedback.",
+        "evidence1": "The official state of Israel account has posted this video, saying it is facilitating aid into Gaza.\nA short clip at the end of the video, claiming to show tents and shelter equipment for Gazans, was actually filmed in March 2022, showing tents in Moldova for Ukrainian refugees. pic.twitter.com/gKW2O1VdPF\n— Shayan Sardarizadeh (@Shayan86) February 12, 2024"
+    },
+    "relationship_with_evidence": [
+        {
+            "relationship_between_raw_Rationale_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_0": "Supportive. The evidence provided corroborates the rationale detail by highlighting the context of the Israeli-Palestinian conflict and the presence of misinformation, indirectly indicating how the video clip from the Ukrainian refugee camp in Moldova instead of Gaza aligns with the 'True' rating."
+        },
+        {
+            "relationship_between_reason2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason3_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_raw_Rationale_and_evidence_1": "Refute. The evidence contradicts the rationale by directly revealing that the footage in the video depicting aid for Gaza actually shows tents in Moldova for Ukrainian refugees, indicating a clear contradiction between the two concerning the content shown in the video."
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_1": "Refute. The evidence directly contradicts the rationale detail by showing that the statistics mentioned in the video clip about aid provided to Gaza were actually associated with an unrelated Ukrainian refugee camp in Moldova, thus refuting the claim made in the rationale."
+        },
+        {
+            "relationship_between_reason1_and_evidence_1": "Refute. The evidence directly contradicts the rationale detail by showing that the video clip in the post did not depict aid to Gaza as claimed by Israel's official account, but rather it showed footage from a Ukrainian refugee camp in Moldova. This opposition clearly disputes the assertion made in the rationale."
+        },
+        {
+            "relationship_between_reason2_and_evidence_1": "Refute. The evidence directly contradicts the rationale detail by confirming that the video clip showing tents and shelter equipment for Gazans was actually filmed in Moldova for Ukrainian refugees, not related to aid in Gaza. This opposition between the evidence and the rationale detail refutes the credibility of the claim being rated as 'True.'"
+        },
+        {
+            "relationship_between_reason3_and_evidence_1": "Refute. The evidence directly contradicts the rationale detail by showcasing that the video posted regarding aid to Gaza included footage of a Ukrainian refugee camp in Moldova, not Gaza as claimed. This misrepresentation undermines the credibility and truthfulness of the original post, thus refuting the argument for the 'True' rating."
+        }
+    ]
+}

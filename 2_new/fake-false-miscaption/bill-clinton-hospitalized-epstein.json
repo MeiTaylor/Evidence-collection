@@ -1,0 +1,21 @@
+{
+    "url": "https://www.snopes.com/fact-check/bill-clinton-hospitalized-epstein/",
+    "claim_content": "A video shared online in January 2024 accurately showed former U.S. President Bill Clinton greeting medical workers outside of a hospital in an attempt to distract the news media from his connections to the late Jeffrey Epstein, a convicted sex offender.",
+    "rating_content": "Miscaptioned",
+    "article_content": "On Jan. 2, 2024, a video was posted to X, formerly known as Twitter, showing former U.S. President Bill Clinton shaking hands with hospital workers. The account simply captioned the video, \"Bill?\"\n (X user @malachimaxeyusa)\nWhile the video itself appeared rather innocent, the replies to the tweet and other reposts of the same video revealed that viewers thought it was theoretically showing Clinton engaging in some sort of public relations campaign to distract the news media and general population from his ties to the late, disgraced financier and sex criminal Jeffrey Epstein. As one repost put it, Clinton was engaging in a \"Harvey Weinstein fake hurt scam.\" Epstein was back in the news after a judge ordered documents unsealed in a lawsuit filed against his associate/partner in crime, Ghislaine Maxwell.\nThe video was real, but the insinuations about it were false. \nSnopes found the same moment shown in the X clip in a video on CNN Politics. In that video, which was posted on Oct. 17, 2021, Clinton walked out of a California hospital after being treated for an infection. We cross-checked that CNN clip with an Al Jazeera article documenting the same event. Because the video is real, but the context around it is verifiably false, we have rated this claim as \"Miscaptioned.\"\nClinton has been the frequent subject of claims spread online connecting him to Epstein and Maxwell.\nAmong the claims was a video of Hillary Clinton supposedly threatening to assassinate anyone who connected her husband with Epstein (false) or photos of Epstein with the former president (true). A 2019 article from The New York Times uncovered more details about the connections between the two men.",
+    "original_rationals": {
+        "raw_Rationale": "Because the video is real, but the context around it is verifiably false, we have rated this claim as \"Miscaptioned.\"",
+        "Additional_rationale1": "The video was real, but the insinuations about it were false.",
+        "Additional_rationale2": "Clinton has been the frequent subject of claims spread online connecting him to Epstein and Maxwell."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The claim about the video showing Bill Clinton outside a hospital was rated as 'Miscaptioned' because although the video was authentic, the insinuations made about it were false. The context surrounding the video, suggesting Clinton was attempting to distract the media from his association with Jeffrey Epstein, was inaccurate.",
+        "detailed_reasons": {
+            "reason1": "The video in question indeed showed Bill Clinton interacting with hospital workers, as verified by Snopes cross-referencing the footage with other sources like CNN Politics and Al Jazeera. This authenticity of the video itself contrasts with the misinterpretation and false narrative surrounding it.",
+            "reason2": "Various viewers misinterpreted the video, perceiving it as Clinton's alleged attempt to divert attention from his connections to Jeffrey Epstein. However, the text clarifies that these assumptions were unsubstantiated and that the video's context was inaccurately portrayed by viewers.",
+            "reason3": "The historical context provided regarding Clinton's online scrutiny related to Epstein and the mention of the false claims about Hillary Clinton and Epstein further contextualize why this particular video was miscaptioned. The pattern of online claims associating the Clintons with Epstein adds weight to the assessment that this specific video was inaccurately characterized."
+        }
+    },
+    "evidences": {},
+    "relationship_with_evidence": []
+}

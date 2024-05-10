@@ -1,0 +1,80 @@
+{
+    "url": "https://www.snopes.com/fact-check/young-girls-epsteins-island/",
+    "claim_content": "A viral video shared in January 2023 authentically shows young girls in a house on Jeffrey Epstein's island.",
+    "rating_content": "Unfounded",
+    "article_content": "On Jan. 4, 2024, a video was shared on X (formerly Twitter), allegedly showing \"very young girls\" in a house on the island of the late, convicted sex offender Jeffrey Epstein. \"One of hundreds of videos of the girls from the interior of Epstein's island,\" one of the Spanish-language posts captioned the viral video. As of this writing, one post with the in-question video gained more than 1.5 million views on X.\n \n(X user @terra_cremada)\nThe post's description read:\nOne publicly released vid out of hundreds..showing these very young girls from the interior of Epstein's island.\nWhat is it they’re doing, and to what, and WHY!?\nWHAT ARE THEY PREPARING!???\nWhat do you see??\nEpstein was back in the news in early 2024 after a judge ordered documents unsealed in a lawsuit filed against his associate/partner in crime, Ghislaine Maxwell. Epstein died in jail at his own hands in 2019 while awaiting trial on charges of sex trafficking young girls. The unsealing of the documents caused a stir on social media, with various rumors appearing on the topic.\nIn short, we found no evidence the viral video revealed girls on Epstein's island.\nWe used Google reverse-image search to investigate the origins of the video and found it was shared multiple times in 2019 and 2020. For instance, one post on Reddit linked the video with actor Tom Hanks with a caption, \"Man Claims Tom Hanks is a Pedophile, releases video upon death.\" Moreover, we found instances of the video being shared in 2019 in a Facebook post and on an online 4chan forum.\nMultiple social media users also linked the video to the QAnon and Pizzagate conspiracy theories, as well as Isaac Kappy, an American actor, musician, and conspiracy theorist.\nVideo shared by the actor Isaac Kappy before he was killed for reporting the Elite Human Trafficking and Child Abuse Network. The video was recorded on Jeffrey Epstein's private Pedophile’s Island. Isaac \"committed suicide by jumping off a bridge\" #PIZZAGATE #PizzaGateIsReal pic.twitter.com/vwerTnllnj\n— ANONYMOUS (@Anonymous2Hack) June 3, 2020\n\n\"Video posted by actor and musician Isaac Kappy, who was found dead shortly after,\" a post in Portuguese shared on X in February 2023 captioned the viral video. For reference, Politifact reported in January 2023 that social media users believed \"Kappy was murdered for exposing Hollywood pedophiles,\" and did not commit suicide as officials informed.\nFinally, various social media users suggested the video was not captured in a house on Epstein's island. \"It is the 5-star Hotel - Titanic Mardin Palace, a Disney hotel in Turkey for children with water parks,\" one X user claimed.\n?Este video viralizado, no corresponde a la Isla de Epstein.\nEs el Hotel 5 estrellas - Titanic Mardin Palace, un hotel de Disney en turquia para niños con parques acuaticos.\nOjo con las fake news! pic.twitter.com/5wluDForKm\n— ~ María Miral ~?~ (@MariaMiral12) January 5, 2024\n\n\"This was from the Anjana hotel in Turkey,\" another user commented.\n \n(X user @artandsoulpaper)\nWe compared the in-question video with the spa in The Land of Legends Kingdom Hotel videos and photographs shared on TripAdvisor and found they showed a similar room. However, given that we could not confirm it independently, and that a similarly looking Turkish bath could possibly be found in other hotels, we were unable to determine the exact location of the scene visible in the viral video.\nAll in all, because we found no evidence for the viral video being captured in a house on Epstein's island, we have rated this claim as \"Unfounded.\"",
+    "original_rationals": {
+        "raw_Rationale": "All in all, because we found no evidence for the viral video being captured in a house on Epstein's island, we have rated this claim as \"Unfounded.\"",
+        "Additional_rationale1": "We used Google reverse-image search to investigate the origins of the video and found it was shared multiple times in 2019 and 2020.",
+        "Additional_rationale2": "Multiple social media users also linked the video to the QAnon and Pizzagate conspiracy theories, as well as Isaac Kappy, an American actor, musician, and conspiracy theorist."
+    },
+    "summary_rationals": {
+        "synthesized_rationale": "The 'Unfounded' rating is justified based on the lack of evidence supporting the claim that the viral video shows young girls in a house on Jeffrey Epstein's island. Multiple instances point to the video being shared on social media platforms prior to the alleged connection to Epstein's island, with links to conspiracy theories and other locations like a hotel in Turkey. Additionally, the uncertainty regarding the video's location and matching room with a Turkish spa further discredits the claim about the setting on Epstein's island.",
+        "detailed_reasons": {
+            "reason1": "The article highlights that the viral video was shared multiple times before it was associated with Epstein's island and was linked to conspiracy theories and unrelated events, diminishing its credibility.",
+            "reason2": "Social media users pointed out specific details in the video that suggested it was not filmed on Epstein's island, such as references to a hotel in Turkey having a similar room layout. This challenges the initial assumption about the video's location.",
+            "reason3": "Despite similarities between the video and a room in a Turkish hotel, the lack of definitive confirmation regarding the video's actual setting further weakens the claim. The inability to independently verify the location significantly undermines the credibility of the assertion."
+        }
+    },
+    "evidences": {
+        "evidence0": "One publicly released vid out of hundreds..showing these very young girls from the interior of Epstein's island.\nWhat is it they’re doing, and to what, and WHY!?\nWHAT ARE THEY PREPARING!???\nWhat do you see??",
+        "evidence1": "Video shared by the actor Isaac Kappy before he was killed for reporting the Elite Human Trafficking and Child Abuse Network. The video was recorded on Jeffrey Epstein's private Pedophile’s Island. Isaac \"committed suicide by jumping off a bridge\" #PIZZAGATE #PizzaGateIsReal pic.twitter.com/vwerTnllnj\n— ANONYMOUS (@Anonymous2Hack) June 3, 2020",
+        "evidence2": "?Este video viralizado, no corresponde a la Isla de Epstein.\nEs el Hotel 5 estrellas - Titanic Mardin Palace, un hotel de Disney en turquia para niños con parques acuaticos.\nOjo con las fake news! pic.twitter.com/5wluDForKm\n— ~ María Miral ~?~ (@MariaMiral12) January 5, 2024"
+    },
+    "relationship_with_evidence": [
+        {
+            "relationship_between_raw_Rationale_and_evidence_0": "Refute. The evidence directly contradicts the rationale by showing a video of young girls on Epstein's island, aligning with the claim, despite the rationale stating there was no evidence for such videos being captured on the island."
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason2_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_reason3_and_evidence_0": "Irrelevant"
+        },
+        {
+            "relationship_between_raw_Rationale_and_evidence_1": "Refute. The evidence unequivocally contradicts the rationale by directly asserting that the video was recorded on Jeffrey Epstein's private Pedophile’s Island, while the rationale states no evidence was found for the video being captured on Epstein's island."
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_1": "Refute. The evidence directly contradicts the rationale as the video shared by Isaac Kappy associates the content with conspiracy theories and events that the rationale detail does not support, implying different underlying meanings."
+        },
+        {
+            "relationship_between_reason1_and_evidence_1": "Supportive. The evidence directly supports the rationale as it confirms that the viral video was indeed recorded on Jeffrey Epstein's private island, aligning with the claim. Moreover, the mention of conspiracy theories and unrelated events associated with the video, as highlighted in the rationale, is reinforced by the hashtags #PIZZAGATE and #PizzaGateIsReal in the evidence, indicating its controversial and dubious nature."
+        },
+        {
+            "relationship_between_reason2_and_evidence_1": "Refute. The evidence directly contradicts the rationale detail by asserting that the video was recorded on Jeffrey Epstein's private island, which opposes the social media users' points about the video not being filmed on Epstein's island due to references to a hotel in Turkey. Therefore, the evidence refutes the initial assumption about the video's location."
+        },
+        {
+            "relationship_between_reason3_and_evidence_1": "Irrelevant"
+        },
+        {
+            "relationship_between_raw_Rationale_and_evidence_2": "Refute. The evidence directly contradicts the rationale by stating that the viral video is not from Epstein's island but rather from Titanic Mardin Palace, a Disney hotel in Turkey with water parks, highlighting the presence of fake news in the claim."
+        },
+        {
+            "relationship_between_Additional_rationale1_and_evidence_2": "Irrelevant"
+        },
+        {
+            "relationship_between_Additional_rationale2_and_evidence_2": "Irrelevant"
+        },
+        {
+            "relationship_between_reason1_and_evidence_2": "Irrelevant"
+        },
+        {
+            "relationship_between_reason2_and_evidence_2": "Refute. The evidence provided directly contradicts the rationale detail by stating that the viral video does not correspond to Epstein's Island but instead shows a 5-star hotel in Turkey, thus opposing the initial assumption made in the rationale."
+        },
+        {
+            "relationship_between_reason3_and_evidence_2": "Refute. The evidence directly contradicts the rationale by confirming that the viral video does not correspond to Epstein's island but rather shows a hotel in Turkey, thereby undermining the claim's credibility."
+        }
+    ]
+}
