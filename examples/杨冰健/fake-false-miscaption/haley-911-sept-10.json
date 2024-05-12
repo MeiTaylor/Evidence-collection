@@ -1,0 +1,79 @@
+{
+    "url": "https://www.snopes.com/fact-check/haley-911-sept-10/",
+    "content": "On Feb. 11, 2024, the @BidenHQ account on X posted (archived), \"Seconds after trying to question President Biden's mental acuity, Haley claims that 9/11 happened on 'September 10th.'\"\nThe @BidenHQ account is an official rapid-response presence for U.S. President Joe Biden's reelection campaign.\nSeconds after trying to question President Biden's mental acuity, Haley claims that 9/11 happened on \"September 10th\" pic.twitter.com/9JRMlTXaYF\n— Biden-Harris HQ (@BidenHQ) February 11, 2024\n\nThe post referenced a remark made that morning on CBS News' \"Face the Nation\" by former U.N. Ambassador and 2024 Republican presidential hopeful Nikki Haley.\nAccording to the post, Haley mistakenly said the 9/11 terrorist attacks — which took place on Sept. 11, 2001 — occurred on Sept. 10.\nHowever, the context shows that Haley did not say that, so we rate this claim as \"False.\"\nAccording to the CBS News transcript, Haley said these exact words: \"The last thing we ever want to do is side with Russia. What we always need to remember is America needs to have friends. After September 10, we needed a lot of friends. We can never get into the point where we don't need friends.\"\nThis moment can be watched beginning at the 2:11 mark in this official video upload on the \"Face the Nation\" YouTube channel:\n\nThis remark did not receive widespread attention but was featured in at least two online reports. Those reports lacked the context that follows.\nKey to dispelling this rumor is the fact that the U.S. received international support the same day the attacks occurred. In Haley's own words from the Feb. 11 TV broadcast, \"After September 10, we needed a lot of friends.\" The U.S. got \"a lot of friends\" on Sept. 11, 2001.\nFor example, on Sept. 12, The New York Times reported, \"The world's governments expressed solidarity last night with the United States as a democracy under attack, and European Union foreign ministers and NATO ambassadors planned separate meetings tomorrow to discuss what could be done in a common battle against terrorism.\"\nWhile it was still Sept. 11 in the U.S., messages received within hours of the attacks also included a telegram from Russian President Vladimir Putin that promised support for retaliation, as well as a message of sympathy from President Jiang Zemin of China.\nFurther, in the months prior to Haley's remark, in a section that appeared over and over again in an apparent stump speech, Haley mentioned on multiple occasions the differences between the way Americans may have felt on Sept. 10, the day before 9/11, versus Sept. 12, the day after. That part of her speech referenced the threat of Hamas during the Israel-Hamas war and the security of U.S. borders.\nFor example, this sentiment was posted to Haley's account on X as far back as Oct. 28, 2023, after she delivered a speech in Las Vegas, Nevada.\nThe world is on fire. But here in America, we're acting like it's September 10... We need to remember what it felt like on September 12. America has to get this right. For the sake of our brothers & sisters in Israel. For the sake of the American people. #RJCVegas\n— Nikki Haley (@NikkiHaley) October 28, 2023\n\nDays later, on Nov. 2, 2023, Haley appeared on Fox News and said, \"We're acting like it's Sept. 10. And I'm telling you, America better remember what Sept. 12 felt like, because we've got an open border, and we've got terrorists that want to kill us, and we need to start acting like it.\"\nHaley repeated that sentiment about Sept. 10 and 12 in speeches available on C-SPAN's website that were recorded on Dec. 12 (32:29) and 28 (31:44), 2023, and Jan. 16 (21:25) and 19 (22:05), 2024.\nIn other words, Haley repeatedly made a point of comparing Sept. 10 to Sept. 12, emphasizing they were two very different days, separated by one day: 9/11.\nSnopes contacted Haley's campaign by email to ask about the Biden campaign post and will update this story if a response is received.",
+    "original_rationales": {
+        "main_rational": "However, the context shows that Haley did not say that, so we rate this claim as \"False.\"",
+        "addtional_rational1": "Key to dispelling this rumor is the fact that the U.S. received international support the same day the attacks occurred.",
+        "addtional_rational2": "That part of her speech referenced the threat of Hamas during the Israel-Hamas war and the security of U.S. borders.",
+        "addtional_rational3": "In other words, Haley repeatedly made a point of comparing Sept. 10 to Sept. 12, emphasizing they were two very different days, separated by one day: 9/11."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that Nikki Haley stated on 'Face the Nation' that the 9/11 attacks happened on September 10, 2001, is rated as 'False' based on a misinterpretation of her actual remarks. Haley did not inaccurately cite the date of the attacks; instead, she emphasized the need for international support post-9/11. The claim lacks context and misrepresents Haley's statements.",
+        "detailed_reasons": {
+            "reason1": "Nikki Haley did not state that the 9/11 attacks occurred on September 10, as claimed. She mentioned the need for friendship and support post-9/11, highlighting the significance of international relations following the tragic event.",
+            "reason2": "The post that attributed the false claim to Haley misinterpreted her words from the 'Face the Nation' interview. In reality, Haley's statement emphasized the importance of solidarity and alliances after the September 11 attacks, not a mistaken date reference.",
+            "reason3": "Haley's consistent messaging in various speeches prior to the alleged misquote further reinforces the misrepresentation of her views. By repeatedly contrasting the days of September 10 and September 12 in different contexts, Haley underscored the significance of the 9/11 attacks on the nation."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Seconds after trying to question President Biden's mental acuity, Haley claims that 9/11 happened on \"September 10th\" pic.twitter.com/9JRMlTXaYF\n— Biden-Harris HQ (@BidenHQ) February 11, 2024",
+            [
+                "https://t.co/9JRMlTXaYF",
+                "https://twitter.com/BidenHQ/status/1756724067204211014?ref_src=twsrc%5Etfw"
+            ]
+        ],
+        "evidence2": [
+            "The world is on fire. But here in America, we're acting like it's September 10... We need to remember what it felt like on September 12. America has to get this right. For the sake of our brothers & sisters in Israel. For the sake of the American people. #RJCVegas\n— Nikki Haley (@NikkiHaley) October 28, 2023",
+            [
+                "https://twitter.com/hashtag/RJCVegas?src=hash&ref_src=twsrc%5Etfw",
+                "https://twitter.com/NikkiHaley/status/1718341719719280962?ref_src=twsrc%5Etfw"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "<main_rational,evidence1>": "Refute. The evidence directly contradicts the rationale detail as it shows Nikki Haley stating that the 9/11 terrorist attacks happened on 'September 10th', which aligns with the claim being rated as 'False'."
+        },
+        {
+            "<addtional_rational1,evidence1>": "Refute. The evidence directly contradicts the rationale detail by showing that Nikki Haley incorrectly stated that the 9/11 attacks happened on September 10, 2001, which is the opposite of the truth that the attacks occurred on September 11, 2001."
+        },
+        {
+            "<addtional_rational2,evidence1>": "Refute. The evidence directly contradicts the rationale detail as it shows that Nikki Haley inaccurately stated that the 9/11 terrorist attacks happened on September 10th, 2001, which is false information. This directly opposes the mention in the rationale of her discussing the threat of Hamas during the Israel-Hamas war and the security of U.S. borders."
+        },
+        {
+            "<addtional_rational3,evidence1>": "Refute. The evidence directly contradicts the rationale detail by showing that Nikki Haley falsely claimed that the 9/11 terrorist attacks happened on September 10th, which is opposite to the emphasis made in the rationale about Sept. 10th and Sept. 12th being separated by one day."
+        },
+        {
+            "<reason1,evidence1>": "Refute. The evidence directly contradicts the rationale by showing that Nikki Haley incorrectly stated that the 9/11 attacks happened on September 10th, which opposes the clarification provided in the rationale."
+        },
+        {
+            "<reason2,evidence1>": "Refute. The evidence directly contradicts the rationale detail as it shows Nikki Haley incorrectly stating that 9/11 happened on September 10th, which aligns with the false claim attributed to her."
+        },
+        {
+            "<reason3,evidence1>": "Refute. The evidence directly contradicts the rationale detail by showing that Nikki Haley herself stated that the 9/11 attacks happened on September 10th, which is in direct opposition to the claim made in the rationale that Haley underscored the significance of the attacks on the nation."
+        },
+        {
+            "<main_rational,evidence2>": "Refute. The evidence directly contradicts the rationale detail as Nikki Haley's tweet mentions the importance of remembering September 12, which is the day after the 9/11 attacks, indicating that she did not state that the attacks happened on September 10."
+        },
+        {
+            "<addtional_rational1,evidence2>": "Irrelevant"
+        },
+        {
+            "<addtional_rational2,evidence2>": "Refute. The evidence provided by Nikki Haley mentioning the need to remember what it felt like on September 12 directly contradicts the claim she made about the 9/11 terrorist attacks happening on September 10, 2001."
+        },
+        {
+            "<addtional_rational3,evidence2>": "Refute. The evidence provided directly contradicts the rationale detail by stating that America is acting like it's September 10 and emphasizing the need to remember what it felt like on September 12, which aligns with the actual 9/11 attack date of September 11. This clear contradiction refutes the Rationale Detail."
+        },
+        {
+            "<reason1,evidence2>": "Refute. The evidence provided directly contradicts the rationale detail by stating the need to remember what it felt like on September 12, implying that the significance of September 11 and the aftermath was vital. This directly opposes the claim that Nikki Haley suggested the 9/11 attacks occurred on September 10."
+        },
+        {
+            "<reason2,evidence2>": "Supportive. The evidence directly supports the rationale by emphasizing the importance of remembering the atmosphere and unity post the September 11 attacks, which aligns with Haley's focus on solidarity and alliances in her statement."
+        },
+        {
+            "<reason3,evidence2>": "Refute. The evidence provided directly contradicts the rationale detail by mentioning September 12 instead of September 11. This demonstrates a clear opposition to the claim made by Nikki Haley about the date of the 9/11 attacks."
+        }
+    ]
+}
