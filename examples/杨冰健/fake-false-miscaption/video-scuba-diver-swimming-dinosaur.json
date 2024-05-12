@@ -1,0 +1,103 @@
+{
+    "url": "https://www.snopes.com/fact-check/video-scuba-diver-swimming-dinosaur/",
+    "claim": "A video shared to X in March 2024 genuinely showed a scuba diver swimming with a dinosaur.",
+    "rating": "Fake",
+    "content": "A video shared to X (formerly Twitter) on March 4, 2024, (archive) claimed to show \"Divers in the Pacific Ocean [who] accidentally filmed a dinosaur 🦕 swimming behind them.\" The post, which included a clip of what appeared to be a swimming dinosaur passing by a stationary, masked scuba diver, suggested the video provided evidence that \"they\" were trying to hide the existence of modern-day dinosaurs: \n🤯 They are now trying to remove this video from the Internet. It shows evidence that we have been lied to all along and that dinosaurs exist.\nDivers in the Pacific Ocean accidentally filmed a dinosaur 🦕 swimming behind them.#viralvideo pic.twitter.com/7MhdenxWMI\n— Roman K (@KkeKarnaame) March 4, 2024\n\nThe same brief clip (archive) was shared by another account the following day in a post that had received more than 1.7 million views as of this publication. This post, however, included a Community Note reporting that the video consisted of doctored footage from the 2022 TV docuseries \"Prehistoric Planet.\" In other words, it's fake.\nThe show, starring David Attenborough, is described as follows: \nExperience the wonders of our world like never before in this epic series from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies. \nThe clip featured in the X post was uploaded to YouTube by a user not affiliated with the show on July 9, 2023 (archive). Footage of the dinosaur swimming can be seen at the 2:38-minute mark of the video: \n\nThe Community Note identified the dinosaur as a plesiosaur, an order of carnivorous aquatic reptile primarily found in aquatic environments during the late Cretaceous periods, roughly 100 million years ago. A Google search of the keywords \"plesiosaur Prehistoric Planet\" (archive) led Snopes to the Prehistoric Planet Wiki Fandom page (archive) that stated the dinosaur appeared in the episode \"Coasts, Segment III,\" which was described by the Internet Movie Database (IMDb) this way:\nA pregnant Tuarangisaurus is in distress and her young calf can sense it as she travels waters that are home to the ocean's deadliest predators.\nFinally, Snopes went to the couch to stream the entire episode to confirm that the clip featured in the post on X did, indeed, originate from the \"Prehistoric Planet\" series. We watched the entire 42-minute episode and found that the scene in question occurred at the 20-minute mark, at which point Attenborough described the scene as: \nThese are Tuarangisaurus, a type of huge marine reptile nearly 30 feet long. This female is accompanied by her calf, about six months old. At most, she'll have only one youngster every two years or so. It's a huge investment and one that makes the bond between mother and young very important. She has brought her young calf many miles to this one bay. And they're not alone. Tuarangisaurus come here from across the South Pacific. \nMales also gather here to display to females. But for now, courtship is not the female's first priority. This bay has something that few others can provide: Pebbles, that are particularly smooth, hard, and round … \nAt this river bed it is thought that the Tuarangisaurus swallow pebbles to \"act both as ballast and as gizzard stones, gastroliths, which will remain in their stomachs to grind up their unchewed food.\" \nThe episode only identifies the reptile as being in the genus Tuarangisaurus. The Wiki Page, however, goes so far as to suggest that it is Tuarangisaurus keyesi. \nT. keyesi was first characterized in 1986 as having a \"remarkable skull and partial postcranial skeleton\" as seen in a \"very juvenile\" specimen recovered in New Zealand. The aquatic reptile was described by scientists in 2017 as \"one of the most successful marine reptile groups\" that were \"characterized by having a long neck and small head relative to body size.\" A photograph (archive) of the skull was shared on Facebook on April 29, 2021, by GNS Science, New Zealand's \"leading geoscience research institute.\" \n\nAnd what of the scuba diver in the video clip? Footage of the diver was obviously combined with footage of the CGI dinosaur from \"Prehistoric Planet,\" but beyond that we haven't been able to ascertain who was responsible for the doctored video.",
+    "original_rationales": {
+        "main_rationale": "This post, however, included a Community Note reporting that the video consisted of doctored footage from the 2022 TV docuseries \"Prehistoric Planet.\" In other words, it's fake.",
+        "additional_rationale2": "The Community Note identified the dinosaur as a plesiosaur, an order of carnivorous aquatic reptile primarily found in aquatic environments during the late Cretaceous periods, roughly 100 million years ago."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that the video showed a scuba diver swimming with a dinosaur is rated as 'Fake' because the video was confirmed to be doctored footage from a TV docuseries called 'Prehistoric Planet.' The Community Note highlighted the manipulation of the footage, identifying the dinosaur as a plesiosaur featured in the show. Further investigation by Snopes revealed that the scene with the 'dinosaur' actually originated from the TV series, confirming the inauthenticity of the video.",
+        "detailed_reasons": {
+            "reason1": "The video was flagged as fake by a Community Note attached to a repost, which explicitly stated that the footage was manipulated from a TV series, discrediting the original claim of the scuba diver swimming with a real dinosaur.",
+            "reason2": "Subsequent verification by Snopes confirmed that the clip in question was indeed from the TV series 'Prehistoric Planet,' featuring a scripted scene described by David Attenborough, thus invalidating the authenticity of the content shared in the video.",
+            "reason3": "The specific identification of the dinosaur in the footage as a plesiosaur, an extinct aquatic reptile from millions of years ago, further solidifies the conclusion that the video was not genuine but rather a creation from the TV show 'Prehistoric Planet.'"
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 4,
+        "evidence1": [
+            "🤯 They are now trying to remove this video from the Internet. It shows evidence that we have been lied to all along and that dinosaurs exist.\nDivers in the Pacific Ocean accidentally filmed a dinosaur 🦕 swimming behind them.#viralvideo pic.twitter.com/7MhdenxWMI\n— Roman K (@KkeKarnaame) March 4, 2024",
+            [
+                "https://twitter.com/hashtag/viralvideo?src=hash&ref_src=twsrc%5Etfw",
+                "https://t.co/7MhdenxWMI",
+                "https://twitter.com/KkeKarnaame/status/1764699094692565033?ref_src=twsrc%5Etfw"
+            ]
+        ],
+        "evidence2": [
+            "Experience the wonders of our world like never before in this epic series from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+            []
+        ],
+        "evidence3": [
+            "A pregnant Tuarangisaurus is in distress and her young calf can sense it as she travels waters that are home to the ocean's deadliest predators.",
+            []
+        ],
+        "evidence4": [
+            "These are Tuarangisaurus, a type of huge marine reptile nearly 30 feet long. This female is accompanied by her calf, about six months old. At most, she'll have only one youngster every two years or so. It's a huge investment and one that makes the bond between mother and young very important. She has brought her young calf many miles to this one bay. And they're not alone. Tuarangisaurus come here from across the South Pacific. \nMales also gather here to display to females. But for now, courtship is not the female's first priority. This bay has something that few others can provide: Pebbles, that are particularly smooth, hard, and round …",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "<main_rationale,evidence1>": "Refute. The evidence directly contradicts the rationale detail by presenting false information about a scuba diver swimming with a dinosaur, which is refuted by the fact that the video was doctored from a TV docuseries 'Prehistoric Planet'."
+        },
+        {
+            "<additional_rationale2,evidence1>": "Irrelevant"
+        },
+        {
+            "<reason1,evidence1>": "Refute. The evidence directly contradicts the rationale by mentioning that the video shows a dinosaur, supporting the initial claim that the scuba diver was swimming with a dinosaur, contrary to the rationale that the footage was manipulated from a TV series."
+        },
+        {
+            "<reason2,evidence1>": "Refute. The evidence directly contradicts the rationale detail by falsely claiming that a dinosaur was filmed swimming in the Pacific Ocean, while the rationale confirms that the video was actually from a TV series featuring a scripted scene and not a real-life event."
+        },
+        {
+            "<reason3,evidence1>": "Refute. The evidence directly contradicts the rationale detail as it claims to show a dinosaur swimming in the ocean, while the rationale states the identification of the dinosaur as a plesiosaur from a TV show, indicating the video's lack of authenticity."
+        },
+        {
+            "<main_rationale,evidence2>": "Refute. The evidence directly contradicts the rationale as it describes a documentary series about dinosaurs from millions of years ago, not a scuba diver swimming with a dinosaur as claimed in the post."
+        },
+        {
+            "<additional_rationale2,evidence2>": "Refute. The evidence directly contradicts the rationale by referring to creatures existing 66 million years ago, which is different from the late Cretaceous period mentioned in the rationale about the dinosaur being a plesiosaur from roughly 100 million years ago."
+        },
+        {
+            "<reason1,evidence2>": "Refute. The evidence described in the epic series clearly states a fictional narrative about dinosaurs from millions of years ago, opposed to the rationale claiming a scuba diver swimming with a real dinosaur in the present day."
+        },
+        {
+            "<reason2,evidence2>": "Refute. The evidence provided describes a scripted series showcasing dinosaurs from millions of years ago, which contradicts the claim that the video showed a genuine scuba diver swimming with a dinosaur in March 2024."
+        },
+        {
+            "<reason3,evidence2>": "Refute. The evidence provided talks about dinosaurs and creatures from millions of years ago, while the rationale mentions that the video features a plesiosaur, an extinct aquatic reptile, indicating that the video was not genuine but rather a creation from a TV show."
+        },
+        {
+            "<main_rationale,evidence3>": "Irrelevant"
+        },
+        {
+            "<additional_rationale2,evidence3>": "Irrelevant"
+        },
+        {
+            "<reason1,evidence3>": "Irrelevant"
+        },
+        {
+            "<reason2,evidence3>": "Irrelevant"
+        },
+        {
+            "<reason3,evidence3>": "Irrelevant"
+        },
+        {
+            "<main_rationale,evidence4>": "Refute. The evidence provided describes Tuarangisaurus, a type of marine reptile, and its behaviors, which does not support the claim that a scuba diver was swimming with a dinosaur. The evidence directly contradicts the rationale's assertion that the video was doctored, indicating that the content shared in the video was not real."
+        },
+        {
+            "<additional_rationale2,evidence4>": "Irrelevant"
+        },
+        {
+            "<reason1,evidence4>": "Refute. The evidence provided describes Tuarangisaurus, a type of marine reptile, highlighting aspects of their behavior and habitat, which directly contradicts the claim in the rationale that a scuba diver was swimming with a dinosaur. The evidence clearly indicates that these reptiles are marine creatures, rather than land-dwelling dinosaurs that the claim suggests."
+        },
+        {
+            "<reason2,evidence4>": "Irrelevant"
+        },
+        {
+            "<reason3,evidence4>": "Irrelevant"
+        }
+    ]
+}
