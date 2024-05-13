@@ -157,24 +157,35 @@ By adhering to these guidelines, you will ensure that the relationships between 
 
 
 
+5.13更新：
+
 用户输入Prompt：
 
 ```
-            prompt = f"""Prompt:
-"The objective is to analyze content from an article related to a specific claim, focusing specifically on synthesizing the relationship between the rationale and the evidence presented. You are required to provide a single comprehensive synthesized explanation that encapsulates how the rationale relates to the evidence. Here's what you need to do:
-- **Input Information**: Provide the claim, its rating, a summarized rationale based on the article content, and the relevant evidence.
-- **Synthesizing Relationships**: Your main task is to synthesize the relationship between the rationale and the evidence into one comprehensive explanation. This involves creating an explanation that integrates how the evidence supports or refutes the rationale.
+                prompt = f"""The objective is to rigorously analyze the direct relationship between a claim or rationale and provided evidence. Here's the specific task:
+- **Input Information**: Provide the claim, its rating, a rationale detail, and the relevant evidence.
+- **Synthesizing Relationships**: Evaluate whether the relationship between the claim or rationale and the evidence is exceptionally direct:
+- If the evidence directly supports the content of the claim or matches the rationale detail, classify this as 'Relevant' and provide a detailed explanation of how the evidence supports the claim or rationale.
+- If the evidence does not directly support the claim or does not match the rationale detail, classify this as 'Irrelevant'. Remember to just answer with the word "Irrelevant" without any additional content.
+- Any case where the evidence and rationale do not address the same topic or their meanings do not directly contradict should be classified as 'irrelevant'.
 **Claim:** {claim_content}
 **Rating:** {rating_content}
-**Article Content**: {article_content}
-**Rationale:** {summary_rationals}
+**Rationale Detail:** {rationale_text}
 **Evidence:** {evidence}
-The response should provide one comprehensive explanation that articulates the relationship between the rationale and the evidence, using a synthesized approach.
+The response should classify the relationship between the claim or rationale and the evidence with absolute precision:
+- 'Relevant' if the evidence directly supports the claim or matches the rationale.
+- 'Irrelevant' if the content or the topic addressed by the claim or rationale and the evidence is different, or if their connection is not directly supportive.
+Ensure to avoid any classification based on indirect, vague, or ambiguous relationships.
+**Specific output requirement**: For responses classified as 'Irrelevant', only the word "Irrelevant" should be used, with no further explanation. For 'Relevant', first state the classification followed by a detailed explanation.
 **Specified output format in JSON:**
 {{
-"relationship_with_evidence{i}": "Comprehensive synthesized explanation of how the rationale relates to the evidence"
+"<{rationale_key},evidence{i+1}>": "First and foremost, summarize as 'Relevant' or 'Irrelevant', answer one of these two words. Provide an explanation only if the relationship is 'Relevant'. If 'Irrelevant', no further details should be provided."
 }}
-Reminder: The final output must contain a single comprehensive explanation that accurately reflects the synthesized relationship based on the understanding of the original text, with no alterations."
+Example of final output content:
+{{
+"<reason1,evidence1>": "Relevant. ······..."
+}}
+Reminder: Focus strictly on very direct and explicit connections. Classify all other relationships as 'Irrelevant' and provide explanations only for very direct 'Relevant' relationships.
 """
 ```
 
