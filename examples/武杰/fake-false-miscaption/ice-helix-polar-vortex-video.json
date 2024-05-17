@@ -4,14 +4,16 @@
     "rating": "Fake",
     "content": "Every few years, when the cold, arctic air of the polar vortex plunges south, internet users around the globe are treated to viral videos about the cold snap. Examples include frozen sculptures made of ramen and clothes as stiff as a board. You can even throw hot water into the air and watch it turn into a white cloud of steam and ice.\nTikTok user QueenChelsea wanted to take it a step further in January 2024, posting a video to her TikTok and Instagram page showing her pouring water on the ground and creating a helix out of ice. The video quickly went viral, with over 13 million likes on TikTok (with 191 million views) and over 5 million likes on Instagram. The frozen sculpture looked real enough to fool many commenters, and Snopes received emails inquiring if the video was real.\n\nUnfortunately, Canada being cold was the only real part of the video. Sorry to burst anyone's bubble (another great thing to play with in sub-zero temperatures), although it is certainly a testament to QueenChelsea's editing prowess that some people believed the ice sculpture was real.\nQueenChelsea, whose real name is Chelsea Laufer, is a Canadian content creator who makes short viral videos using clever editing tricks and incredible visual effects. She included the VFX hashtag in the captions on both the TikTok and Instagram posts, and her bio on both platforms includes the sentence, \"I like making impossible things.\"\nSnopes reached out to Laufer for comment, and she replied via email.\n\"I’m a visual effects content creator so all of the videos I post are edited with a sort of magical realism in mind,\" she wrote. \"I'll also add that the response to this video has been absolutely astounding! I made this video as a way to practice working with 3D CGI, and I never expected so many people to see it.\"\nOn Jan. 18, she posted a video to TikTok breaking down how she made the effect.\n",
     "original_rationales": {
-        "main_rationale": "Canada being cold was the only real part of the video."
+        "main_rationale": "Canada being cold was the only real part of the video.",
+        "additional_rationale1": "Unfortunately, Canada being cold was the only real part of the video.",
+        "additional_rationale2": "although it is certainly a testament to QueenChelsea's editing prowess that some people believed the ice sculpture was real."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim has been rated as 'Fake' because the video of a woman creating a helix out of ice through pouring water on the ground during the January 2024 polar vortex was confirmed to be a visual effects creation by the TikTok and Instagram content creator, Chelsea Laufer. Despite the video going viral and appearing convincing to many viewers, it was ultimately a result of clever editing and visual effects, as clarified by Laufer herself.",
+        "synthesized_rationale": "The claim of a woman in Canada creating a helix out of ice in the January 2024 polar vortex video is rated as 'Fake' due to the video being a result of visual effects and editing tricks by a content creator named Chelsea Laufer, who openly admitted to creating the ice helix through CGI. The massive online popularity of the video mislead audiences, with the content creator confirming the use of VFX in her posts and clarifying that the video was a practice in 3D CGI, not a real occurrence. Therefore, the misleading nature of the video, the content creator's background in visual effects, and her explicit statement regarding the creation process validate the 'Fake' rating.",
         "detailed_reasons": {
-            "reason1": "The content creator, Chelsea Laufer, explicitly mentioned being a visual effects content creator and emphasized creating videos with 'magical realism.' This statement from Laufer indicates that the video in question was a product of editing and visual effects, aligning with the 'Fake' rating.",
-            "reason2": "Snopes received inquiries about the authenticity of the video, showcasing that viewers were misled or unsure about its legitimacy. Laufer's acknowledgment of the astounding response to the video further reinforces the idea that many people believed the ice sculpture was real, highlighting the deceptive nature of the content.",
-            "reason3": "Laufer's subsequent TikTok post breaking down how she produced the effect confirms that the video was a result of CGI manipulation rather than a genuine display of creating a helix out of ice with poured water. This breakdown serves as concrete evidence supporting the 'Fake' rating assigned to the claim."
+            "reason1": "The video's portrayal of creating a helix out of ice during the polar vortex is debunked as fake due to the content creator Chelsea Laufer's admission of using visual effects and editing to produce the effect instead of it being a genuine occurrence.",
+            "reason2": "Chelsea Laufer, known for her visual effects content creation and editing skills, openly shared that the video was crafted to experiment with 3D CGI, emphasizing the artificial nature of the depicted helix made out of ice.",
+            "reason3": "Despite the convincing appearance of the ice helix in the video leading to audience speculation about its authenticity, the creator's acknowledgment of the use of VFX and CGI techniques to achieve the effect directly supports the 'Fake' rating as the result was an artificially created visual illusion."
         }
     },
     "evidences": {
@@ -19,6 +21,7 @@
         "evidence1": [
             "@queenchelsea Meanwhile in canada… ?? #vfx ♬ original sound - chelsea vfx",
             [
+                "https://www.tiktok.com/@queenchelsea/video/7322611233415531782",
                 "https://www.tiktok.com/@queenchelsea?refer=embed",
                 "https://www.tiktok.com/tag/vfx?refer=embed",
                 "https://www.tiktok.com/music/original-sound-7322611247197768453?refer=embed"
@@ -27,8 +30,7 @@
         "evidence2": [
             "@queenchelsea I accidentally tricked half the internet… ? #vfx #behindthescenes ♬ original sound - chelsea vfx",
             [
-                "https://www.tiktok.com/@queenchelsea?refer=embed",
-                "https://www.tiktok.com/tag/vfx?refer=embed",
+                "https://www.tiktok.com/@queenchelsea/video/7325555644222754053",
                 "https://www.tiktok.com/tag/behindthescenes?refer=embed",
                 "https://www.tiktok.com/music/original-sound-7325555824393587461?refer=embed"
             ]
@@ -36,28 +38,43 @@
     },
     "relationship_with_evidence": [
         {
-            "<main_rationale,evidence1>": "Supportive. The evidence of a video showing a woman in Canada during the polar vortex aligns directly with the rationale detail that Canada being cold was the only authentic aspect of the content, reinforcing the claim's validity."
+            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the only real part of the video was related to Canada being cold. The TikTok video mentioned in the evidence shows the creation of an ice helix that garnered viral attention, with the article clarifying that the video was an edited visual effects creation by the content creator, QueenChelsea."
         },
         {
-            "<reason1,evidence1>": "Supportive. The evidence provided in the TikTok video clearly aligns with the rationale detail by indicating that Chelsea Laufer, known for her visual effects skills and focus on 'magical realism,' created the video using visual effects. This direct correlation strongly supports the 'Fake' rating assigned to the claim."
+            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the claim by showing that the video referenced in the claim was indeed posted by QueenChelsea on TikTok, aligning with the rationale provided in the article that Canada being cold was the only real part of the video."
         },
         {
-            "<reason2,evidence1>": "Irrelevant"
+            "<additional_rationale2,evidence1>": "Relevant. The evidence directly supports the rationale provided in the article by confirming that QueenChelsea's video of making a helix out of ice was indeed edited, as mentioned in the article. QueenChelsea, a visual effects content creator, mentioned using magical realism and CGI effects in her videos. This clarifies that the video in question was a result of creative editing and visual effects, supporting the rationale that it was a testament to QueenChelsea's editing prowess that some viewers believed the ice sculpture was real."
         },
         {
-            "<reason3,evidence1>": "Supportive. The evidence provided in the TikTok post by Laufer directly confirms that the video was a result of CGI manipulation rather than a genuine display of creating a helix out of ice with poured water, aligning perfectly with the rationale behind the 'Fake' rating assigned to the claim."
+            "<reason1,evidence1>": "Relevant. The evidence directly supports the claim by confirming that the video posted by content creator Chelsea Laufer, also known as QueenChelsea, employed visual effects (#vfx) to create the ice helix, debunking the authenticity of the video during the polar vortex."
         },
         {
-            "<main_rationale,evidence2>": "Irrelevant"
+            "<reason2,evidence1>": "Relevant. The evidence directly supports the rationale detail provided in the claim. Chelsea Laufer, a visual effects content creator, openly shared that the video depicting a helix made of ice was crafted to experiment with 3D CGI. The evidence is a TikTok post by QueenChelsea, Laufer's pseudonym, where she showcased the video with the caption 'Meanwhile in canada… ?? #vfx'. This clear connection between Laufer's statement and the content of the video post confirms that the evidence aligns perfectly with the rationale detail, indicating a direct relationship."
         },
         {
-            "<reason1,evidence2>": "Supportive. The evidence provided by Chelsea Laufer's statement about being a visual effects content creator and emphasizing creating videos with 'magical realism' directly aligns with the 'Fake' rating for the claim, suggesting that the video in question was indeed a product of editing and visual effects."
+            "<reason3,evidence1>": "Relevant. The evidence directly supports the rationale detail by confirming that the creator, Chelsea Laufer, acknowledged using VFX and CGI techniques to create the ice helix effect in the video. This explicit statement aligns perfectly with the rationale detailing the artificial nature of the visual illusion, leading to the 'Fake' rating of the claim."
         },
         {
-            "<reason2,evidence2>": "Irrelevant"
+            "<main_rationale,evidence2>": "Relevant. The evidence directly supports the rationale that Canada being cold was the only real part of the video. The TikTok video mentioned in the evidence shows the visual effects creator admitting to tricking viewers, confirming that the ice helix creation was not real but an editing trick, aligning perfectly with the rationale provided in the article."
         },
         {
-            "<reason3,evidence2>": "Supportive. The evidence provided by @queenchelsea directly confirms Laufer's subsequent TikTok post, where Laufer breaks down how she produced the effect, revealing that the video was a result of CGI manipulation rather than a genuine display of creating a helix out of ice. This concrete evidence aligns perfectly with the rationale detailing the CGI manipulation involved, supporting the 'Fake' rating assigned to the claim."
+            "<additional_rationale1,evidence2>": "Relevant. The evidence directly supports the claim's rationale that 'Canada being cold was the only real part of the video'. The TikTok video referenced in the evidence indeed reveals that the content was edited using visual effects, aligning with the fact that the video was not a genuine depiction of creating an ice helix but rather a result of skilled editing and VFX."
+        },
+        {
+            "<additional_rationale2,evidence2>": "Relevant. The evidence directly supports the claim's rationale by confirming that the video of the helix ice sculpture was indeed a creation by QueenChelsea using visual effects, which deceived some viewers into believing it was real. The TikTok and Instagram posts by QueenChelsea explicitly mentioned the use of visual effects in the captions, aligning with the fact that the video was a result of her editing and VFX skills as a content creator."
+        },
+        {
+            "<reason1,evidence2>": "Relevant. The evidence directly supports the rationale by confirming that the video creator, Chelsea Laufer, used visual effects and editing to produce the ice helix effect, debunking the authenticity of the video as claimed."
+        },
+        {
+            "<reason2,evidence2>": "Relevant. The evidence directly supports the rationale detail by showing that Chelsea Laufer, known for her visual effects content creation, openly shared that the video was crafted to experiment with 3D CGI. The TikTok video clip by @queenchelsea clearly demonstrates the artificial nature of the depicted helix made out of ice, aligning with Laufer's expertise in visual effects and confirming that the video was not a genuine depiction."
+        },
+        {
+            "<reason3,evidence2>": "Relevant. The evidence directly supports the 'Fake' rating by confirming the use of VFX and CGI techniques by the creator, Chelsea Laufer, to achieve the ice helix effect seen in the video. This direct admission from the content creator aligns perfectly with the rationale detail provided for the 'Fake' rating, as it clarifies that the visual illusion depicted in the video was artificially created through editing and effects."
         }
-    ]
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
 }

@@ -8,11 +8,11 @@
         "additional_rationale1": "Moreover, no reliable sources reported on similar dolls being manufactured in Israel; therefore, we have rated this claim as \"Miscaptioned.\""
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim was rated as 'Miscaptioned' due to the misrepresentation of photographs and videos showing 'Palestinian baby dolls' as being made and sold in Israel when, in reality, they were part of a pro-Palestinian art project created by an activist. The misinterpretation of the context led to the miscaptioning of the images shared online.",
+        "synthesized_rationale": "The claim about bloodied 'Palestinian baby dolls' being made and sold in Israel was rated as 'Miscaptioned' because the photographs and videos actually depicted an art project by a pro-Palestinian activist in Mexico, not authentic dolls from Israel. No credible sources confirmed such dolls were produced in Israel, leading to the inaccurate caption.",
         "detailed_reasons": {
-            "reason1": "The photographs and videos in question were misrepresented as depicting 'Palestinian baby dolls' made and sold in Israel, when they were actually part of an art project created by a Mexican activist, highlighting the misinterpretation of the images' origins.",
-            "reason2": "Evidence from fact-checking organizations and the original creator of the doll confirmed that the images did not portray authentic dolls available for sale in Israel, emphasizing the misrepresentation and miscaptioning of the content.",
-            "reason3": "The accompanying text in Spanish on social media suggested that the dolls were 'soldados de elite' and included a 'Palestinian baby,' leading to a false narrative that influenced the miscaptioning of the images as products from Israel, rather than as part of an activist's project."
+            "reason1": "The photographs and videos circulating on social media were part of an art project initiated by a Mexican activist, portraying a doll transformed to symbolize Palestinian struggles, not a commercially produced item in Israel. This discrepancy in origin directly contradicts the claim's assertion.",
+            "reason2": "The context provided by the article reveals that the doll was a creation meant for social media exposure and raising awareness about the Gaza Strip conflict through artistic activism. This intention stands in stark contrast to the claim's implication of mass production for sale in Israel.",
+            "reason3": "Investigative efforts, including Google reverse-image searches and fact-checking by organizations like Lead Stories, failed to find any evidence supporting the claim of these dolls being legitimately Israeli-made products. Without credible verification of their origin, the claim's caption linking them to Israel lacks factual basis."
         }
     },
     "evidences": {
@@ -28,8 +28,7 @@
                 "https://www.snopes.com/articles/465749/where-did-the-palestinians-come-from/",
                 "https://www.snopes.com/tag/israel-hamas_war/",
                 "https://www.snopes.com/contact/",
-                "https://www.snopes.com/join/",
-                "https://www.snopes.com/contact/"
+                "https://www.snopes.com/join/"
             ]
         ],
         "evidence2": [
@@ -51,102 +50,103 @@
         "evidence6": [
             "Wyświetl ten post na Instagramie\n\n \n\n\n \n \n \n\n\n \n \n\n\n \n \n \n\n\n\n \n \n\nPost udostępniony przez Vlocke (@vlocke_negro)",
             [
-                "https://www.instagram.com/reel/C1--OzQutmB/?utm_source=ig_embed&utm_campaign=loading",
-                "https://www.instagram.com/reel/C1--OzQutmB/?utm_source=ig_embed&utm_campaign=loading",
                 "https://www.instagram.com/reel/C1--OzQutmB/?utm_source=ig_embed&utm_campaign=loading"
             ]
         ]
     },
     "relationship_with_evidence": [
         {
-            "<main_rationale,evidence1>": "Refute. The evidence presented describes the Israeli-Palestinian conflict and the violence surrounding it, which does not directly contradict the rationale that the baby dolls were part of an art project by a pro-Palestinian activist rather than authentic dolls made and sold in Israel."
+            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the rationale detail provided in the article by explaining that the photographs and videos allegedly showing 'Palestinian baby dolls' were actually part of a pro-Palestinian art project and not authentic dolls made and sold in Israel. The evidence confirms that the content shared on social media misrepresented the origin and nature of the dolls, aligning with the fact-checking rationale stated."
         },
         {
-            "<additional_rationale1,evidence1>": "Irrelevant"
+            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the rationale detail provided in the article. The article clearly states that the photographs and videos allegedly showing 'Palestinian baby dolls' were actually part of a pro-Palestinian art project and were neither made nor sold in Israel, aligning with the fact that no reliable sources reported on similar dolls being manufactured in Israel. This direct connection between the evidence and the claim supports the rating of 'Miscaptioned'."
         },
         {
-            "<reason1,evidence1>": "Irrelevant"
+            "<reason1,evidence1>": "Relevant. The evidence directly supports the rationale detail by confirming that the photographs and videos circulating on social media were actually part of an art project initiated by a Mexican activist and not commercially produced items in Israel, as specified in the claim."
         },
         {
-            "<reason2,evidence1>": "Supportive. The evidence directly aligns with the rationale detail by confirming that the images were misrepresented and miscaptioned, indicating that the dolls were not authentic products available for sale in Israel."
+            "<reason2,evidence1>": "Relevant. The evidence directly supports the rationale detailed in the article. The article clarifies that the photographs and videos of the 'Palestinian baby dolls' were associated with a pro-Palestinian art project and were neither made nor sold in Israel, which aligns directly with the fact that the claim was mischaracterized as showing dolls made and sold in Israel."
         },
         {
-            "<reason3,evidence1>": "Irrelevant"
+            "<reason3,evidence1>": "Relevant. The evidence directly supports the rationale for the claim being rated as 'Miscaptioned'. The content from the article clarifies that the baby dolls were part of a pro-Palestinian art project and were not manufactured or sold in Israel, aligning with the investigative efforts that failed to find any evidence supporting the claim."
         },
         {
-            "<main_rationale,evidence2>": "Supportive. The evidence directly supports the rationale by explaining that the bloodied 'Palestinian baby dolls' shown in January 2024 were actually part of an art project by a Mexican activist, not authentic dolls made and sold in Israel. The evidence describes how the artist transformed a regular doll into a Palestinian doll as a means to raise awareness about the situation in Palestine. This aligns with the rationale's assertion that the viral footage was from an art project of a pro-Palestinian activist, emphasizing that the dolls were not genuine products from Israel."
+            "<main_rationale,evidence2>": "Relevant. The evidence directly supports the claim by providing a detailed description of the doll with blood, wearing a keffiyeh, and surrounded by toy Israeli soldiers, as depicted in the viral footage. However, the article clarifies that this doll was part of a pro-Palestinian art project by an activist and not an authentic doll made and sold in Israel, aligning with the rationale detail provided."
         },
         {
-            "<additional_rationale1,evidence2>": "Refute. The evidence provided clearly contradicts the rationale detail. The evidence explains that the doll in question was not made in Israel as claimed but was actually altered by a Mexican activist to raise awareness about Palestine, showing a direct opposition to the idea that Israeli manufacturers were involved in making these dolls."
+            "<additional_rationale1,evidence2>": "Relevant. The evidence directly supports the rationale detail by confirming that the photographs and videos showing bloodied 'Palestinian baby dolls' were part of a pro-Palestinian art project and were neither made nor sold in Israel. This direct connection aligns with the fact-checking rationale that no reliable sources reported on similar dolls being manufactured in Israel, therefore rating the claim as 'Miscaptioned'."
         },
         {
-            "<reason1,evidence2>": "Supportive. The evidence directly supports the rationale by confirming that the photographs and videos of the 'Palestinian baby dolls' were indeed part of an art project created by a Mexican activist, debunking the false claim that they were made and sold in Israel."
+            "<reason1,evidence2>": "Relevant. The evidence directly supports the rationale detail by confirming that the photographs and videos shared were indeed part of an art project by a Mexican activist, contradicting the claim that the bloodied 'Palestinian baby dolls' were made and sold in Israel as depicted. The evidence aligns with the fact that the doll was transformed as a symbol of the Palestinian struggle for awareness, not a product originating from Israel."
         },
         {
-            "<reason2,evidence2>": "Supportive. The evidence directly supports the rationale detail by confirming that the images of bloodied 'Palestinian baby dolls' were not authentic dolls available for sale in Israel. The evidence clarifies that the doll was created by a Mexican man who transformed a regular doll into a Palestinian doll as a form of activism, highlighting the misrepresentation and miscaptioning of the content."
+            "<reason2,evidence2>": "Relevant. The evidence directly supports the claim's rationale detail by debunking the claim and confirming that the doll in question was part of a pro-Palestinian art project, not mass-produced for sale in Israel. The evidence clarifies that the doll was an activist's creation meant for social media exposure and raising awareness about the Gaza Strip conflict, which contrasts with the claim's implication of Israeli manufacturing and commercialization."
         },
         {
-            "<reason3,evidence2>": "Supportive. The evidence directly supports the rationale by confirming that the Palestinian baby dolls were indeed part of an activist's project and not products from Israel. The article explains how a Mexican activist transformed a normal doll into a Palestinian doll as a statement about Palestine's current situation, aligning with the rationale's explanation of the miscaptioned images."
+            "<reason3,evidence2>": "Relevant. The evidence directly supports the rationale detail by confirming that the photographs and videos in question, depicting the bloodied 'Palestinian baby dolls,' were actually part of a pro-Palestinian art project and were not made or sold in Israel as claimed. The direct connection between the evidence and the rationale dispels the misinformation surrounding the origin of the dolls, aligning with the conclusion that the claim was miscaptioned."
         },
         {
-            "<main_rationale,evidence3>": "Supportive. The evidence directly supports the rationale detail by confirming that the bloodied 'Palestinian baby dolls' were indeed part of an art project of a pro-Palestinian activist rather than authentic dolls made and sold in Israel. The evidence discusses the purpose of the project and how street toy merchants were involved in facilitating the documentation of the project, aligning with the claim's rationale."
+            "<main_rationale,evidence3>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the viral footage indeed depicted an art project by a pro-Palestinian activist, not actual dolls made and sold in Israel. This aligns perfectly with the rationale detail that the images were misrepresented as authentic Israeli-made dolls."
         },
         {
-            "<additional_rationale1,evidence3>": "Irrelevant"
+            "<additional_rationale1,evidence3>": "Relevant. The evidence directly supports the rationale for rating the claim as 'Miscaptioned' by confirming that the dolls were not authentic products made and sold in Israel, aligning with the fact that no reliable sources reported similar dolls being manufactured in Israel."
         },
         {
-            "<reason1,evidence3>": "Irrelevant"
+            "<reason1,evidence3>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the photographs and videos showing the 'Palestinian baby dolls' were indeed part of an art project by a Mexican activist and were not made or sold in Israel. The evidence aligns with the explicit statement in the article that the doll was an activist's creation, not an authentic product from Israel, thus reinforcing the rationale detail provided."
         },
         {
-            "<reason2,evidence3>": "Irrelevant"
+            "<reason2,evidence3>": "Relevant. The evidence directly supports the rationale detail provided in the article by clarifying that the dolls were not manufactured in Israel for sale, aligning with the artistic activism purpose mentioned in the context. This direct connection between the evidence and the rationale helps debunk the claim of mass production of these dolls in Israel."
         },
         {
             "<reason3,evidence3>": "Irrelevant"
         },
         {
-            "<main_rationale,evidence4>": "Irrelevant"
+            "<main_rationale,evidence4>": "Relevant. The evidence directly supports the claim by clarifying that the images of the dolls were part of an art project by a Mexican activist, not actual dolls made and sold in Israel, aligning with the fact-checking rationale provided in the article that the viral footage showed an art project of a pro-Palestinian activist instead of authentic dolls made and sold in Israel."
         },
         {
-            "<additional_rationale1,evidence4>": "Irrelevant"
+            "<additional_rationale1,evidence4>": "Relevant. The evidence provided in the article confirms that the photographs and videos allegedly showing 'Palestinian baby dolls' made and sold in Israel were actually part of a pro-Palestinian art project led by an activist in Mexico and not authentic dolls available for sale in Israel. This direct correspondence between the evidence and the rationale's detail supports the claim being 'Miscaptioned.'"
         },
         {
             "<reason1,evidence4>": "Irrelevant"
         },
         {
-            "<reason2,evidence4>": "Irrelevant"
+            "<reason2,evidence4>": "Relevant. The evidence directly supports the rationale detailed in the article by confirming that the doll was part of an art project intended for social media exposure and raising awareness about the Gaza Strip conflict through artistic activism, which contradicts the claim of mass production and sale in Israel."
         },
         {
-            "<reason3,evidence4>": "Refute. The evidence provided includes a statement mentioning 'Israeli Elite Soldiers' and a 'Palestinian baby,' which directly contradicts the rationale indicating that the images were miscaptioned as products from Israel when they were actually part of an activist's project. This evidence indicates a direct opposite meaning regarding the origin and context of the depicted dolls."
+            "<reason3,evidence4>": "Relevant. The evidence directly supports the claim's rationale by confirming that the doll mentioned in the evidence was part of an art project by a Mexican activist and not an actual doll made and sold in Israel, aligning with the fact that the dolls were neither made nor sold in Israel as stated in the article."
         },
         {
-            "<main_rationale,evidence5>": "Supportive. The evidence directly supports the rationale detail by confirming that the dolls seen in the footage were indeed part of an art project promoting awareness for Palestinians, aligning with the notion that they were not authentic dolls made and sold in Israel."
+            "<main_rationale,evidence5>": "Relevant. The evidence directly supports the fact-checking rationale that the viral footage showing the dolls was actually part of an art project by the pro-Palestinian activist @vlocke_negro and were not authentic dolls made and sold in Israel. The evidence specifically mentions that the dolls were part of the Bebé Palestino project by the activist and were placed in a doll store in Mexico City as symbols of resistance for Palestinians, aligning perfectly with the fact-checking rationale."
         },
         {
-            "<additional_rationale1,evidence5>": "Irrelevant"
+            "<additional_rationale1,evidence5>": "Relevant. The evidence presented in the article clearly supports the rationale detailed in the claim. The evidence describes an art project by @vlocke_negro where the dolls were part of an activism art project in Mexico City, demonstrating that the dolls were not made or sold in Israel as claimed. This clear and direct correlation between the evidence and the claim's rationale makes it a relevant relationship."
         },
         {
-            "<reason1,evidence5>": "Supportive. The evidence directly supports the rationale by confirming that the dolls in question were indeed part of an art project by a Mexican activist, rather than being 'Palestinian baby dolls' from Israel, as misrepresented in the claim."
+            "<reason1,evidence5>": "Relevant. The evidence directly supports the claim's rationale that the photographs and videos depicting 'Palestinian baby dolls' were actually part of an art project by a Mexican activist, @vlocke_negro, and were not commercially produced in Israel. The evidence aligns with the article content, confirming that the dolls showcased were not authentic products sold in Israel but rather art pieces created for the purpose of raising awareness about Palestinian struggles."
         },
         {
-            "<reason2,evidence5>": "Irrelevant"
+            "<reason2,evidence5>": "Relevant. The evidence directly supports the fact-checking rationale by clarifying that the dolls in question were part of an art project created by an activist, not made or sold in Israel as claimed. The evidence aligns with the provided rationale detailing the true intention behind the doll's creation, which was for social media exposure and raising awareness about the Gaza Strip conflict through artistic activism."
         },
         {
-            "<reason3,evidence5>": "Supportive. The evidence directly supports the rationale by confirming that the dolls in question are part of an activist's project aimed at raising awareness for Palestinians, aligning with the assertion that the dolls were not products from Israel but rather symbolic items for a cause."
+            "<reason3,evidence5>": "Relevant. The evidence directly supports the rationale detail by confirming that the 'Palestinian baby dolls' in question were part of an art project by @vlocke_negro, not legitimately Israeli-made products. This directly aligns with the investigative efforts and fact-checking results that found no evidence supporting the claim of the dolls being made and sold in Israel."
         },
         {
-            "<main_rationale,evidence6>": "Supportive. The evidence directly supports the rationale detail by showing an art project of a pro-Palestinian activist rather than authentic dolls made and sold in Israel, aligning with the claim's miscaptioned rating."
+            "<main_rationale,evidence6>": "Relevant. The evidence directly supports the rationale by confirming that the photographs and videos of the 'Palestinian baby dolls' were indeed part of an art project by a pro-Palestinian activist and were not authentic dolls made and sold in Israel, aligning perfectly with the provided rationale detail."
         },
         {
-            "<additional_rationale1,evidence6>": "Irrelevant"
+            "<additional_rationale1,evidence6>": "Relevant. The evidence directly supports the claim rating of 'Miscaptioned' by confirming that the photographs and videos depicting the 'Palestinian baby dolls' were part of a pro-Palestinian art project and were not made or sold in Israel. This aligns with the rationale that no reliable sources reported on similar dolls being manufactured in Israel, leading to the 'Miscaptioned' rating."
         },
         {
-            "<reason1,evidence6>": "Supportive. The evidence directly correlates with the rationale detail by confirming that the photographs and videos in question were indeed part of an art project created by a Mexican activist, contrary to the misrepresentation that they were 'Palestinian baby dolls' made and sold in Israel."
+            "<reason1,evidence6>": "Relevant. The evidence directly supports the rationale detail by confirming that the photographs and videos depicted a pro-Palestinian art project initiated by a Mexican activist, transforming a doll to symbolize Palestinian struggles. The evidence clearly states that the claimed doll was not made or sold in Israel, directly contradicting the original claim."
         },
         {
-            "<reason2,evidence6>": "Refute. The evidence directly contradicts the rationale detail by showing that the images of bloodied 'Palestinian baby dolls' were shared in January 2024, suggesting that they were available for sale in Israel. This contradicts the fact-checking organizations and the original creator's confirmation that the images did not portray authentic dolls sold in Israel, highlighting a direct opposition in the content."
+            "<reason2,evidence6>": "Relevant. The evidence directly supports the claim's rating of 'Miscaptioned' by providing detailed information that the dolls were not made nor sold in Israel, but were part of a pro-Palestinian art project aimed at raising awareness about the Gaza Strip conflict. The evidence aligns with the rationale that the dolls were created for social media exposure and activism purposes, not for mass production or sale in Israel."
         },
         {
-            "<reason3,evidence6>": "Irrelevant"
+            "<reason3,evidence6>": "Relevant. The evidence directly supports the rationale detailed in the article. It clearly explains that the photographs and videos showing the 'Palestinian baby dolls' were part of a pro-Palestinian art project and were not made or sold in Israel, aligning with the investigative efforts that could not verify the claim linking these dolls to Israel."
         }
-    ]
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
 }

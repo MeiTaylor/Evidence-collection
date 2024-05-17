@@ -6,19 +6,21 @@
     "original_rationales": {
         "main_rationale": "The video was real, but the insinuations about it were false.",
         "additional_rationale1": "Because the video is real, but the context around it is verifiably false, we have rated this claim as \"Miscaptioned.\"",
-        "additional_rationale2": "Clinton has been the frequent subject of claims spread online connecting him to Epstein and Maxwell.",
-        "additional_rationale3": "A 2019 article from The New York Times uncovered more details about the connections between the two men."
+        "additional_rationale2": "Clinton has been the frequent subject of claims spread online connecting him to Epstein and Maxwell."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim that the video showing former U.S. President Bill Clinton greeting medical workers to distract from his connections to Jeffrey Epstein is rated as 'Miscaptioned' because while the video was real, the insinuations about it were found to be false based on the context provided in other sources, leading to a misrepresentation of the event.",
+        "synthesized_rationale": "The claim regarding Bill Clinton greeting medical workers to distract from his connections to Jeffrey Epstein was labeled as 'Miscaptioned' because although the video was real, the accompanying false insinuations about his intentions were debunked. Fact-checkers cross-referenced the video with credible sources like CNN and determined that the contextual narrative surrounding the video was inaccurate, leading to an inaccurate portrayal of the situation.",
         "detailed_reasons": {
-            "reason1": "The article clarifies that the video in question indeed featured Bill Clinton interacting with hospital workers and that the video itself was authentic.",
-            "reason2": "However, the surrounding narrative suggesting that Clinton's actions were part of a deliberate distraction campaign to shift attention from his links to Jeffrey Epstein was debunked.",
-            "reason3": "By cross-referencing the video on X with footage from credible sources like CNN Politics and Al Jazeera, it was confirmed that the context in which the video was being interpreted was inaccurate and misleading, leading to the 'Miscaptioned' rating."
+            "reason1": "The video showing Bill Clinton greeting hospital workers was found to be real, but the interpretations and claims made about his intentions, specifically to distract from his ties to Epstein, were proven to be false. This mismatch between the genuine content of the video and the misleading implications attached to it justifies the 'Miscaptioned' rating.",
+            "reason2": "Fact-checkers verified the authenticity of the video by cross-referencing it with sources like CNN Politics and Al Jazeera. By establishing the factual accuracy of the video footage itself, the focus shifted to discrediting the misleading narrative surrounding Clinton's actions, which contributed to the decision to deem the claim as 'Miscaptioned.'",
+            "reason3": "The wider context provided by the fact-checking process, including Clinton's history of being targeted by online claims linking him to Epstein and Maxwell, enhanced the evaluation of this specific claim. The recurrent spread of misinformation and conspiracy theories around Clinton and Epstein reinforced the necessity to thoroughly assess and ultimately categorize this claim as 'Miscaptioned.'"
         }
     },
     "evidences": {
         "num_of_evidence": 0
     },
-    "relationship_with_evidence": []
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": []
+    }
 }

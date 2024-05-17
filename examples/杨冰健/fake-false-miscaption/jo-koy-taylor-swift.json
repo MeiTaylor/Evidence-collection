@@ -5,15 +5,16 @@
     "content": "On Jan. 8, 2024, a user on X posted a video of Oscar-winning actor Emma Stone purportedly saying of stand-up comedian Jo Koy, who had just hosted the previous night's 81st annual Golden Globe Awards, \"What an a--hole.\" According to the post, after the awards show and while taking questions from members of the press, Stone had called Koy an \"a--hole\" for making a joke during the broadcast about Taylor Swift.\n\"#EmmaStone saying a--hole to Jo Koy after her [his] jokes about #TaylorSwift,\" the post read.\nHowever, while it's certainly possible that Stone was displeased with a joke that Koy had made about Swift, this rumor about her calling him a vulgar word was not true. The video was real but the caption was misleading. For rumors such as this one, we apply a rating of \"Miscaptioned\" rather than \"False.\"\nThe same video was shared by The Hollywood Reporter with the caption, \"Emma Stone jokes about getting Taylor Swift’s support at the #GoldenGlobes.\"\nEmma Stone jokes about getting Taylor Swift’s support at the #GoldenGlobes pic.twitter.com/GjlnCkXKDR\n— The Hollywood Reporter (@THR) January 8, 2024\n\nEntertainment Tonight posted a complete video of the question that a reporter had asked of Stone:\nREPORTER: Emma, I don't know if you noticed, but when you won, Taylor Swift gave you a huge applause. What are your thoughts on her cheering your win?\nSTONE: (joking) What an a--hole, am I right? No, I've known her for almost 20 years, so I was very happy she was there. And she was also nominated tonight, which was wonderful. And, yes. What an a--hole.\nThe full moment begins at the 2:54 mark in the video below.\n\nDuring the Golden Globes broadcast, Stone won the best actress in a musical or comedy award for her role as Bella Baxter in the film \"Poor Things.\" The movie also won the night's award for best comedy or musical.\nSwift attended the awards ceremony after being nominated for her concert movie \"Taylor Swift: The Eras Tour\" in a new category dubbed “cinematic and box office achievement.” That honor was ultimately given to the film \"Barbie.\"\nFollowing the monologue, Koy made a joke about Swift, which resulted in her taking a sip of her drink. Part of his joke was, \"The big difference between the Golden Globes and the NFL? On the Golden Globes, we have fewer camera shots of Taylor Swift. I swear. There's just more to go to.\"\n\nAs for Koy, his monologue was widely panned. For example, Hollywood reporter Brooke Barnes of The New York Times wrote that Koy's monologue was both \"chaotic and sloppy,\" calling it \"a train wreck.\"\n\nAt one point during his monologue, Koy added, with only a small bit of laughter and applause from the crowd, \"Yo. I got the gig 10 days ago. You want a perfect monologue? Yo. Shut up. You guys – you're kidding me, right? Slow down. I wrote some of these, and they're the ones you're laughing at.\"",
     "original_rationales": {
         "main_rationale": "However, while it's certainly possible that Stone was displeased with a joke that Koy had made about Swift, this rumor about her calling him a vulgar word was not true. The video was real but the caption was misleading. For rumors such as this one, we apply a rating of \"Miscaptioned\" rather than \"False.\"",
-        "additional_rationale1": "At one point during his monologue, Koy added, with only a small bit of laughter and applause from the crowd, \"Yo. I got the gig 10 days ago. You want a perfect monologue? Yo. Shut up. You guys – you're kidding me, right? Slow down. I wrote some of these, and they're the ones you're laughing at.\"",
-        "additional_rationale2": "For example, Hollywood reporter Brooke Barnes of The New York Times wrote that Koy's monologue was both \"chaotic and sloppy,\" calling it \"a train wreck.\""
+        "additional_rationale1": "Following the monologue, Koy made a joke about Swift, which resulted in her taking a sip of her drink. Part of his joke was, \"The big difference between the Golden Globes and the NFL? On the Golden Globes, we have fewer camera shots of Taylor Swift. I swear. There's just more to go to.\"",
+        "additional_rationale2": "The same video was shared by The Hollywood Reporter with the caption, \"Emma Stone jokes about getting Taylor Swift’s support at the #GoldenGlobes.\""
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim of a video showing Emma Stone calling Jo Koy an 'a--hole' for a Taylor Swift joke has been rated as 'Miscaptioned.' This rating is attributed to the video's caption misinterpreting Stone's jestful comment about Taylor Swift as a serious insult towards Jo Koy.",
+        "synthesized_rationale": "The claim about Emma Stone calling Jo Koy an 'a--hole' in response to a joke about Taylor Swift is rated as 'Miscaptioned' because although there was a video capturing a moment with these individuals, the caption misconstrued the context of the interaction. In reality, Emma Stone was jokingly referring to Taylor Swift as an 'a--hole' in a light-hearted manner that was misinterpreted. Therefore, the video's caption wrongly portrayed the situation, leading to the 'Miscaptioned' rating.",
         "detailed_reasons": {
-            "reason1": "The video in question captures Emma Stone humorously responding to a reporter's question about Taylor Swift, where she refers to Swift playfully as an 'a--hole' in a jocular tone, signaling a friendly relationship, which contradicts the claim's assertion of Stone insulting Jo Koy.",
-            "reason2": "Various reputable sources like Entertainment Tonight and The Hollywood Reporter provide accurate context to the video, clarifying that Emma Stone's comment was directed at Taylor Swift in jest and not at Jo Koy as insinuated by the miscaptioned post",
-            "reason3": "Jo Koy's unfavorable monologue at the Golden Globes, criticized as 'chaotic and sloppy,' was unrelated to the incident involving Emma Stone, further emphasizing the misinterpretation in the video's caption that connected Stone's lighthearted banter with Koy's controversial performance."
+            "reason1": "The video captured Emma Stone jokingly referring to Taylor Swift as an 'a--hole' in a jovial manner, not actually calling Jo Koy that derogatory term. This distinction between the actual dialogue and the captioned interpretation highlights the misleading nature of the claim.",
+            "reason2": "The misinterpretation stemmed from the video's caption that falsely framed the situation as Stone insulting Jo Koy, whereas the full context reveals it was a light-hearted comment directed towards Taylor Swift. This discrepancy between the caption and the genuine exchange justifies the 'Miscaptioned' rating.",
+            "reason3": "Additional context, such as the complete dialogue between Emma Stone and the reporter, clarifies the light-hearted nature of the interaction, further emphasizing the misrepresentation in the video's caption. The full conversation debunks the claim's initial framing, supporting the 'Miscaptioned' ruling.",
+            "reason4": "Critiques of Jo Koy's performance at the Golden Globes, including descriptions of his monologue as 'chaotic' and 'sloppy,' provide a backdrop that contextualizes the nature of the event. Understanding the overall atmosphere of Koy's performance helps to comprehend the dynamics at play and adds clarity to why the claim was largely misconstrued and mislabeled."
         }
     },
     "evidences": {
@@ -33,40 +34,53 @@
     },
     "relationship_with_evidence": [
         {
-            "<main_rationale,evidence1>": "Irrelevant"
+            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the rationale for the claim by demonstrating that the video of Emma Stone joking about Taylor Swift does exist. However, the caption misleads by implying that she called Jo Koy an inappropriate name, which was not true. This supports the 'Miscaptioned' rating as the video content does not match the false claim about Stone's actions."
         },
         {
-            "<additional_rationale1,evidence1>": "Irrelevant"
+            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the rationale detail by showing Emma Stone making a comment related to Taylor Swift following the monologue that involved a joke about Swift. This connection highlights the alignment between the evidence and the claim's factual basis in the provided article."
         },
         {
-            "<additional_rationale2,evidence1>": "Irrelevant"
+            "<additional_rationale2,evidence1>": "Relevant. The evidence directly supports the claim by aligning with the rationale provided in the article where The Hollywood Reporter shared the same video with the caption that matches the claim's detail."
         },
         {
-            "<reason1,evidence1>": "Supportive. The evidence directly aligns with the rationale by showing Emma Stone jokingly talking about Taylor Swift, indicating a friendly and light-hearted interaction, which contradicts the claim that Stone insulted Jo Koy."
+            "<reason1,evidence1>": "Relevant. The evidence directly supports the rationale detail by showing that the video captures Emma Stone jokingly referring to Taylor Swift as an 'a--hole' in a jovial manner, not actually calling Jo Koy that derogatory term. This aligns with the distinction made in the rationale regarding the misleading nature of the claim."
         },
         {
-            "<reason2,evidence1>": "Refute. The evidence directly contradicts the rationale, as it shows Emma Stone making a joke about Taylor Swift, not calling Jo Koy an 'a--hole' as claimed in the miscaptioned post."
+            "<reason2,evidence1>": "Relevant. The evidence directly supports the rationale behind the 'Miscaptioned' rating by showcasing the actual content of the video where Emma Stone humorously comments about Taylor Swift, contrary to the misleading caption that framed the interaction between Stone and Jo Koy differently."
         },
         {
-            "<reason3,evidence1>": "Irrelevant"
+            "<reason3,evidence1>": "Relevant. The evidence directly supports the rationale by providing the full dialogue between Emma Stone and the reporter, revealing the humorous context of the interaction and clarifying the misrepresentation in the video's caption. This evidence aligns with the 'Miscaptioned' rating given to the claim."
         },
         {
-            "<main_rationale,evidence2>": "Supportive. The evidence directly aligns with the rationale detail by showing that Emma Stone was joking when she called Jo Koy an 'a--hole' and clarified that she has known Taylor Swift for almost 20 years, demonstrating that the caption on the video was indeed misleading."
+            "<reason4,evidence1>": "Relevant. The evidence directly supports the claim that a video authentically shows Emma Stone calling Jo Koy an 'a--hole' for making a joke about Taylor Swift. The video provided in the evidence aligns with the rationale detail by showcasing the context of Emma Stone's comment in response to Koy's joke during the Golden Globes event."
         },
         {
-            "<additional_rationale1,evidence2>": "Refute. The evidence provided shows Emma Stone jokingly referring to Taylor Swift as an 'a--hole' in a light-hearted manner, which contradicts the serious and critical tone of the rationale detail. This directly opposes the idea presented in the rationale."
+            "<main_rationale,evidence2>": "Relevant. The evidence directly supports the rationale detail provided in the fact-checking article. The evidence demonstrates that Emma Stone did use the term 'a--hole' in a joking manner in response to a question about Taylor Swift, aligning with the explanation that while the video was real, the caption was misleading. Therefore, the evidence directly relates to the claim and the rationale, supporting the rating of 'Miscaptioned.'"
         },
         {
-            "<additional_rationale2,evidence2>": "Refute. The evidence provided directly contradicts the rationale as it shows Emma Stone jokingly calling Taylor Swift an 'a--hole' in a friendly and joking manner, which opposes the implication of chaos and negativity suggested in Koy's monologue described in the rationale."
+            "<additional_rationale1,evidence2>": "Relevant. The evidence directly supports the rationale detailed in the claim. In the provided article, the evidence from the full video of the interaction between Emma Stone and the reporter confirms that Stone's comment 'What an a--hole' was made in a joking manner and was directed at Taylor Swift, not Jo Koy. This aligns with the explanation in the claim's rationale that the video was misinterpreted, indicating that the caption suggesting Stone called Jo Koy an 'a--hole' was misleading."
         },
         {
-            "<reason1,evidence2>": "Supportive. The evidence provided directly aligns with the rationale detail by showcasing Emma Stone humorously referring to Taylor Swift as an 'a--hole' in a joking and friendly manner, supporting the claim that the interaction was light-hearted and not meant as an insult to Jo Koy."
+            "<additional_rationale2,evidence2>": "Relevant. The evidence directly supports the rationale provided in the article by confirming that Emma Stone joked about Taylor Swift's support during the Golden Globes, which aligns with The Hollywood Reporter's caption of the video. The direct quote of Stone calling Jo Koy an 'a--hole' for making a joke about Taylor Swift is explicitly mentioned, establishing a clear connection between the evidence and the claim's rationale."
         },
         {
-            "<reason2,evidence2>": "Supportive. The evidence directly supports the rationale detail by clarifying that Emma Stone's comment was jovial and directed at Taylor Swift, not Jo Koy as implied by the miscaptioned post."
+            "<reason1,evidence2>": "Relevant. The evidence directly supports the rationale detail by showcasing Emma Stone jokingly referring to Taylor Swift as an 'a--hole' in a light-hearted manner, confirming the misleading nature of the claim that she called Jo Koy that derogatory term."
         },
         {
-            "<reason3,evidence2>": "Refute. The evidence directly contradicts the rationale detail as it shows Emma Stone jokingly referring to Taylor Swift as an 'a--hole' in a lighthearted manner, indicating a friendly relationship between them rather than any animosity towards her, which opposes the idea of negative sentiment presented in Jo Koy's monologue at the Golden Globes."
+            "<reason2,evidence2>": "Relevant. The evidence directly supports the claim's rationale by providing the full context of Emma Stone's light-hearted comment, which was originally misinterpreted as her insulting Jo Koy. In the provided exchange, Stone clearly jokes about Taylor Swift and her long-standing friendship with her, showcasing that the video was miscaptioned and did not actually involve her calling Jo Koy an 'a--hole'."
+        },
+        {
+            "<reason3,evidence2>": "Relevant. The evidence directly supports the claim by providing the complete dialogue between Emma Stone and the reporter, showcasing the light-hearted nature of the interaction, which debunks the initial framing of Emma Stone calling Jo Koy an 'a--hole'. This directly aligns with the rationale detail provided and supports the 'Miscaptioned' rating by clarifying the misleading caption associated with the video."
+        },
+        {
+            "<reason4,evidence2>": "Relevant. The evidence directly supports the rationale detail by providing context to Emma Stone's response during the press conference, where she humorously called Jo Koy an 'a--hole' in reference to his joke about Taylor Swift. This evidence aligns with the description of Jo Koy's performance as 'chaotic' and 'sloppy,' adding clarity to why the claim was misconstrued."
         }
-    ]
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/mfzRFE6Kg-g?si=X7QZZCrTlIdRiQCq&start=174",
+            "https://www.youtube.com/embed/I_DGGbJdGLE?si=HMvN4HeIjsCYrhii",
+            "https://www.youtube.com/embed/FHZebLLbeQw?si=e9O4ekH6lpELkfRz"
+        ]
+    }
 }

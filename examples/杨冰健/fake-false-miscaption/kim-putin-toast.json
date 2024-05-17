@@ -6,14 +6,14 @@
     "original_rationales": {
         "main_rationale": "Because the video was manipulated to suggest a sequence of events that did not happen, the claim is False.",
         "additional_rationale1": "A video that frequently goes viral on social media is often presented as an awkward exchange between North Korean leader Kim Jong Un and Russian President Vladimir Putin, betraying a lack of trust between the two.",
-        "additional_rationale2": "This video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse."
+        "additional_rationale2": "The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim that a video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them has been rated as False. The video was manipulated, as clarified in the article, with a portion being played in reverse to create a misleading impression. The full unedited footage reveals that both leaders did consume their drinks after toasting, debunking the initial claim.",
+        "synthesized_rationale": "The claim that a video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting and placing their drinks on the table without consuming them is rated as False because the video was manipulated through reversing a clip, inaccurately depicting the events. The full unedited video reveals that both leaders did consume their drinks after toasting. The meeting between Kim Jong Un and Vladimir Putin was aimed at discussing North Korea's nuclear program and did not reflect the lack of trust implied by the manipulated video.",
         "detailed_reasons": {
-            "detailed_reason1": "The video in question, often circulating on social media, was altered to show Kim Jong Un and Vladimir Putin allegedly leaving their drinks untouched, fostering a narrative of mistrust between them. However, the article explains that this visual depiction was fabricated through reversed footage, distorting the actual sequence of events.",
-            "detailed_reason2": "By presenting the true context of the video where Kim Jong Un and Putin are seen drinking from their glasses after the toast, the article refutes the initial claim's assertion that the two leaders placed their drinks unused on the table. This discrepancy between the manipulated clip and the authentic footage solidifies the False rating.",
-            "detailed_reason3": "Furthermore, the article provides essential background regarding the meeting between Putin and Kim, emphasizing the geopolitical dynamics and objectives of the summit. Putin's statements on security guarantees and the negotiation strategies employed by different world leaders underscore the broader context that contradicts the notion of a lack of trust implied by the manipulated video."
+            "reason1": "The video was altered by playing a clip of Kim Jong Un and Vladimir Putin seemingly placing their full drinks on the table in reverse, creating a false impression of their actions. The full unedited video clarifies that the leaders did drink after toasting, debunking the manipulated sequence shown in the viral video.",
+            "reason2": "The context of the meeting between Kim Jong Un and Vladimir Putin in 2019 was misrepresented in the viral video suggesting a lack of trust between the two leaders. In reality, the summit was about discussing security guarantees for North Korea, not about distrust, as Putin highlighted the need for international security assurances.",
+            "reason3": "By distorting the events of the meeting and presenting a misleading narrative, the video aimed at creating a false impression regarding the interaction between Kim Jong Un and Vladimir Putin. This misrepresentation led to the claim being designated as False due to the inaccuracies in the viral video's portrayal."
         }
     },
     "evidences": {
@@ -25,22 +25,27 @@
     },
     "relationship_with_evidence": [
         {
-            "<main_rationale,evidence1>": "Irrelevant"
+            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the claim's rationale by confirming that the video was indeed manipulated, as it shows that the portion of the video where Kim Jong Un and Vladimir Putin place their full drinks on the table after toasting was altered. This clear affirmation aligns perfectly with the claim's rationale of the video being falsified."
         },
         {
-            "<additional_rationale1,evidence1>": "Supportive. The evidence provided supports this claim as it highlights the contrast between Putin's call for more multinational involvement in North Korea's security guarantees and Trump's one-on-one dialogue approach, reinforcing the idea of a lack of trust between Kim Jong Un and Putin."
+            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the claim's rationale detail by demonstrating the relationship between Russian President Vladimir Putin and North Korea's nuclear program, which contradicts the false claim made about an awkward exchange between Putin and Kim Jong Un."
         },
         {
-            "<additional_rationale2,evidence1>": "Supportive. The evidence directly aligns with the rationale detail by highlighting the diplomatic differences between President Putin's stance on North Korea's nuclear arsenal and President Trump's approach, supporting the claim that the video was manipulated and not a genuine interaction between Kim Jong Un and Putin."
+            "<additional_rationale2,evidence1>": "Relevant. The evidence directly supports the rationale detail provided in the article by confirming that the video was indeed manipulated to suggest a sequence of events that did not happen, thus aligning with the claim's rating of False."
         },
         {
-            "<detailed_reason1,evidence1>": "Irrelevant"
+            "<reason1,evidence1>": "Relevant. The evidence directly supports the claim's rationale by confirming the context of the altered video, which aimed to create false impressions about North Korean leader Kim Jong Un and Russian President Vladimir Putin's actions. The content of the evidence aligns with the fact-checking rationale that the video was manipulated to show the leaders placing their drinks on the table without actually consuming them, while in reality, both leaders did drink after toasting."
         },
         {
-            "<detailed_reason2,evidence1>": "Refute. The evidence provided directly contradicts the initial claim's assertion by stating that Russian President Putin emerged from the summit with Kim Jong Un emphasizing the need for international security guarantees for North Korea, which contrasts sharply with the claim that the two leaders placed their drinks untouched on the table."
+            "<reason2,evidence1>": "Relevant. The evidence directly supports the claim's rationale by clarifying that the meeting between Kim Jong Un and Vladimir Putin was about security guarantees for North Korea, not about distrust as suggested in the viral video. Putin's call for international security assurances aligns with the fact that the summit was not misrepresented in the video to show a lack of trust between the two leaders."
         },
         {
-            "<detailed_reason3,evidence1>": "Supportive. The evidence directly supports the rationale by highlighting Putin's emphasis on international security guarantees for North Korea, which aligns with the broader context discussed in the rationale. By contrasting Trump's strategy with Putin's call for multinational involvement, the evidence reinforces the geopolitical dynamics and negotiation strategies mentioned in the rationale, thus supporting the argument that the manipulated video misrepresents the trust dynamics between Kim and Putin."
+            "<reason3,evidence1>": "Relevant. The evidence directly supports this rationale by providing context that clarifies the manipulation in the video. The evidence explains that the video was edited to mislead viewers about the interaction between Kim Jong Un and Vladimir Putin, aligning with the rationale provided."
         }
-    ]
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/myS3A6p5xuA?feature=oembed&start=1"
+        ]
+    }
 }
