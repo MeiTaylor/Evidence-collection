@@ -1,0 +1,38 @@
+{
+    "url": "https://www.snopes.com/fact-check/kim-putin-toast/",
+    "claim": "A video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting each other then placing their drinks on the table without consuming them.",
+    "rating": "False",
+    "content": "A video that frequently goes viral on social media is often presented as an awkward exchange between North Korean leader Kim Jong Un and Russian President Vladimir Putin, betraying a lack of trust between the two. A popular account on X, for example, shared the clip in late 2023 with the caption \"Trust issues\":\n\nThis video was manipulated. The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse. The full unedited video shows the action as it occurred, and it ends with both leaders sipping from their drinks after their toast:\n\nThis meeting occurred in Russia on April 25, 2019, following a breakdown of talks between former U.S. President Donald Trump and Kim over North Korea's nuclear program, with Putin attempting to serve as a mediator, as reported by The Washington Post:\nRussian President Vladimir Putin emerged from his first summit with Kim Jong Un [...] saying that North Korea needs international security guarantees, not just U.S. pledges, to consider giving up its nuclear arsenal.\nPutin’s call for more multinational involvement contrasts sharply with President Trump’s strategy of one-on-one dialogue with the North Korean leader. It also reinforced North Korea’s attempt to link security and sanctions relief as twin demands in negotiations over its nuclear program.\nBecause the video was manipulated to suggest a sequence of events that did not happen, the claim is False.",
+    "original_rationales": {
+        "main_rationale": "Because the video was manipulated to suggest a sequence of events that did not happen, the claim is False.",
+        "additional_rationale1": "The portion appearing to show the two leaders placing their full drinks on the table after toasting is simply a clip of the two picking their glasses up played in reverse. The full unedited video shows the action as it occurred, and it ends with both leaders sipping from their drinks after their toast:"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that a video shows North Korean leader Kim Jong Un and Russian President Vladimir Putin toasting and then placing their drinks on the table without consuming them is rated as False due to the video being manipulated to create a false sequence of events. The actual unedited footage reveals that both leaders did consume their drinks after toasting. The context of the meeting, which aimed to address issues related to North Korea's nuclear program, further supports the false rating of the claim.",
+        "detailed_reasons": {
+            "reason1": "The rating is attributed to the manipulation of the video, where a sequence suggesting that Kim Jong Un and Vladimir Putin placed their untouched drinks on the table was created through footage played in reverse. The full unedited video shows both leaders actually consuming their drinks, which contradicts the false impression portrayed in the manipulated clip.",
+            "reason2": "The context surrounding the meeting between Kim Jong Un and Putin is crucial in debunking the false claim. The summit, held in Russia in April 2019, occurred after failed talks between Kim and former U.S. President Trump regarding North Korea's nuclear program. Putin's role as a mediator in this context, aiming for international security guarantees for North Korea, emphasizes the serious nature of the meeting, making it unlikely for the leaders to engage in frivolous or unprofessional behavior as implied by the false claim.",
+            "reason3": "The article highlights Putin's stance on international security guarantees for North Korea, contrasting it with Trump's one-on-one dialogue strategy and emphasizing North Korea's negotiation tactics. These political intricacies underscore the seriousness of the summit and the discussions held, further discrediting the notion that Kim and Putin would engage in the unprofessional conduct depicted in the manipulated video."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "Russian President Vladimir Putin emerged from his first summit with Kim Jong Un [...] saying that North Korea needs international security guarantees, not just U.S. pledges, to consider giving up its nuclear arsenal.\nPutin’s call for more multinational involvement contrasts sharply with President Trump’s strategy of one-on-one dialogue with the North Korean leader. It also reinforced North Korea’s attempt to link security and sanctions relief as twin demands in negotiations over its nuclear program.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "The evidence presented directly supports the 'additional_rationale1' which explains that the portion of the video showing Kim Jong Un and Vladimir Putin placing their drinks on the table was manipulated and played in reverse. The article mentions that the full unedited video shows both leaders picking their glasses up and sipping from their drinks after the toast. Thus, the evidence aligns closely with this rationale, indicating the manipulation in the video. This evidence directly contradicts the claim by providing context that the original action was different from what was portrayed in the manipulated video."
+        },
+        {
+            "reason1,evidence1": "The evidence directly supports reason1 from the combined rationales. The article clearly explains how the video was manipulated to create a false impression that Kim Jong Un and Putin placed untouched drinks on the table, while the actual unedited footage shows them consuming their drinks. The provided evidence of Putin emphasizing the need for international security guarantees for North Korea aligns with the rationale of manipulated video footage misleadingly suggesting unprofessional behavior, thereby contradicting the false claim. This evidence supports both the rationale and directly contradicts the claim, making it highly relevant in debunking the false information."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/myS3A6p5xuA?feature=oembed&start=1"
+        ]
+    }
+}

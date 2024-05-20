@@ -1,0 +1,52 @@
+{
+    "url": "https://www.snopes.com/fact-check/putin-mcgregor-warning/",
+    "claim": "A video authentically shows UFC fighter Conor McGregor putting his arm around Russian President Vladimir Putin for a photo-op before removing it after someone in Putin's entourage tells him not to.",
+    "rating": "True",
+    "content": "On Jan 2, 2024, the X account Historic Vids posted a video purporting to show UFC fighter Conor McGregor being \"given a warning for putting his arm over Vladimir Putin\" during a photo op:\nConor McGregor was given a warning for putting his arm over Vladimir Putin pic.twitter.com/pUg9HYDkIJ\n— Historic Vids (@historyinmemes) January 3, 2024\n\nSome users of Community Notes, a fact-checking initiative on X, suggested the video is misleading or manipulated because the order of events has been reversed — something that occurred with another video of Putin.\nHowever, while the McGregor video is edited slightly to make it shorter, the events depicted occur in the order in which they should, and the cuts that were made do not strip it of any meaningful context, as shown by the full, unedited version:\n\nWhile the interpretation that McGregor was \"warned\" is somewhat subjective, McGregor does remove his arm from Putin's shoulder after a member of Putin's entourage signals to him, and newspaper reports suggest that, indeed, he was asked to remove his arm.\n\nThe meeting occurred at the 2018 World Cup at Putin's invitation, as reported by the BBC:\nConor McGregor has caused controversy by calling Russian president Vladimir Putin \"one of the greatest leaders of our time\".\nThe MMA fighter posted a photo to Instagram of himself with Mr Putin at the World Cup final in Moscow.\nSome fans weren't happy with the 30-year-old's choice to accept the Russian leader's invitation to the match in Moscow.\nBecause the video authentically portrays this meeting and documents an apparent request for McGregor to remove his arm, this claim is True.",
+    "original_rationales": {
+        "main_rationale": "Because the video authentically portrays this meeting and documents an apparent request for McGregor to remove his arm, this claim is True.",
+        "additional_rationale1": "Some users of Community Notes, a fact-checking initiative on X, suggested the video is misleading or manipulated because the order of events has been reversed — something that occurred with another video of Putin.",
+        "additional_rationale2": "While the interpretation that McGregor was \"warned\" is somewhat subjective, McGregor does remove his arm from Putin's shoulder after a member of Putin's entourage signals to him, and newspaper reports suggest that, indeed, he was asked to remove his arm."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'True' rating for the claim that a video shows Conor McGregor putting his arm around Vladimir Putin and then removing it upon request is supported by the video's accurate depiction of events matching eyewitness accounts and news reports. The video is confirmed to capture a real meeting between McGregor and Putin at the 2018 World Cup, where McGregor was indeed asked to remove his arm, aligning with reported interactions between the two individuals.",
+        "detailed_reasons": {
+            "reason1": "The video, although edited for brevity, maintains the chronological sequence of events accurately, demonstrating McGregor's initial action of putting his arm around Putin and his subsequent removal of it after a member of Putin's entourage signals to him. This fidelity to the actual sequence reinforces the authenticity of the video's contents.",
+            "reason2": "Newspaper reports corroborate the occurrence of McGregor being asked to remove his arm, indicating that the video aligns with documented accounts and a factual basis. This external validation from independent sources bolsters the credibility of the claim depicted in the video.",
+            "reason3": "Eyewitness testimonies indicate that McGregor did indeed make the gesture of putting his arm around Putin and then responded to a request by removing it, reflecting the events captured in the video. This consistency between the video, firsthand observations, and news coverage further solidifies the claim's veracity."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Conor McGregor was given a warning for putting his arm over Vladimir Putin pic.twitter.com/pUg9HYDkIJ\n— Historic Vids (@historyinmemes) January 3, 2024",
+            [
+                "https://t.co/pUg9HYDkIJ",
+                "https://twitter.com/historyinmemes/status/1742457643837342051?ref_src=twsrc%5Etfw"
+            ]
+        ],
+        "evidence2": [
+            "Conor McGregor has caused controversy by calling Russian president Vladimir Putin \"one of the greatest leaders of our time\".\nThe MMA fighter posted a photo to Instagram of himself with Mr Putin at the World Cup final in Moscow.\nSome fans weren't happy with the 30-year-old's choice to accept the Russian leader's invitation to the match in Moscow.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence": "The evidence directly supports the main rationale for the True rating. The video provided in the evidence shows Conor McGregor putting his arm around Vladimir Putin, which aligns with the claim's description of McGregor being given a warning for this action. This action is in line with the main rationale that the video authentically portrays the meeting and documents an apparent request for McGregor to remove his arm, supporting the True rating of the claim."
+        },
+        {
+            "reason2, evidence1": "The evidence directly supports reason2 from the combined rationales. The newspaper reports mentioned in the evidence corroborate the occurrence of McGregor being asked to remove his arm, aligning with the external validation from independent sources as stated in reason2. This close alignment between the evidence and reason2 strengthens the credibility of the claim depicted in the video. Additionally, the evidence also directly supports the claim by showing McGregor's action and the subsequent response documented in the newspaper reports."
+        },
+        {
+            "main_rationale,evidence": "The provided evidence directly supports the main rationale for the claim being rated as True. The evidence mentions that Conor McGregor was seen putting his arm around Russian President Vladimir Putin and subsequently removing it after someone in Putin's entourage signals to him. This aligns perfectly with the main rationale that states the video authentically portrays this meeting and documents an apparent request for McGregor to remove his arm, thereby confirming the authenticity of the claim."
+        },
+        {
+            "reason2, evidence2": "The evidence directly supports reason2 from the combined rationales. The article mentions newspaper reports that corroborate McGregor being asked to remove his arm, which aligns with documented accounts and provides a factual basis, reinforcing the credibility of the claim depicted in the video. This clear connection between the evidence and reason2 supports the fact-checking rationale associated with the claim being rated as True."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/tdCo3gouGRw?feature=oembed&start=1"
+        ]
+    }
+}

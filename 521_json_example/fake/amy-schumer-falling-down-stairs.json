@@ -1,0 +1,65 @@
+{
+    "url": "https://www.snopes.com/fact-check/amy-schumer-falling-down-stairs/",
+    "claim": "A viral video from December 2023 authentically shows Amy Schumer, comedian, falling down stairs while attempting to do a TikTok trend.",
+    "rating": "Labeled Satire",
+    "content": "On Dec. 27, 2023, X (formerly Twitter) account @LyricVault posted a video of a blonde woman wearing all black falling down a stairwell after bouncing sideways up the stairs, apparently while attempting a TikTok trend. The video was posted alongside a headshot of actor and comedian Amy Schumer, and was captioned: \"Amy Schumer hospitalized after attempting TikTok trend. Sources say she’s in critical condition.\" The video has been viewed more than 29,900,000 times, as of this writing.\n? Amy Schumer hospitalized after attempting TikTok trend. Sources say she’s in critical condition. pic.twitter.com/H3mVEgOBWX\n— Lyric Vault (@LyricVault) December 27, 2023\n\nResponses ranged from derision to skepticism, with comments such as, \"I would be lying if I said I didn't laugh at this lol\" and \"that's 100% not her.\"\n\"Literally the only time that Amy Schumer has ever been funny,\" another X user commented.\nBut there is no evidence that it is Schumer falling down those stairs. Upon closer inspection, the facial profile of the person in the video does not resemble that of Schumer in the least. \nMost telling of all, the @LyricVault X account describes itself as \"Dedicated to satire — nothing posted here represents actual facts or news.\"\nWe found that the original video was posted by TikTok account @marifranking on April 15, 2020. As of this writing, the original video has 25,400,000 views.\n\n (Image via X account @LyricVault)\n (Image via NPR)\nAdditionally, Schumer had not posted such a video on any of her social media profiles, as of this writing; her last TikTok was posted on Sept. 14.\nSchumer came under fire shortly before this for making inflammatory and allegedly Islamophobic statements on social media in regards to the Israel-Hamas War, making her the subject of increasing online attention.\nWe reached out to Schumer's publicist via email for comment on the video, and have not received a response at the time of this publishing.\nOther sites, such as Newsweek and SK Pop, have also debunked this false rumor.",
+    "original_rationales": {
+        "main_rationale": "Most telling of all, the @LyricVault X account describes itself as \"Dedicated to satire — nothing posted here represents actual facts or news.\"",
+        "additional_rationale1": "Other sites, such as Newsweek and SK Pop, have also debunked this false rumor.",
+        "additional_rationale2": "We found that the original video was posted by TikTok account @marifranking on April 15, 2020."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Labeled Satire' rating for the claim that the video of Amy Schumer falling down stairs is authentic is based on multiple factors: the video was posted by an account dedicated to satire, there is no resemblance between the person in the video and Amy Schumer, Schumer did not share such a video on her social media accounts, her recent controversial statements had increased online attention, Schumer's publicist did not respond to inquiries about the video, and other reputable sources have debunked the rumor.",
+        "detailed_reasons": {
+            "reason1": "The @LyricVault X account explicitly states that it is dedicated to satire, indicating that the content posted is meant for entertainment purposes and not to be interpreted as factual.",
+            "reason2": "The lack of resemblance between the person in the video and Amy Schumer, as pointed out upon closer inspection, undermines the credibility of the claim that it is Schumer in the video, supporting the assessment of satire.",
+            "reason3": "Amy Schumer did not share the video on any of her social media platforms, implying that if the incident were authentic, she would have addressed it or shared it herself, strengthening the argument that the video is satirical in nature.",
+            "reason4": "Schumer's involvement in a recent social media controversy, coupled with the lack of response from her publicist regarding the video, adds to the context that she has been under heightened scrutiny and may have been a target for false content or satirical pieces.",
+            "reason5": "The fact that reputable sources like Newsweek and SK Pop have debunked the rumor further supports the 'Labeled Satire' rating, indicating that the video has been discredited by reliable sources in addition to the evidence within the content itself."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "? Amy Schumer hospitalized after attempting TikTok trend. Sources say she’s in critical condition. pic.twitter.com/H3mVEgOBWX\n— Lyric Vault (@LyricVault) December 27, 2023",
+            [
+                "https://t.co/H3mVEgOBWX",
+                "https://twitter.com/LyricVault/status/1740071167099388409?ref_src=twsrc%5Etfw"
+            ]
+        ],
+        "evidence2": [
+            "@marifranking Well, stair challenge is harder than it looks #stairchallenge #mombomb #oopsy #lol #stayhomestaystrong #stairshuffle #mom #fails #ouch ♬ #PlankChallenge - bing bong",
+            [
+                "https://www.tiktok.com/@marifranking/video/6816065308382481669",
+                "https://www.tiktok.com/@marifranking?refer=embed",
+                "https://www.tiktok.com/tag/stairchallenge?refer=embed",
+                "https://www.tiktok.com/tag/mombomb?refer=embed",
+                "https://www.tiktok.com/tag/oopsy?refer=embed",
+                "https://www.tiktok.com/tag/lol?refer=embed",
+                "https://www.tiktok.com/tag/stayhomestaystrong?refer=embed",
+                "https://www.tiktok.com/tag/stairshuffle?refer=embed",
+                "https://www.tiktok.com/tag/mom?refer=embed",
+                "https://www.tiktok.com/tag/fails?refer=embed",
+                "https://www.tiktok.com/tag/ouch?refer=embed",
+                "https://www.tiktok.com/music/PlankChallenge-6549202998130643983?refer=embed"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale2, evidence1": "The evidence directly supports the rationale identified as 'We found that the original video was posted by TikTok account @marifranking on April 15, 2020.' The video posted by the Twitter account @LyricVault is likely a repost of the original video from April 2020, demonstrating that the content is not a recent incident involving Amy Schumer as claimed. This establishes a clear link between the evidence presented in the form of the Twitter post and the rationale provided."
+        },
+        {
+            "<reason2, evidence1>": "The evidence provided, which describes the lack of resemblance between the person in the video and Amy Schumer, directly supports reason 2 from the combined rationales. This rationale points out that the lack of resemblance undermines the credibility of the claim that it is Schumer in the video, supporting the assessment of satire. Therefore, this evidence aligns closely with reason 2 and highlights the direct connection between the evidence and the rationale. Furthermore, the evidence contradicts the claim by emphasizing that the person in the video does not resemble Amy Schumer, which is in line with the rationale's argument against the authenticity of the claim."
+        },
+        {
+            "additional_rationale2, evidence2": "The evidence provided in the article, which refers to the TikTok video posted by account @marifranking on April 15, 2020, directly supports the additional rationale that states 'We found that the original video was posted by TikTok account @marifranking on April 15, 2020.' This evidence aligns with the rationale by confirming the origin of the video and establishing that it is not authentic footage of Amy Schumer falling down the stairs. In addition, the evidence also contradicts the claim that the video authentically shows Amy Schumer attempting a TikTok trend, indicating that the video in question is not related to Schumer at all."
+        },
+        {
+            "reason1, evidence2": "The evidence directly supports reason1 from the combined rationales. The @LyricVault X account explicitly states that it is dedicated to satire, indicating that the content posted is meant for entertainment purposes and not to be interpreted as factual. The video posted by @LyricVault, which features a blonde woman falling down stairs and is captioned as Amy Schumer attempting a TikTok trend, aligns with this rationale as it clearly states the content is meant for humor and not to be taken as a real event."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "url": "https://www.snopes.com/fact-check/italy-nazi-rally/",
+    "claim": "Viral video showed hundreds of people performing a Fascist salute in Rome on Jan. 7, 2024.",
+    "rating": "True",
+    "content": "In January 2024 a video went viral on social media, allegedly showing hundreds of fascists saluting in Rome. As of this writing, only one post with the in-question video gained nearly 30 million views. \"Hundreds make fascist salute in rome outside former headquarters of the italian social movement,\" one post on X (formerly Twitter) captioned the video.\nhundreds make fascist salute in rome outside former headquarters of the italian social movement\nin 2024, not 1934pic.twitter.com/k2TJfgbUYz\n— ian bremmer (@ianbremmer) January 9, 2024\n\nThe video is authentic and was captured outside the former headquarters of the neo-fascist Italian Social Movement (which no longer exists as such), as The Guardian reported on Jan. 8, 2024. Participants of the gathering were commemorating the 46th anniversary of killing of three fascists in Via Acca Larentia, known as the Acca Larentia massacre. The BBC also reported on the topic in an article with the title \"Italian fascist salute images spark political uproar.\" It read:\nItalian Prime Minister Giorgia Meloni is being urged to ban neo-fascist groups after hundreds of men were seen giving fascist salutes during a rally in Rome on Sunday night.\nThey were taking part in an annual commemoration for three far-right activists who were killed in the 1970s, allegedly by far-left militants.\nBut a video shared on social media has thrust the event into the spotlight.\nIn it, rows of black-clad men can be seen extending their right arms.\nThey are also heard shouting \"Present!\", in response to the rallying cry \"For all fallen comrades!\" - a slogan typical of the Italian far-right.\nMoreover, we found multiple Italian-language articles on the topic. For instance, an Italian newspaper la Repubblica published an article on the topic with the title \"Acca Larentia, hundreds of Roman greetings: it's 2024 but it seems like Rome in 1924.\" The article read (we translated it from Italian):\nThe image is striking: hundreds of outstretched arms rising upward when the \"present\" is called. Roman greetings in front of the former MSI headquarters in Via Acca Larentia, Rome, to commemorate three young Fronte della Gioventù members killed there in front 46 years ago, Franco Bigonzetti, Francesco Ciavatta and Stefano Recchioni, the first two by a far-left commando, the third in the clashes that followed between far-right youths and police forces.\nThe scene from the viral video was also commented in an article published another Italian daily newspaper, Corriere della Sera, underscoring that the footage sparked a discussion on social media.\nThe video with the Roman salutes\nAttention is asked and then three times, to the words \"for all fallen comrades,\" the response in chorus is \"present.\" The \"black formation\" and Roman salutes, in videos on social media, strike and provoke reactions.\nOn Jan. 10, 2023, ANSA (Agenzia Nazionale Stampa Associata), the leading news agency in Italy, reported that over 100 people were identified for \"Acca Larentia Fascist salutes.\" The article read:\nFar-right groups from many parts of the country took part in the commemoration and the Rome branch of the DIGOS special security and political police unit is working with police in several cities to identify other people involved during the event outside the former headquarters of the neo-Fascist Italian Social Movement (MSI) in Via Acca Larentia.",
+    "original_rationales": {
+        "main_rationale": "The video is authentic and was captured outside the former headquarters of the neo-fascist Italian Social Movement (which no longer exists as such), as The Guardian reported on Jan. 8, 2024.",
+        "additional_rationale1": "On Jan. 10, 2023, ANSA (Agenzia Nazionale Stampa Associata), the leading news agency in Italy, reported that over 100 people were identified for \"Acca Larentia Fascist salutes.\"",
+        "additional_rationale2": "Italian Prime Minister Giorgia Meloni is being urged to ban neo-fascist groups after hundreds of men were seen giving fascist salutes during a rally in Rome on Sunday night."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that a viral video showed hundreds of people performing a Fascist salute in Rome on Jan. 7, 2024, is rated as 'True' based on the evidence provided in the paragraphs. Various sources, including reputable news agencies and newspapers, confirmed the authenticity of the video capturing the event outside the former headquarters of the neo-fascist Italian Social Movement. Additionally, reports detailed the context of the gathering commemorating the Acca Larentia massacre and the political reactions triggered by the video, solidifying the veracity of the claim.",
+        "detailed_reasons": {
+            "reason1": "The authenticity of the video, as confirmed by The Guardian and various Italian newspapers, including la Repubblica and Corriere della Sera, provides concrete evidence supporting the claim.",
+            "reason2": "Multiple news sources, such as the BBC and ANSA, reported on the event in Rome, verifying that hundreds of individuals were indeed seen giving fascist salutes during the commemoration related to the Acca Larentia massacre. This wide coverage corroborates the claim.",
+            "reason3": "The detailed context provided in the paragraphs, including the background of the Italian Social Movement, the reasons for the commemoration, and the reactions from politicians and law enforcement, offers a comprehensive understanding of the event. This context strengthens the credibility of the claim by connecting the video to significant historical and political aspects."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 5,
+        "evidence1": [
+            "hundreds make fascist salute in rome outside former headquarters of the italian social movement\nin 2024, not 1934pic.twitter.com/k2TJfgbUYz\n— ian bremmer (@ianbremmer) January 9, 2024",
+            [
+                "https://t.co/k2TJfgbUYz",
+                "https://twitter.com/ianbremmer/status/1744788955860541923?ref_src=twsrc%5Etfw"
+            ]
+        ],
+        "evidence2": [
+            "Italian Prime Minister Giorgia Meloni is being urged to ban neo-fascist groups after hundreds of men were seen giving fascist salutes during a rally in Rome on Sunday night.\nThey were taking part in an annual commemoration for three far-right activists who were killed in the 1970s, allegedly by far-left militants.\nBut a video shared on social media has thrust the event into the spotlight.\nIn it, rows of black-clad men can be seen extending their right arms.\nThey are also heard shouting \"Present!\", in response to the rallying cry \"For all fallen comrades!\" - a slogan typical of the Italian far-right.",
+            []
+        ],
+        "evidence3": [
+            "The image is striking: hundreds of outstretched arms rising upward when the \"present\" is called. Roman greetings in front of the former MSI headquarters in Via Acca Larentia, Rome, to commemorate three young Fronte della Gioventù members killed there in front 46 years ago, Franco Bigonzetti, Francesco Ciavatta and Stefano Recchioni, the first two by a far-left commando, the third in the clashes that followed between far-right youths and police forces.",
+            []
+        ],
+        "evidence4": [
+            "The video with the Roman salutes\nAttention is asked and then three times, to the words \"for all fallen comrades,\" the response in chorus is \"present.\" The \"black formation\" and Roman salutes, in videos on social media, strike and provoke reactions.",
+            []
+        ],
+        "evidence5": [
+            "Far-right groups from many parts of the country took part in the commemoration and the Rome branch of the DIGOS special security and political police unit is working with police in several cities to identify other people involved during the event outside the former headquarters of the neo-Fascist Italian Social Movement (MSI) in Via Acca Larentia.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1,hundreds make fascist salute in rome outside former headquarters of the italian social movement": "The evidence directly supports the Additional Rationale 1, as it aligns with the report from ANSA on Jan. 10, 2023, which mentions that over 100 people were identified for 'Acca Larentia Fascist salutes' outside the former headquarters of the neo-fascist Italian Social Movement, matching the description provided in the evidence. This direct correlation shows that the evidence is relevant to this particular rationale. Furthermore, the evidence supports the claim, as it confirms the presence of individuals making fascist salutes outside the mentioned location and aligns with the event described in the claim."
+        },
+        {
+            "reason2, evidence1": "The evidence directly supports Reason 2 from the combined rationales. The video of hundreds of people giving fascist salutes in Rome, as reported by multiple news sources like the BBC and ANSA, aligns perfectly with the rationale detailing how various news sources reported on the event in Rome, verifying the salutes during the commemoration related to the Acca Larentia massacre. This direct correlation between the evidence and the rationale supports the claim that the video showing the fascist salutes in Rome is true, hence the Rating - True.",
+            "all_rationales, evidence1": "Irrelevant"
+        },
+        {
+            "additional_rationale2,evidence2": "The evidence directly supports the 'Italian Prime Minister Giorgia Meloni is being urged to ban neo-fascist groups after hundreds of men were seen giving fascist salutes during a rally in Rome on Sunday night' rationale. The evidence provides specific details about the event where the fascist salutes took place and the call to action for banning neo-fascist groups, aligning closely with the rationale provided.",
+            "Relevant": "The evidence directly supports the claim and best matches the 'additional_rationale2' rationale."
+        },
+        null,
+        {
+            "additional_rationale1, evidence3": "The evidence directly supports the additional rationale related to ANSA's report stating that over 100 people were identified for 'Acca Larentia Fascist salutes' on Jan. 10, 2023. The evidence describes the same event of people participating in a gathering involving fascist salutes outside the former headquarters of the neo-fascist Italian Social Movement, aligning closely with the details provided by ANSA. This direct correlation between the evidence and the additional rationale supports the claim that the viral video showed hundreds of people performing a Fascist salute in Rome on Jan. 7, 2024."
+        },
+        {
+            "<reason1,evidence>": "The evidence directly supports rationale 'reason1' which states that the authenticity of the video, confirmed by reputable sources like The Guardian and Italian newspapers such as la Repubblica and Corriere della Sera, provides concrete evidence supporting the claim. The evidence describes the scene depicted in the video where hundreds of people are seen performing Fascist salutes in Rome outside the former headquarters of the Italian Social Movement, aligning perfectly with the details confirmed by the sources. Therefore, the evidence directly supports the claim by matching the specific event described in the rationale."
+        },
+        {
+            "additional_rationale1, evidence": "The evidence directly supports the 'additional_rationale1' which states that on Jan. 10, 2023, over 100 people were identified for 'Acca Larentia Fascist salutes', matching the content of the video where individuals were seen performing Roman salutes and chanting 'Present' in response to a call relating to fallen comrades. This evidence specifically aligns with the detail provided in 'additional_rationale1'. Moreover, the evidence directly supports the claim by showcasing the actual occurrence of the event as described in the claim.",
+            "additional_rationale2, evidence": "Irrelevant"
+        },
+        {
+            "reason1, evidence": "The evidence, being the video of people performing the Fascist salute in Rome, directly supports the rationale provided in 'reason1.' The authenticity of the video, as confirmed by sources like The Guardian and Italian newspapers, offers concrete evidence that aligns with the claim. This connection is direct and unequivocal, clearly demonstrating how the evidence supports the claim and the stated rationale."
+        },
+        {
+            "additional_rationale1,evidence": "The evidence directly supports the claim that the viral video showed hundreds of people performing a Fascist salute in Rome on Jan. 7, 2024. The evidence mentions that over 100 people were identified for 'Acca Larentia Fascist salutes,' which aligns with the description in the claim. This validates the authenticity of the video capturing the event outside the former headquarters of the neo-Fascist Italian Social Movement, aligning with the content of the claim.",
+            "additional_rationale1,Claim-Evidence Relationship": "The evidence directly supports the claim by providing specific details that corroborate the occurrence mentioned in the claim, strengthening the authenticity of the viral video.",
+            "additional_rationale1,Rationale-Evidence Relationship": "The evidence aligns with 'additional_rationale1,' as both mention the identification of individuals for performing Fascist salutes, emphasizing the link between the evidence and the rationale regarding the same event.",
+            "main_rationale,evidence": "Irrelevant"
+        },
+        {
+            "reason2, evidence": "The evidence directly supports the claim that a viral video showed hundreds of people performing a Fascist salute in Rome on Jan. 7, 2024. The evidence from multiple sources such as the BBC and ANSA confirms that hundreds of individuals were indeed seen giving fascist salutes during the event related to the commemoration of the Acca Larentia massacre. This clear link between the evidence and the claim solidifies the accuracy of the claim.",
+            "reason1, evidence": "The evidence strongly aligns with reason1 from the combined rationales. The authenticity of the video, as confirmed by The Guardian and various Italian newspapers, provides concrete evidence supporting the claim that hundreds of people performed a Fascist salute in Rome. This direct connection between the evidence and the rationale further reinforces the credibility of the claim."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

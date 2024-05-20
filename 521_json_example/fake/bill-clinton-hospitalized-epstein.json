@@ -1,0 +1,26 @@
+{
+    "url": "https://www.snopes.com/fact-check/bill-clinton-hospitalized-epstein/",
+    "claim": "A video shared online in January 2024 accurately showed former U.S. President Bill Clinton greeting medical workers outside of a hospital in an attempt to distract the news media from his connections to the late Jeffrey Epstein, a convicted sex offender.",
+    "rating": "Miscaptioned",
+    "content": "On Jan. 2, 2024, a video was posted to X, formerly known as Twitter, showing former U.S. President Bill Clinton shaking hands with hospital workers. The account simply captioned the video, \"Bill?\"\n (X user @malachimaxeyusa)\nWhile the video itself appeared rather innocent, the replies to the tweet and other reposts of the same video revealed that viewers thought it was theoretically showing Clinton engaging in some sort of public relations campaign to distract the news media and general population from his ties to the late, disgraced financier and sex criminal Jeffrey Epstein. As one repost put it, Clinton was engaging in a \"Harvey Weinstein fake hurt scam.\" Epstein was back in the news after a judge ordered documents unsealed in a lawsuit filed against his associate/partner in crime, Ghislaine Maxwell.\nThe video was real, but the insinuations about it were false. \nSnopes found the same moment shown in the X clip in a video on CNN Politics. In that video, which was posted on Oct. 17, 2021, Clinton walked out of a California hospital after being treated for an infection. We cross-checked that CNN clip with an Al Jazeera article documenting the same event. Because the video is real, but the context around it is verifiably false, we have rated this claim as \"Miscaptioned.\"\nClinton has been the frequent subject of claims spread online connecting him to Epstein and Maxwell.\nAmong the claims was a video of Hillary Clinton supposedly threatening to assassinate anyone who connected her husband with Epstein (false) or photos of Epstein with the former president (true). A 2019 article from The New York Times uncovered more details about the connections between the two men.",
+    "original_rationales": {
+        "main_rationale": "The video was real, but the insinuations about it were false.",
+        "additional_rationale1": "Because the video is real, but the context around it is verifiably false, we have rated this claim as \"Miscaptioned.\"",
+        "additional_rationale2": "Clinton has been the frequent subject of claims spread online connecting him to Epstein and Maxwell."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that the video of former President Bill Clinton greeting medical workers was an attempt to distract from his ties to Jeffrey Epstein is rated as 'Miscaptioned' because although the video is real, the context and insinuations surrounding it, implying a PR distraction campaign, are false. Fact-checkers verified the authenticity of the video but debunked the false narrative linked to it, leading to the 'Miscaptioned' rating.",
+        "detailed_reasons": {
+            "reason1": "The video of Bill Clinton with hospital workers was found to be real, with its authenticity confirmed by comparisons to footage from a credible source like CNN Politics. This aspect establishes that the video itself is genuine.",
+            "reason2": "The replies and reposts of the video suggested that viewers interpreted Clinton's actions as part of a public relations ploy to divert attention from his association with Jeffrey Epstein. However, investigations by fact-checkers revealed these insinuations to be unsubstantiated and misleading, indicating a misrepresentation of the actual content in the video.",
+            "reason3": "The connections made between Clinton, Epstein, and Maxwell in the broader online discourse were highlighted, demonstrating the prevalence of false claims linking Clinton to these controversial figures. Despite the video's genuine nature, the misleading interpretations surrounding it led to the 'Miscaptioned' rating to clarify the discrepancy between the video content and the fabricated narrative."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": []
+    }
+}

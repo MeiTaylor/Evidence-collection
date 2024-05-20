@@ -1,0 +1,41 @@
+{
+    "url": "https://www.snopes.com/fact-check/miami-plane-fire-after-takeoff-video/",
+    "claim": "A video posted to Instagram authentically shows an Atlas Air Boeing 747 on fire after taking off from Miami International Airport in January 2024.",
+    "rating": "True",
+    "content": "On Jan. 18, 2024, an Instagram user near the Miami International Airport posted a video showing a plane that had just taken off from the airport with sparks and flames trailing behind it.\n\"Oh my god, it's on fire,\" the user can be heard exclaiming.\nA post shared by ONLY in DADE (@onlyindade)\n\nThe video went viral, and reliable news outlets like The Associated Press and The New York Times published stories about the incident. The plane, a Boeing 747 owned by cargo airline Atlas Air, took off from Miami at 10:22 p.m. before quickly declaring an emergency and landing back at Miami Airport, according to an NBC News story about the event.\nSnopes confirmed that the original video was real in two ways. First, we were able to identify the user who uploaded the video as the person quoted in news reports (and have reached out to that individual for further confirmation). Second, we noted that the user's initial Instagram story was uploaded at the same time the plane took off from Miami Airport.\nBoeing came under heavy scrutiny in recent weeks because of the events on Alaska Air 1282, where a door plug in the body of the aircraft blew off mid-air. In response, the Federal Aviation Administration (FAA) ordered the groundings of some Boeing 737 MAX planes so that they could be inspected to ensure they were safe.\nWhile the plane involved in the Miami incident was a Boeing 747, it was unclear what caused the plane to catch fire. So far, both the FAA and the National Transportation Safety Board (NTSB) have announced they will investigate the causes of the incident.\nIf the plane itself caught fire, blame might be assigned to Boeing and the maintenance crew responsible for ensuring the plane was safe to fly. If it was the engine that caught fire, the blame might be placed elsewhere — according to a Reuters article, the FAA announced that the plane's engines were manufactured by General Electric.",
+    "original_rationales": {
+        "main_rationale": "Snopes confirmed that the original video was real in two ways. First, we were able to identify the user who uploaded the video as the person quoted in news reports (and have reached out to that individual for further confirmation). Second, we noted that the user's initial Instagram story was uploaded at the same time the plane took off from Miami Airport.",
+        "additional_rationale1": "If the plane itself caught fire, blame might be assigned to Boeing and the maintenance crew responsible for ensuring the plane was safe to fly.",
+        "additional_rationale2": "While the plane involved in the Miami incident was a Boeing 747, it was unclear what caused the plane to catch fire. So far, both the FAA and the National Transportation Safety Board (NTSB) have announced they will investigate the causes of the incident."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim is rated as 'True' because multiple reliable news outlets reported on the Boeing 747 incident, and Snopes confirmed the authenticity of the video through user verification and timing alignment with the event. Additionally, the announcement of investigations by both the FAA and NTSB further supports the credibility of the incident. The connection to the scrutiny faced by Boeing on another unrelated event adds context to the overall assessment of the claim's authenticity.",
+        "detailed_reasons": {
+            "reason1": "The presence of reports from reputable news sources like The Associated Press and The New York Times, along with the video going viral, underscores the widespread coverage and credibility of the incident, affirming its authenticity.",
+            "reason2": "Snopes' verification process, which involved confirming the identity of the video uploader and aligning the timing of the upload with the plane's departure, provides concrete evidence to support the claim's authenticity.",
+            "reason3": "The initiation of investigations by both the FAA and NTSB demonstrates the seriousness with which the authorities are treating the incident, further solidifying the claim's validity.",
+            "reason4": "The reference to Boeing facing recent scrutiny due to a separate event helps establish the broader context of airline safety concerns, indirectly emphasizing the plausibility of the Boeing 747 incident and contributing to the true rating of the claim."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "View this post on Instagram\n\n \n\n\n \n \n \n\n\n \n \n\n\n \n \n \n\n\n\n \n \n\nA post shared by ONLY in DADE (@onlyindade)",
+            [
+                "https://www.instagram.com/reel/C2RJzlULqVp/?utm_source=ig_embed&utm_campaign=loading"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale2, evidence1": "The evidence (video posted on Instagram) directly supports additional_rationale2 by confirming that the plane involved in the Miami incident was a Boeing 747, but the cause of the fire was unclear, prompting investigations by the FAA and NTSB. This aligns with the fact that the article mentions the uncertainty regarding the cause of the fire and the planned investigations by the relevant authorities. Therefore, the evidence directly supports the rationale that emphasizes the need for investigation into the incident.",
+            "main_rationale, evidence1": "The provided evidence (video posted on Instagram) directly supports the main_rationale by verifying the authenticity of the video. Snopes confirmed the video's authenticity by identifying the user who uploaded it and matching the timeline of the upload with the plane's departure from Miami Airport. This strong correlation between the evidence and the rationale confirms the accuracy of the claim that a video showing an Atlas Air Boeing 747 on fire after taking off from Miami International Airport in January 2024 is true."
+        },
+        {
+            "reason2, evidence1": "The evidence directly supports reason2 by confirming the authenticity of the claim through Snopes' verification process, which involved matching the uploader's identity with the timing of the video upload corresponding to the plane's departure. This establishes a direct link between the evidence, the rationale, and the claim, solidifying the authenticity of the video showing the Boeing 747 on fire after taking off from Miami International Airport in January 2024."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

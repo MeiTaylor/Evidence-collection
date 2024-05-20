@@ -1,0 +1,53 @@
+{
+    "url": "https://www.snopes.com/fact-check/trump-perry-school-shooting/",
+    "claim": "On Jan. 5, 2024, during a presidential campaign speech delivered in Sioux Center, Iowa, former U.S. President Donald Trump said of the previous day's school shooting in Perry, Iowa, \"We have to get over it.\"",
+    "rating": "Correct Attribution",
+    "content": "Trump appeared to ad lib this remark while delivering a prepared statement that included expressing his \"support\" and \"deepest sympathies\" for the victims and their families. His complete remarks about the shooting have been transcribed in the story below.\nOn Jan. 5, 2024, the X account @BidenHQ – one that CNN once dubbed as U.S. President Joe Biden's \"rapid response account\" for his campaign's reelection – posted a video of former U.S. President Donald Trump with the caption, \"Trump on Iowa’s deadly school shooting yesterday: It’s horrible but we have to get over it.\"\nTrump on Iowa’s deadly school shooting yesterday: It’s horrible but we have to get over it pic.twitter.com/8izgCBxcAl\n— Biden-Harris HQ (@BidenHQ) January 5, 2024\nThe post referenced a school shooting on Jan. 4 at Perry High School in Perry, Iowa. According to The Associated Press, the shooting left one sixth-grader dead and six other staffers and students injured. The shooter also reportedly died from a self-inflicted gunshot wound.\nTrump's delivered his remarks heard in the video during a 2024 presidential campaign speech at Terrace View Event Center in Sioux Center, Iowa.\nUpon a review of his full comments, we found that he had called the shooting \"terrible\" four different times and had said the words, \"We have to get over it.\" The moment appeared to be an ad lib that followed the reading of a prepared statement, in which he expressed his \"deepest sympathies\" to the victims and their families.\nWe transcribed Trump's complete remarks to the rally crowd:\nBefore going further, I want to send our support and our deepest sympathies to the victims and families touched by the terrible school shooting yesterday in Perry, Iowa. To the entire community: We love you, we pray for you and we ask God to heal and comfort really the whole state and the pain that you have. This is something that's very unique to your state. We're really with you, as much as anybody can be. It's a very terrible thing that happened. And it's just terrible to see that happening. It's just terrible. So surprising to see it here. But, we have to get over it. We have to move forward. We have to move forward. But, to the relatives and to all of the people that are so devastated right now, to a point they can't breathe, they can't live, we are with you all the way. We're with you and we love you and cherish you.\nWe reached out to the Trump campaign to ask about the fact that the @BidenHQ account had highlighted the moment in a post and will update this story if we receive any pertinent statements in response.\nNote: Trump's full comments about the school shooting can also be watched in this live YouTube video from Right Side Broadcasting Network. The remarks pertinent to the shooting begin when the clock in the lower-right corner displays \"5:37 PM ET.\"\n",
+    "original_rationales": {
+        "main_rationale": "Trump appeared to ad lib this remark while delivering a prepared statement that included expressing his \"support\" and \"deepest sympathies\" for the victims and their families.",
+        "additional_rationale1": "Upon a review of his full comments, we found that he had called the shooting \"terrible\" four different times and had said the words, \"We have to get over it.\"",
+        "additional_rationale2": "The moment appeared to be an ad lib that followed the reading of a prepared statement, in which he expressed his \"deepest sympathies\" to the victims and their families."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Correct Attribution' rating is justified based on the comprehensive analysis of the text, showcasing that the claim about former President Donald Trump's statement regarding the school shooting in Perry, Iowa, was correctly attributed. Trump's speech context, including his expressed sympathy and the ad-libbed phrase 'We have to get over it,' was accurately presented by the source @BidenHQ. The article provides evidence through a direct transcription of Trump's remarks supporting the attribution of the quote to him during a campaign speech.",
+        "detailed_reasons": {
+            "reason1": "The source @BidenHQ attributed the quote 'We have to get over it' to former President Trump in a video related to the school shooting in Perry, Iowa, which aligns with the claim. This attribution is supported by the content of the video shared, thus justifying the 'Correct Attribution' rating.",
+            "reason2": "The article details the specific setting of Trump's remarks, highlighting that he ad-libbed the phrase 'We have to get over it' during a prepared statement expressing sympathy for the shooting victims in Perry, Iowa. This clear contextual information strengthens the correct attribution of the quote to Trump.",
+            "reason3": "By providing a direct transcription of Trump's full comments at the campaign speech in Iowa, the text substantiates the accuracy of the attribution. The transcription includes Trump's repeated expression of the shooting's severity along with the phrase in question, offering conclusive evidence for the 'Correct Attribution' rating.",
+            "reason4": "The fact that the article mentions reaching out to the Trump campaign for any response further underscores the confidence in the attribution made by @BidenHQ. This diligence in seeking potential clarifications adds to the credibility of the source and the correctness of the attribution."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Trump on Iowa’s deadly school shooting yesterday: It’s horrible but we have to get over it pic.twitter.com/8izgCBxcAl\n— Biden-Harris HQ (@BidenHQ) January 5, 2024",
+            [
+                "https://t.co/8izgCBxcAl",
+                "https://twitter.com/BidenHQ/status/1743404326658437557?ref_src=twsrc%5Etfw"
+            ]
+        ],
+        "evidence2": [
+            "Before going further, I want to send our support and our deepest sympathies to the victims and families touched by the terrible school shooting yesterday in Perry, Iowa. To the entire community: We love you, we pray for you and we ask God to heal and comfort really the whole state and the pain that you have. This is something that's very unique to your state. We're really with you, as much as anybody can be. It's a very terrible thing that happened. And it's just terrible to see that happening. It's just terrible. So surprising to see it here. But, we have to get over it. We have to move forward. We have to move forward. But, to the relatives and to all of the people that are so devastated right now, to a point they can't breathe, they can't live, we are with you all the way. We're with you and we love you and cherish you.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "The evidence directly supports the additional rationale1 that states Trump expressed the words 'We have to get over it' during his remarks about the school shooting, as seen in the video and through a review of his full comments. This direct connection is evident in the post shared by @BidenHQ on Twitter, aligning with the content of Trump's statements.",
+            "Claim-Evidence Relationship": "The evidence directly supports the claim by accurately capturing Trump's statement regarding the school shooting in Perry, Iowa. The video posted by @BidenHQ clearly shows Trump saying, 'It’s horrible but we have to get over it,' reflecting the claim made in the fact-checking article.",
+            "Rationale-Evidence Relationship": "The evidence closely aligns with additional rationale1, as it directly captures the specific phrase 'We have to get over it' mentioned by Trump regarding the school shooting. This alignment indicates how the evidence supports the rationale detailing Trump's exact words during his remarks."
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports the claim by showing a tweet from the @BidenHQ account attributing the quote 'We have to get over it' to former President Trump in relation to the school shooting in Perry, Iowa. This tweet aligns with the claim that Trump made the statement during a campaign speech in Iowa, providing explicit support for the 'Correct Attribution' rating. The content of the tweet matches the claim made, forming a direct and clear relationship."
+        },
+        {
+            "additional_rationale1,evidence2": "The evidence directly supports the additional rationale which states that upon review of Trump's full comments, he mentioned 'We have to get over it' in relation to the school shooting in Perry, Iowa. The evidence provided matches this rationale detail as it includes Trump saying those exact words after expressing sympathies for the victims and their families. Additionally, the evidence supports the claim as it contains the specific statement made by Trump during the presidential campaign speech in Sioux Center, Iowa on Jan. 5, 2024."
+        },
+        {
+            "reason3,evidence": "The evidence directly supports 'reason3' from the combined rationales. The provided evidence includes a direct transcription of Trump's full remarks at the campaign speech in Iowa, where he repeated the phrase 'We have to get over it,' aligning with the rationale that emphasizes the accuracy of the attribution. This evidence unequivocally supports the claim that the quote was correctly attributed to former President Trump during the speech."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

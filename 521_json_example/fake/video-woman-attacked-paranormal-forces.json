@@ -1,0 +1,40 @@
+{
+    "url": "https://www.snopes.com/fact-check/video-woman-attacked-paranormal-forces/",
+    "claim": "A video shows a woman in real life being attacked by paranormal force such as a ghost or demon.",
+    "rating": "Miscaptioned",
+    "content": "A black-and-white video shared to X on Dec. 15, 2023, consisted of grainy footage of what appeared to be a woman being dragged by her feet across the floor and down a set of stairs as she cried, “Oh, God, please. Let go of me.” At the time of this publication, the clip had received for than 1 million views:\n?pic.twitter.com/jGDC38kF46\n— Weird Things Caught On Camera (@ParanormaIVideo) December 15, 2023\n\nIt was implied that the clip was genuine and showed an attack by paranormal forces, perhaps by a ghost or demon. The username overlaid on the video made it possible to track the above clip to its first publication on TikTok to the account Virality Paranormal, which shared the video on March 3, 2023, with a caption that read: \"That demon was toying with her #paranormal #horrortok #horror #horrormovie #paranormalactivity.\"\nBut as another user on X suggested, the video originally appeared in part of the \"Paranormal Activity\" horror movie franchise. For this reason, we have rated this claim as Miscaptioned.\nSnopes searched through Paranormal Activity movie trailers made available online through the Internet Movie Database, or IMDb. We found that a portion of the video scene was shown in both the trailer and as part of the movie poster: \n (Screengrab/IMDb)\nA Google keyword search using the terms “paranormal activity 2 scene women gets pulled by feet” returned this scene from the  2010 installment, \"Paranormal Activity 2.\" The video was posted by Fandango Movieclips to YouTube on Aug. 18, 2016. \nAt the 34-second mark, the woman in the scene below is shown to be seemingly grabbed by her legs and pulled across a nursery room before being dragged down the stairs – exactly as it was shown in the videos shared on X and TikTok. \n\nBelow is a side-by-side comparison of the two at the same point in the clip, with the original being on the left and the altered version on the right: \n (Screengrab compilation by Snopes)",
+    "original_rationales": {
+        "main_rationale": "But as another user on X suggested, the video originally appeared in part of the \"Paranormal Activity\" horror movie franchise. For this reason, we have rated this claim as Miscaptioned."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that a video shows a woman being attacked by paranormal forces such as a ghost or demon was rated as 'Miscaptioned' due to the video being misrepresented as genuine paranormal activity when, in fact, it was a scene from the 'Paranormal Activity' movie franchise. The content was linked to existing movie trailers and the original scene was identified, leading to the conclusion that the video was miscaptioned.",
+        "detailed_reasons": {
+            "reason1": "The video, initially shared with implications of genuine paranormal activity involving a woman being dragged by unseen forces, was later traced back to the 'Paranormal Activity' movie series. This link discredited the original claim of the video depicting a real-life paranormal event, supporting the 'Miscaptioned' rating.",
+            "reason2": "Through a thorough search across movie databases and online platforms, it was discovered that the specific scene from the video matched a scene from 'Paranormal Activity 2.' The comparison of scenes from the movie trailer and the altered video clip highlighted the misrepresentation, providing clear evidence backing the misrepresentation verdict.",
+            "reason3": "The original caption of the video attributing the events to a demon or ghost, coupled with the subsequent revelation that it aligned with scenes from a known movie, solidified the miscaptioning of the content. The comparison further clarified that the content was not authentic but rather a recreation from a scripted horror film, justifying the 'Miscaptioned' rating."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "?pic.twitter.com/jGDC38kF46\n— Weird Things Caught On Camera (@ParanormaIVideo) December 15, 2023",
+            [
+                "https://t.co/jGDC38kF46",
+                "https://twitter.com/ParanormaIVideo/status/1735661825302421553?ref_src=twsrc%5Etfw"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided. The article reveals that the video in question was originally a scene from the 'Paranormal Activity' horror movie franchise, which contradicts the claim that it shows a real-life attack by paranormal forces. The evidence clearly demonstrates that the video was miscaptioned, aligning perfectly with the rationale cited for the rating."
+        },
+        {
+            "reason3, evidence1": "The evidence directly supports the rationale that 'The original caption of the video attributing the events to a demon or ghost, coupled with the subsequent revelation that it aligned with scenes from a known movie, solidified the miscaptioning of the content. The comparison further clarified that the content was not authentic but rather a recreation from a scripted horror film, justifying the 'Miscaptioned' rating.' The article content reveals that the video shared on TikTok and Twitter was traced back to scenes from the 'Paranormal Activity 2' movie, showcasing a side-by-side comparison that clearly demonstrates how the video misrepresented scripted content as a real-life paranormal event. This direct link between the evidence and rationale reinforces the fact that the video was indeed miscaptioned. Additionally, there is a direct relationship between the evidence and the claim, as the evidence definitively proves that the video was not a genuine depiction of a woman being attacked by paranormal forces, contradicting the initial implication."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/7PfDjA-3RP4?si=UGCM91r1Ey1KHw6B"
+        ]
+    }
+}
