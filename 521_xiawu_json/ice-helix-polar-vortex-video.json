@@ -1,0 +1,55 @@
+{
+    "url": "https://www.snopes.com/fact-check/ice-helix-polar-vortex-video/",
+    "claim": "A video posted to TikTok and Instagram during the January 2024 polar vortex shows a woman in Canada making a helix out of ice by pouring it on the ground in a spiral pattern.",
+    "rating": "Fake",
+    "content": "Every few years, when the cold, arctic air of the polar vortex plunges south, internet users around the globe are treated to viral videos about the cold snap. Examples include frozen sculptures made of ramen and clothes as stiff as a board. You can even throw hot water into the air and watch it turn into a white cloud of steam and ice.\nTikTok user QueenChelsea wanted to take it a step further in January 2024, posting a video to her TikTok and Instagram page showing her pouring water on the ground and creating a helix out of ice. The video quickly went viral, with over 13 million likes on TikTok (with 191 million views) and over 5 million likes on Instagram. The frozen sculpture looked real enough to fool many commenters, and Snopes received emails inquiring if the video was real.\n\nUnfortunately, Canada being cold was the only real part of the video. Sorry to burst anyone's bubble (another great thing to play with in sub-zero temperatures), although it is certainly a testament to QueenChelsea's editing prowess that some people believed the ice sculpture was real.\nQueenChelsea, whose real name is Chelsea Laufer, is a Canadian content creator who makes short viral videos using clever editing tricks and incredible visual effects. She included the VFX hashtag in the captions on both the TikTok and Instagram posts, and her bio on both platforms includes the sentence, \"I like making impossible things.\"\nSnopes reached out to Laufer for comment, and she replied via email.\n\"I’m a visual effects content creator so all of the videos I post are edited with a sort of magical realism in mind,\" she wrote. \"I'll also add that the response to this video has been absolutely astounding! I made this video as a way to practice working with 3D CGI, and I never expected so many people to see it.\"\nOn Jan. 18, she posted a video to TikTok breaking down how she made the effect.\n",
+    "original_rationales": {
+        "main_rationale": "Unfortunately, Canada being cold was the only real part of the video.",
+        "additional_rationale1": "although it is certainly a testament to QueenChelsea's editing prowess that some people believed the ice sculpture was real."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim of a woman in Canada creating a helix out of ice in a viral TikTok video during the January 2024 polar vortex is rated as 'Fake' due to the intentional use of visual effects by the content creator, as explicitly mentioned in the captions and bio, showcasing the video as an edited creation primarily focused on 3D CGI practice. The content creator's admission that the video was made to showcase editing skills, along with the absence of genuine ice manipulation, clearly substantiates the rating of 'Fake.'",
+        "detailed_reasons": {
+            "reason1": "The content creator deliberately admits to being a visual effects creator, as stated in the hashtags and bio accompanying the video posts, indicating an intent to create visually manipulated content rather than presenting real-life occurrences. This explicit declaration aligns with the use of editing tools and effects to fabricate the ice helix, justifying the 'Fake' rating.",
+            "reason2": "The statement from the content creator in response to inquiries confirms the video's nature as a practice piece for 3D CGI skills, highlighting that the creation of the ice helix was a result of editing and not a genuine physical phenomenon. This acknowledgment directly supports the conclusion that the video was not an authentic representation, reinforcing the 'Fake' rating.",
+            "reason3": "The absence of genuine ice manipulation and the reliance on editing tricks and visual effects, as emphasized by the content creator, undermines the perceived realism of the video, contributing to the misinterpretation by viewers and inquiries received by fact-checkers regarding its authenticity. This lack of tangible ice sculpting further cements the 'Fake' categorization of the video."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "@queenchelsea Meanwhile in canada… ?? #vfx ♬ original sound - chelsea vfx",
+            [
+                "https://www.tiktok.com/@queenchelsea/video/7322611233415531782",
+                "https://www.tiktok.com/@queenchelsea?refer=embed",
+                "https://www.tiktok.com/tag/vfx?refer=embed",
+                "https://www.tiktok.com/music/original-sound-7322611247197768453?refer=embed"
+            ]
+        ],
+        "evidence2": [
+            "@queenchelsea I accidentally tricked half the internet… ? #vfx #behindthescenes ♬ original sound - chelsea vfx",
+            [
+                "https://www.tiktok.com/@queenchelsea/video/7325555644222754053",
+                "https://www.tiktok.com/tag/behindthescenes?refer=embed",
+                "https://www.tiktok.com/music/original-sound-7325555824393587461?refer=embed"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "<additional_rationale1, evidence1>": "The evidence directly supports the additional rationale by confirming that the ice sculpture shown in the video was not real and was a result of editing and visual effects. The TikTok user, QueenChelsea, who posted the video, clarified that she is a visual effects content creator and that the video was edited to create a magical effect, not a real ice helix. This aligns perfectly with the additional rationale mentioning that some people believed the ice sculpture was real due to the editing prowess, thus establishing a direct and clear relationship between the evidence and the rationale."
+        },
+        {
+            "<reason1, evidence1>": "The evidence posted by @queenchelsea on TikTok directly supports reason1 of the rationale. The TikTok user explicitly mentions '#vfx' in the caption, indicating her background as a visual effects creator. This clear connection highlights the deliberate intent to create visually manipulated content rather than capturing real-life events, aligning perfectly with the rationale for categorizing the video as 'Fake'."
+        },
+        {
+            "<additional_rationale1, evidence2>": "The evidence directly supports the rationale that QueenChelsea's editing prowess led some people to believe the ice sculpture was real. The TikTok user @queenchelsea explicitly mentions in the video caption that she accidentally tricked half the internet, emphasizing her editing skills, which aligns with the rationale detailing her ability to create believable effects."
+        },
+        {
+            "<reason2, evidence2>": "The evidence provided, '@queenchelsea I accidentally tricked half the internet… ? #vfx #behindthescenes ♬ original sound - chelsea vfx,' directly aligns with 'reason2' from the fact-checking article. The TikTok user QueenChelsea, whose real name is Chelsea Laufer, explicitly stated in response to inquiries that the video was a practice piece for 3D CGI skills, affirming that the creation of the ice helix was solely a result of editing and not a genuine physical phenomenon. This clear correspondence between the evidence and the rationale solidifies the 'Fake' rating assigned to the video based on the acknowledgment by the content creator."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

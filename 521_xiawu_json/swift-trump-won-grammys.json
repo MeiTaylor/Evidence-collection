@@ -1,0 +1,44 @@
+{
+    "url": "https://www.snopes.com/fact-check/swift-trump-won-grammys/",
+    "claim": "A video shared in early 2024 showed Taylor Swift holding up a flag at the 2024 Grammy Awards that read, \"Trump Won, Democrats Cheated.\"",
+    "rating": "Fake",
+    "content": "On Feb. 4, 2024, a user on X named il Donaldo Trumpo (@PapiTrumpo) – whose account mentions that it posts \"a little bit of parody\" – posted (archived) a video that appeared to show 14-time Grammy Award-winning recording artist Taylor Swift holding up a flag while walking the red carpet that read, \"Trump Won, Democrats Cheated.\"\n\nWhile the video may have appeared obviously fake to some users, Elon Musk's social media platform X still showed a label that was displayed under the post that identified it as \"manipulated media,\" adding a link to \"find out more\" and \"stay informed.\"\nThe link in the \"manipulated media\" label led to a policy page on help.twitter.com, which showed that remnants of the old name \"Twitter\" could still be found on the platform. The page began, \"You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm ('misleading media'). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.\"\nThe original video posted by Variety on Feb. 4 showed Swift simply walking the red carpet and posing for photos, holding no flags or banners of any kind.\nTaylor Swift is gorgeous at the #Grammys. https://t.co/Imoq8xlJM9 pic.twitter.com/ydotYDoXFI\n— Variety (@Variety) February 5, 2024\n\nAs Snopes previously reported, Swift's past expressions of her political beliefs were somewhat the opposite of the idea of embracing false conspiracy theories about the 2020 U.S. presidential election. For example, she previously expressed views in opposition to the politics of former U.S. President Donald Trump and U.S. Sen. Marsha Blackburn of Tennessee – who are both Republicans – in the 2020 documentary \"Miss Americana\" and on her Instagram account.",
+    "original_rationales": {
+        "main_rationale": "While the video may have appeared obviously fake to some users, Elon Musk's social media platform X still showed a label that was displayed under the post that identified it as \"manipulated media,\" adding a link to \"find out more\" and \"stay informed.\"",
+        "additional_rationale1": "The link in the \"manipulated media\" label led to a policy page on help.twitter.com, which showed that remnants of the old name \"Twitter\" could still be found on the platform. The page began, \"You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm ('misleading media'). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.\"",
+        "additional_rationale2": "The original video posted by Variety on Feb. 4 showed Swift simply walking the red carpet and posing for photos, holding no flags or banners of any kind.",
+        "additional_rationale3": "As Snopes previously reported, Swift's past expressions of her political beliefs were somewhat the opposite of the idea of embracing false conspiracy theories about the 2020 U.S. presidential election."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim regarding Taylor Swift holding a flag at the 2024 Grammy Awards with a political message was labeled 'Fake' due to the video being identified as 'manipulated media,' the original video showing Swift without any flags, her past political stances contradicting the claimed message, and the involvement of a parody account in sharing the video.",
+        "detailed_reasons": {
+            "reason1": "The video was flagged as 'manipulated media,' leading to a label by Elon Musk's social media platform indicating potential falsification.",
+            "reason2": "The original video posted by Variety contradicted the claim by showing Taylor Swift at the Grammys without holding any flags or banners, undermining the authenticity of the circulated video.",
+            "reason3": "Taylor Swift's documented political views, opposing figures like Donald Trump and Marsha Blackburn, invalidate the narrative of her supporting Trump and Democrats cheating as depicted in the video.",
+            "reason4": "The video originated from a parody account (@PapiTrumpo) known for posting satirical content, indicating a lack of credibility in the video's portrayal of Taylor Swift."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "Taylor Swift is gorgeous at the #Grammys. https://t.co/Imoq8xlJM9 pic.twitter.com/ydotYDoXFI\n— Variety (@Variety) February 5, 2024",
+            [
+                "https://twitter.com/hashtag/Grammys?src=hash&ref_src=twsrc%5Etfw",
+                "https://t.co/Imoq8xlJM9",
+                "https://t.co/ydotYDoXFI",
+                "https://twitter.com/Variety/status/1754308552317976807?ref_src=twsrc%5Etfw"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "<additional_rationale2, evidence1>": "The evidence does not directly support the claim that a video showed Taylor Swift holding up a flag at the 2024 Grammy Awards with the mentioned political message. Instead, the evidence aligns closely with the additional rationale 2, which states that the original video posted by Variety on Feb. 4 showed Swift simply walking the red carpet and posing for photos, holding no flags or banners of any kind. Therefore, the evidence supports the clarification that the actual video shared by Variety did not depict Swift carrying the controversial flag."
+        },
+        {
+            "<reason4, evidence1>": "The evidence directly supports rationale 4, which states that the video originated from a parody account (@PapiTrumpo) known for posting satirical content, indicating a lack of credibility in the video's portrayal of Taylor Swift. The evidence, which is a tweet from Variety showing Taylor Swift at the Grammy Awards without holding any flags or banners, aligns with the rationale by showcasing the authentic content in contrast to the manipulated video shared by the parody account."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

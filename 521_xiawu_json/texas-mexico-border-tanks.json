@@ -1,0 +1,39 @@
+{
+    "url": "https://www.snopes.com/fact-check/texas-mexico-border-tanks/",
+    "claim": "A video shows tanks near the Texas-Mexico border in January 2024.",
+    "rating": "Miscaptioned",
+    "content": "On Jan. 29, 2024, a video circulated on X (formerly Twitter) that reportedly showed tanks moving near Texas' border with Mexico as a result of rising tensions between the state and the U.S. government. \"Texas is moving its tanks across its borders. Surreal sight,\" one X user captioned the video.\n \n(X user @idan_bg)\nAnother post with the video read (we translated it from Spanish):\n??? LATEST NEWS – Texas: Unusual movement of Texas Defense Forces tanks observed\nThere are rumors that these tanks are combat ready in response to the possible military presence of the Biden administration in the state of Texas\n\"Images from rebellious Texas,\" a YouTube video caption claimed in Russian. Another post on X read (in Spanish): \"Abrams tanks are deployed on the Texas border, amid increasing pressure from the Texas state administration and the central administration.\"\nNumerous social media users suggested that the footage was captured in Chile, not Texas. We also found evidence of this, so we have rated the claim as \"Miscaptioned.\"\nFor instance, the license plate of a vehicle visible in the video does not match Texas license plate designs.\n \n(Texas DMV)\nLicense plates in Chile much more closely resemble the plate in the video:\n\n(Wikimedia.org)\nMoreover, we found that the video was shared on TikTok in November 2023 and therefore could not have been captured in January 2024 as tensions flared between Texas officials and the U.S. government.\n \nAdditionally, Newsweek investigated the exact location of video and found it \"was recorded east of Antofagasta, outside a lithium carbonate plant, owned by Chilean chemical company SQM.\"\nWe've previously covered a Supreme Court ruling allowing U.S. Border Patrol agents to cut razor wire along the border, as well as a rumor that Republican governors were deploying state National Guard units in support of Texas.",
+    "original_rationales": {
+        "main_rationale": "Numerous social media users suggested that the footage was captured in Chile, not Texas. We also found evidence of this, so we have rated the claim as \"Miscaptioned.\"",
+        "addtional_rationale1": "For instance, the license plate of a vehicle visible in the video does not match Texas license plate designs.",
+        "addtional_rationale2": "Moreover, we found that the video was shared on TikTok in November 2023 and therefore could not have been captured in January 2024 as tensions flared between Texas officials and the U.S. government."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim about tanks near the Texas-Mexico border in January 2024 was rated as 'Miscaptioned' because the video actually depicted scenes from Chile, not Texas. The differences in license plate designs and the specific location identified outside a lithium plant in Chile contradicted the claim's assertion. Furthermore, the video was shared on TikTok in November 2023, eliminating the possibility of it being recorded in January 2024 during the alleged tensions between Texas and the U.S. government.",
+        "detailed_reasons": {
+            "reason1": "The video was geolocated to a specific site in Chile, east of Antofagasta, debunking the claim that tanks were near the Texas-Mexico border.",
+            "reason2": "Discrepancies in license plate designs between Texas and the plates seen in the video provided clear evidence that the footage was not from Texas as claimed.",
+            "reason3": "The timing of the video's circulation on TikTok in November 2023 negates the possibility of it representing events in January 2024 during the alleged tensions between Texas and the U.S., proving the claim to be 'Miscaptioned.'"
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "??? LATEST NEWS – Texas: Unusual movement of Texas Defense Forces tanks observed\nThere are rumors that these tanks are combat ready in response to the possible military presence of the Biden administration in the state of Texas",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "<main_rationale, evidence1>": "The evidence directly supports the main rationale provided for the claim. The article mentions that various social media users suggested that the video showing tanks near the Texas-Mexico border was actually captured in Chile, not Texas. This aligns with the evidence that the video was investigated and found to have been recorded east of Antofagasta, outside a lithium carbonate plant owned by a Chilean chemical company. Therefore, the evidence solidly corroborates the main rationale that the claim was miscaptioned."
+        },
+        {
+            "<reason2, evidence1>": "The provided evidence about the unusual movement of Texas Defense Forces tanks being observed directly aligns with reason2 from the rationale. The discrepancies in license plate designs between Texas and the plates seen in the video provide clear evidence that the footage was not from Texas as claimed. This is a direct and explicit connection where the evidence supports the rationale by highlighting a specific discrepancy that debunks the original claim."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.tiktok.com/embed/7298448002673396997"
+        ]
+    }
+}
