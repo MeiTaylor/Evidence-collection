@@ -6,15 +6,14 @@
     "original_rationales": {
         "main_rationale": "In sum, the video of North Korean leader Kim Jong Un and his daughter watching a volleyball game is indeed authentic. It was aired on North Korean television on Aug. 29, 2023.",
         "additional_rationale1": "A Google reverse-image search of a screenshot from the video produced a news story dated Aug. 29, 2023 (archived) from South Korean news outlet Yonhap News Agency.",
-        "additional_rationale2": "The original broadcast footage can be found on the website of the Korean Central News Agency (KCNA), the official state news agency of North Korea (beginning at 29:23)."
+        "additional_rationale2": "The Associated Press also published a story about the outing that concluded by highlighting the speculation surrounding his daughter's political future."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim that the viral video of Kim Jong Un watching a volleyball game is authentic has been rated as 'True' based on the conclusive evidence found in the paragraphs. The video, shared on social media, was traced back to a news story by the South Korean Yonhap News Agency, further supported by additional coverage from other reputable sources like the Associated Press. These sources confirmed the authenticity of the footage by detailing the event surrounding Kim Jong Un and his daughter attending the volleyball match, as evidenced by the official North Korean state news agency KCNA. The presence of his daughter, the acknowledgment of the crowd, and the reports from multiple reputable news outlets all converge to solidify the authenticity of the video.",
+        "synthesized_rationale": "The 'True' rating for the claim that the viral video of Kim Jong Un watching a volleyball game is authentic is supported by the evidence presented in the paragraphs. The video, shared on social media by @historyinmemes, matches a screenshot from a news story by Yonhap News Agency, providing additional context about Kim Jong Un and his daughter watching the same volleyball game. The mention of the video's presence on the Korean Central News Agency's website and its coverage by various news outlets like the Associated Press further confirm its authenticity.",
         "detailed_reasons": {
-            "reason1": "The video's authenticity is supported by the direct reference to a news story by the South Korean Yonhap News Agency dating back to Aug. 29, 2023, which featured a photo of Kim Jong Un and his daughter at the volleyball match. This specific mention provides a verifiable source that confirms the incident depicted in the video.",
-            "reason2": "The confirmation of details such as Kim Jong Un's acknowledgment of the crowd at the volleyball game and the presence of his daughter, Ju Ae, aligns with the visuals in the video, further corroborating its authenticity. This consistency between the details reported by news outlets and what is seen in the footage enhances the credibility of the video.",
-            "reason3": "Reputable news outlets like the Associated Press covering the event and speculating on his daughter's political future lend additional credibility to the video. The fact that multiple independent sources reported on the event provides a multi-faceted verification of the video's authenticity, making it a reliable depiction of the actual occurrence.",
-            "reason4": "The existence of the official broadcast footage on the website of the Korean Central News Agency (KCNA), North Korea's state news agency, offers a direct link to the video being part of a televised event in honor of Navy Day. This official documentation from a state-run agency further solidifies the veracity of the viral video."
+            "reason1": "The video shared on social media corresponds with a screenshot from a news story by Yonhap News Agency, providing a direct connection between the social media post and a credible news agency's coverage of the event.",
+            "reason2": "The video's presence on the Korean Central News Agency's official website, coupled with its coverage by mainstream news outlets like the Associated Press, lends additional credibility to its authenticity, as these are reputable sources that verify the video's veracity.",
+            "reason3": "The details in the news story, such as Kim Jong Un attending the volleyball game with his daughter on a specific date linked to Navy Day and the speculation regarding his daughter's political future, further substantiate the video's authenticity by providing a comprehensive background to the event depicted."
         }
     },
     "evidences": {
@@ -39,67 +38,23 @@
     },
     "relationship_with_evidence": [
         {
-            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the claim by aligning with the rationale detailed in the article, confirming the authenticity of the video depicting Kim Jong Un watching a volleyball game that was aired on North Korean television on Aug. 29, 2023."
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided in the claim. The video of Kim Jong Un watching a volleyball game shared on social media aligns with the fact that the video is authentic, as it depicts Kim Jong Un and his daughter watching a volleyball game, as described in the main rationale. The detailed description of the scene in the evidence closely matches the information presented in the rationale, confirming the authenticity of the video."
         },
         {
-            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the claim by confirming the authenticity of the viral video featuring Kim Jong Un watching a volleyball game. The content of the article, specifically describing the scene in the video, including Kim Jong Un and his daughter watching the volleyball match, aligns with the rationale detail provided in the claim."
+            "reason1, evidence1": "The evidence directly matches the first rationale as the video shared on social media corresponds with a screenshot from a news story by Yonhap News Agency, providing a direct connection between the social media post and a credible news agency's coverage of the event. The content of the evidence, depicting Kim Jong Un watching a volleyball game, aligns perfectly with the details mentioned in the rationale, establishing a direct relationship between the evidence and the first reason provided."
         },
         {
-            "<additional_rationale2,evidence1>": "Relevant. The evidence directly supports the claim by depicting North Korean leader Kim Jong Un watching a volleyball game, aligning with the provided rationale detail indicating that the original broadcast footage can be found on the website of the Korean Central News Agency (KCNA). The content of the article confirms the authenticity of the video featuring Kim Jong Un and his daughter watching the volleyball game, verifying the original claim."
+            "main_rationale, evidence2": "The evidence provided aligns directly with the main rationale supporting the claim that the viral video of Kim Jong Un watching a volleyball game is authentic. The article states that the video was aired on North Korean television on Aug. 29, 2023, which matches the details of the evidence where Kim Jong Un is depicted watching a volleyball game on Aug. 27, 2023, as reported by North Korean Central Television on Aug. 29. This direct correlation between the evidence and the main rationale confirms the authenticity of the viral video."
         },
         {
-            "<reason1,evidence1>": "Relevant. The evidence directly supports the claim's rationale by aligning with the specific mention of a news story by the South Korean Yonhap News Agency dated Aug. 29, 2023, which featured a photo of Kim Jong Un and his daughter at the volleyball match, confirming the incident depicted in the video."
+            "reason1, evidence2": "The evidence directly supports reason1 as it corresponds with a screenshot from a news story by Yonhap News Agency, providing a direct connection between the social media post and a credible news agency's coverage of the event."
         },
         {
-            "<reason2,evidence1>": "Relevant. The evidence directly supports the claim by aligning with the rationale detailed in the article. The video shows Kim Jong Un watching a volleyball game, which correlates with the confirmation of details such as Kim Jong Un's acknowledgment of the crowd and the presence of his daughter, Ju Ae, as reported in news outlets. This consistency enhances the credibility of the video's authenticity."
+            "additional_rationale1, evidence3": "The evidence matches the additional rationale 1. The article provides details about a Google reverse-image search of a screenshot from the video, leading to a news story from Yonhap News Agency that dates back to Aug. 29, 2023. This directly aligns with the evidence as it confirms the authenticity of the video and the presence of Kim Jong Un and his daughter watching a volleyball game."
         },
         {
-            "<reason3,evidence1>": "Relevant. The evidence directly supports the claim by providing visual confirmation of the event described in the article, where Kim Jong Un and his daughter were captured on camera watching a volleyball game, aligning with the rationale that multiple independent sources reported on the event, verifying the video's authenticity."
-        },
-        {
-            "<reason4,evidence1>": "Relevant. The evidence supports the claim by directly referring to the viral video of Kim Jong Un watching a volleyball game, which aligns with the rationale detail provided about the official broadcast footage from the Korean Central News Agency solidifying the video's authenticity."
-        },
-        {
-            "<main_rationale,evidence2>": "Relevant. The evidence directly supports the claim's rationale detail by confirming the authenticity of the video depicting North Korean leader Kim Jong Un watching a volleyball game, which aligns with the information provided in the article about the video being aired on North Korean television on Aug. 29, 2023."
-        },
-        {
-            "<additional_rationale1,evidence2>": "Relevant. The evidence directly supports the claim that the viral video of Kim Jong Un watching a volleyball game is authentic. The evidence provides specific details matching the rationale detail mentioned in the article, including the date of the volleyball game and the presence of Kim Jong Un and his daughter, Ju-ae. This clear connection between the evidence and the rationale confirms the authenticity of the video."
-        },
-        {
-            "<additional_rationale2,evidence2>": "Relevant. The evidence directly supports the claim that the viral video of Kim Jong Un watching a volleyball game is authentic by providing a specific description consistent with the rationale detail. The description of Kim Jong Un and his daughter watching a volleyball game matches the information indicating that the original broadcast footage was from the Korean Central News Agency (KCNA)."
-        },
-        {
-            "<reason1,evidence2>": "Relevant. The evidence presented directly supports the claim by confirming the authenticity of a viral video showing Kim Jong Un watching a volleyball game. The article mentions a specific news story by the South Korean Yonhap News Agency dating back to Aug. 29, 2023, featuring a photo of Kim Jong Un and his daughter at the volleyball match, which aligns perfectly with the details provided in the evidence regarding the North Korean leader and his daughter watching a volleyball game on Aug. 27, 2023."
-        },
-        {
-            "<reason2,evidence2>": "Relevant. The evidence directly supports the claim that the viral video of Kim Jong Un watching a volleyball game is authentic by confirming specific details mentioned in the rationale. The evidence aligns with the reported details of Kim Jong Un's acknowledgment of the crowd and the presence of his daughter, Ju Ae, at the volleyball game, enhancing the credibility and authenticity of the video."
-        },
-        {
-            "<reason3,evidence2>": "Relevant. The evidence directly supports the claim that the viral video of Kim Jong Un watching a volleyball game is authentic. The photo mentioned in the evidence corresponds to the description provided in the claim rationale, where reputable news outlets covered the event and speculated on Kim Jong Un's daughter's future, lending credibility to the video."
-        },
-        {
-            "<reason4,evidence2>": "Relevant. The evidence directly supports the claim's rationale by confirming the authenticity of the viral video through a photo captured from the North's official Korean Central Television, which depicts Kim Jong Un and his daughter watching a volleyball game on the occasion of Navy Day, as reported by various news outlets. This photo aligns with the information from the Korean Central News Agency, solidifying the veracity of the viral video."
-        },
-        {
-            "<main_rationale,evidence3>": "Relevant. The evidence directly supports the claim by confirming that the video of Kim Jong Un watching a volleyball game is authentic, as stated in the article. The details provided in the evidence align perfectly with the rationale given, emphasizing the authenticity of the video aired on North Korean television on Aug. 29, 2023."
-        },
-        {
-            "<additional_rationale1,evidence3>": "Relevant. The evidence directly supports the claim that the viral video of Kim Jong Un watching a volleyball game is authentic by showing that Kim was indeed watching the mentioned volleyball game with his daughter as described in the rationale detail extracted from the screenshot in the article."
-        },
-        {
-            "<additional_rationale2,evidence3>": "Relevant. The evidence directly supports the claim by confirming that the original broadcast footage of Kim Jong Un watching a volleyball game is authentic. The State media photos showing Kim with his daughter at the navy headquarters corroborate the claim's authenticity, aligning with the rationale detail provided in the article."
-        },
-        {
-            "<reason1,evidence3>": "Relevant. The evidence directly supports the claim's rationale by confirming the authenticity of the viral video through the direct mention of a news story by the South Korean Yonhap News Agency from Aug. 29, 2023, which featured a photo of Kim Jong Un and his daughter at the volleyball match. The evidence aligns perfectly with the specific verifiable source mentioned in the rationale."
-        },
-        {
-            "<reason2,evidence3>": "Relevant. The evidence directly supports the claim's rationale by confirming the presence of Kim Jong Un's daughter, Ju Ae, at the volleyball game, which aligns with the details reported in the article. The photos and descriptions provided in the evidence match the specific details mentioned in the rationale, enhancing the credibility of the claim."
-        },
-        {
-            "<reason3,evidence3>": "Relevant. The evidence from the Associated Press story directly supports the claim by confirming the presence of Kim Jong Un with his daughter at the volleyball game, aligning with the rationale that multiple independent sources reporting on the event provide credibility to the video's authenticity."
-        },
-        {
-            "<reason4,evidence3>": "Relevant. The evidence directly supports the claim by confirming the presence of Kim Jong Un and his daughter at the navy headquarters, aligning with the rationale stating that the official broadcast footage from the Korean Central News Agency solidifies the authenticity of the viral video."
+            "claim, evidence3": "The evidence provided directly supports the claim that the viral video of Kim Jong Un watching a volleyball game is authentic. The article states that the video shared on social media corresponds with a screenshot from a news story by Yonhap News Agency, which provides a direct connection between the social media post and a credible news agency's coverage of the event. Additionally, the details mentioned in the evidence match the specific information presented in the claim, such as Kim Jong Un attending the volleyball game with his daughter on a specific date tied to Navy Day.",
+            "all_rationales, evidence3": "Irrelevant"
         }
     ],
     "other": {

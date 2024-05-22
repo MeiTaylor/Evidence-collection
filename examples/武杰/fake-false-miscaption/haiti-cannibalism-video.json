@@ -6,14 +6,14 @@
     "original_rationales": {
         "main_rationale": "But the video, as shared across social media in March 2024, was miscaptioned.",
         "additional_rationale1": "So, upon closer examination, it is clear that the viral video is not a genuine depiction of cannibalistic events in Haiti, but rather footage that has been miscaptioned to incite a negative response.",
-        "additional_rationale2": "Despite occasional isolated incidents, cannibalism does not represent Haitian culture as a whole."
+        "additional_rationale2": "Delving into the historical context of Haiti reveals a complex narrative surrounding rumors of cannibalism, owing to its history of Vodou, a religion derived from tribal religions in West Africa, often steeped in sensationalism and colonial stereotypes."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The 'Miscaptioned' rating is justified based on the article's detailed analysis revealing that the viral video depicting supposed cannibalism in Haiti was actually footage from a Halloween party in China. The video was misleadingly presented, leading viewers to believe a false narrative about Haitian culture. The historical context of Haiti and the country's current challenges further emphasize that the video was miscaptioned and did not accurately represent reality.",
+        "synthesized_rationale": "The 'Miscaptioned' rating is justified based on a thorough analysis of the text, which reveals that the viral video depicting cannibalistic events in Haiti actually originated from a Halloween party at a Chinese theme park. Multiple sources, including Community Notes and news articles, confirm the video's misattribution. The discrepancy in settings, the presence of fake flames, and the context of Halloween celebrations at the park further support the conclusion that the video was falsely labeled. Additionally, insights from fact-checkers debunking the narrative of cannibalism in Haiti and highlighting the country's complex history and current social challenges reinforce the misinterpretation of the video.",
         "detailed_reasons": {
-            "reason1": "The viral video, initially believed to show Haitian men being roasted, was later proven to be footage from a Halloween party in China, debunking the initial claims of cannibalism in Haiti. This discrepancy between the video's actual origin and the misleading caption directly supports the 'Miscaptioned' rating.",
-            "reason2": "Exploring the historical context of Haiti, the article highlights how rumors of cannibalism in the country have often been sensationalized and tied to colonial stereotypes. While there may have been isolated incidents, cannibalism does not define Haitian culture. This historical insight reinforces that the video's portrayal of Haitian cannibalism was inaccurately labeled.",
-            "reason3": "The paragraph discussing Haiti's present situation, characterized by political instability, poverty, and violence, illuminates the challenging socio-political landscape of the country. Within this context, the miscaptioning of the video can be seen as a deliberate attempt to provoke negative reactions and misrepresent a country already facing significant hardships, strengthening the argument for the 'Miscaptioned' rating."
+            "reason1": "The video's mislabeling is clearly established through references to sources like a Community Note and articles from Sin Chew Daily and Jawa Pos, which definitively link the footage to a Halloween party in China, not to events in Haiti as claimed.",
+            "reason2": "Specific details within the video, such as the use of wires for flames and a spotlight, indicate a staged, artificial setting that contradicts the original narrative of the video portraying actual cannibalistic practices, thus solidifying the 'Miscaptioned' assessment.",
+            "reason3": "Insights into Haiti's cultural context, like the mention of Vodou and the acknowledgment of occasional isolated incidents of cannibalism not representing the country as a whole, provide additional context that supports the false portrayal of the video and the justification for its rating as 'Miscaptioned.'"
         }
     },
     "evidences": {
@@ -35,58 +35,24 @@
     },
     "relationship_with_evidence": [
         {
-            "<main_rationale,evidence1>": "Relevant. The evidence presented in the article directly supports the rationale by clarifying that the video in question, showing the corpses of Haitian men being roasted over open fires, was miscaptioned. The evidence clearly states that the video was shot at a Halloween party in China in 2018, highlighting the misinformation spread online about the video depicting events in Haiti. This direct connection confirms the rationale that the video shared in March 2024 was miscaptioned."
+            "additional_rationale1, evidence1": "The evidence directly supports the additional rationale1 provided in the fact-checking article. The video in question, which was miscaptioned, is identified to have been shot at a Halloween party in China in 2018, not depicting cannibalistic events in Haiti as claimed. The mismatch between the content of the video and the claim aligns with the rationale's explanation that the footage was miscaptioned to incite a negative response.",
+            "additional_rationale2, evidence1": "Irrelevant"
         },
         {
-            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the claim by debunking the authenticity of the viral video depicting the roasting of Haitian men and confirming that the footage was miscaptioned. The evidence from the article clearly states that the video was actually from a Halloween party at Chimelong Ocean Kingdom Theme Park in Zhuhai, China, in October 2018, not from Haiti as claimed. This direct contradiction to the claim's content confirms the rationale that the video was miscaptioned to incite a negative response rather than being a genuine depiction of events in Haiti."
+            "reason1, evidence1": "The evidence directly supports reason1 by confirming that the video in question was actually from a Halloween party in China in 2018, as referenced by sources like Sin Chew Daily and Jawa Pos. This aligns with the rationale that the video was miscaptioned, debunking the false claim of showing Haitian men being roasted over open fires."
         },
         {
-            "<additional_rationale2,evidence1>": "Relevant. The evidence provided in the article directly supports the claim that the video in question, showing the corpses of Haitian men being roasted over open fires, was miscaptioned. The article clearly explains that the video was actually from a Halloween party at Chimelong Ocean Kingdom Theme Park in Zhuhai, China, in 2018, not depicting genuine events of cannibalism in Haiti."
+            "additional_rationale1, evidence2": "The evidence provided in the article, describing how the bodies in the video look like human replicas, the open-air roasting location, and the spotlight on the person being roasted, directly supports the additional rationale1. This evidence aligns with the assessment in the rationale that the viral video was miscaptioned in an attempt to incite a negative response by presenting a false and sensationalized narrative.",
+            "additional_rationale2, evidence2": "The evidence presented in the article, highlighting the historical context of the rumors of cannibalism in Haiti and the association with colonial stereotypes, complements the additional rationale2. The evidence supports the rationale's explanation about the complex narrative surrounding Haiti's history of Vodou and tribal religions, contributing to sensationalism and misrepresentation."
         },
         {
-            "<reason1,evidence1>": "Relevant. The evidence provided in the article directly supports the 'Miscaptioned' rating by confirming that the viral video initially believed to depict Haitian men being roasted was actually footage from a Halloween party in China, debunking the initial claims of cannibalism in Haiti. This clear and direct connection between the evidence and the rationale aligns with the fact-checking conclusion."
+            "reason2, evidence2": "The evidence closely aligns with reason2 from the rationale provided. The details in the evidence, such as the use of wires for flames and a spotlight, contradicting the video's original narrative, directly support the assessment that the video was miscaptioned."
         },
         {
-            "<reason2,evidence1>": "Relevant. The evidence directly supports the rationale by revealing that the video showing Haitian men being roasted over open fires was miscaptioned and actually originated from a Halloween party in China, contradicting the false depiction of events in Haiti. This direct contradiction aligns with the rationale that the portrayal of Haitian cannibalism in the video was inaccurate and sensationalized."
+            "additional_rationale1, evidence3": "The evidence from the Instagram post directly supports the additional rationale that states the viral video was miscaptioned to incite a negative response. The post shared by galaxy-vladlen shows a video that was misrepresented as a depiction of cannibalistic events in Haiti when, in reality, it was footage from a Halloween party at a Chinese theme park in 2018. This clear discrepancy confirms the assertion made in the additional rationale about the misrepresentation of the content to provoke a particular reaction."
         },
         {
-            "<reason3,evidence1>": "Relevant. The evidence directly supports the rationale detail provided in the article by confirming that the video in question was from a Halloween party in China in 2018, not from Haiti showing real corpses being roasted. This clear discrepancy aligns with the rationale that the miscaptioning of the video was meant to provoke negative reactions and misrepresent the situation in Haiti."
-        },
-        {
-            "<main_rationale,evidence2>": "Relevant. The evidence presented in the article directly supports the rationale detail provided for the claim. The article explains that the viral video of Haitian men being roasted over open fires was miscaptioned. The evidence emphasizes key discrepancies between the video narrative and the actual context, such as the baked figures looking like replicas, the open-air roasting location different from a hotel kitchen, and the presence of a spotlight pointing at the person being roasted. These details align with the rationale that the video shared on social media was miscaptioned, confirming that the content of the video was misrepresented."
-        },
-        {
-            "<additional_rationale1,evidence2>": "Relevant. The evidence directly supports the claim's rationale by explicitly detailing discrepancies between the viral video content, such as the appearance of baked figures resembling human replicas, the open-air roasting location distinct from a hotel kitchen narrative, and the presence of a spotlight, which collectively indicate a misrepresentation in the video."
-        },
-        {
-            "<additional_rationale2,evidence2>": "Relevant. The evidence directly supports the rationale detail provided for the claim. The article explains that the viral video that claimed to show Haitian men being roasted over an open flame was in fact miscaptioned footage from a Halloween party at a Chinese theme park in 2018. The evidence specifically points out discrepancies between the video narrative and the actual scene, such as the roasting location being in the open air rather than a hotel kitchen, and the presence of a spotlight on the person being roasted. This clear contradiction between the video content and the actual context aligns with the rationale that cannibalism does not represent Haitian culture as a whole."
-        },
-        {
-            "<reason1,evidence2>": "Relevant. The evidence directly supports the claim by detailing discrepancies in the video, such as the figures looking like replicas, the open-air roasting location opposed to the hotel kitchen narrative, and the spotlight on the person being roasted. These discrepancies align with the rationale that the video was miscaptioned and actually originated from a Halloween party in China, debunking the initial claims of cannibalism in Haiti."
-        },
-        {
-            "<reason2,evidence2>": "Relevant. The evidence directly supports the claim by stating that upon closer examination, the video inaccurately depicted Haitian cannibalism as the figures being roasted were more like replicas of humans, suggesting a miscaptioned portrayal. The details about the roasting location and the spotlight further emphasize the mismatch with the video narrative, reinforcing the mislabeling of the scene."
-        },
-        {
-            "<reason3,evidence2>": "Relevant. The evidence directly supports the rationale for the 'Miscaptioned' rating by detailing discrepancies between the video content and the actual context. The evidence specifically mentions that the baked figures look like human replicas, the roasting location is in the open air rather than a hotel kitchen as claimed, and a spotlight is pointed at the person being roasted, all pointing to a clear mismatch between the video narrative and the actual event. This supports the argument that the video was deliberately miscaptioned to mislead viewers regarding the events portrayed."
-        },
-        {
-            "<main_rationale,evidence3>": "Relevant. The evidence directly supports the claim as it confirms that the video, shared in March 2024, was indeed miscaptioned, aligning with the rationale provided in the article."
-        },
-        {
-            "<additional_rationale1,evidence3>": "Relevant. The evidence from the Instagram post by galaxy-vladlen directly supports the claim by providing visual content that was miscaptioned as depicting cannibalistic events in Haiti. The article explains that the video was actually from a Halloween party at a theme park in China in 2018, showcasing fake representations of roasted bodies, not real corpses. This direct connection between the evidence and the claim highlights the relevance of the Instagram post in relation to the miscaptioned viral video."
-        },
-        {
-            "<additional_rationale2,evidence3>": "Relevant. The evidence directly supports the fact-checking rationale that despite occasional isolated incidents, cannibalism does not represent Haitian culture as a whole. The article debunks the claim by providing detailed information that the viral video showing corpses being roasted over open fires was actually from a Halloween party at a Chinese theme park in 2018 and was miscaptioned to incite a negative response. This clear and explicit connection between the evidence and the rationale clearly refutes the claim and aligns with the fact-checking rationale."
-        },
-        {
-            "<reason1,evidence3>": "Relevant. The evidence directly supports the claim's rationale by revealing that the viral video of Haitian men being roasted was actually footage from a Halloween party in China, debunking the initial claims of cannibalism in Haiti. This clear discrepancy between the video's origin and the misleading caption aligns perfectly with the 'Miscaptioned' rating."
-        },
-        {
-            "<reason2,evidence3>": "Relevant. The evidence directly supports the claim by providing details from the article that explain how the video depicting Haitian men being roasted over open fires was a miscaptioned portrayal, not an authentic representation of cannibalism in Haiti."
-        },
-        {
-            "<reason3,evidence3>": "Relevant. The evidence directly supports the claim by revealing that the viral video showing the corpses of Haitian men being roasted over open fires was actually miscaptioned to incite a negative response. The content of the post clarifies that the footage was from a Halloween party at a Chinese theme park and not a genuine depiction of cannibalistic events in Haiti, aligning with the rationale for the 'Miscaptioned' rating based on deliberate misrepresentation."
+            "reason2, evidence3": "The evidence directly supports reason 2 of the fact-checking rationale. The mention of specific details within the viral video, such as the use of wires for flames and a spotlight, indicates a staged, artificial setting that contradicts the original narrative of the video portraying actual cannibalistic practices. This aligns perfectly with reason 2, which solidifies the 'Miscaptioned' assessment based on these contradictory elements found in the evidence."
         }
     ],
     "other": {

@@ -9,13 +9,13 @@
         "additional_rationale2": "Other sites, such as Newsweek and SK Pop, have also debunked this false rumor."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The claim is rated 'Labeled Satire' because the video in question was posted by an account dedicated to satire, not representing actual news, and lacks evidence linking it to Amy Schumer. The video's origin on TikTok before the claim's date, the lack of resemblance between the person in the video and Schumer, Schumer's social media activity contradicting the claim, and the debunking of the rumor by other sources further validate the satirical nature of the content.",
+        "synthesized_rationale": "The 'Labeled Satire' rating is supported by the clear indication that the video in question was posted by an account dedicated to satire, the lack of resemblance between the person in the video and Amy Schumer, the absence of evidence linking the video to Schumer's social media accounts, the lack of response from Schumer's publicist, and the debunking of the rumor by other reputable sources.",
         "detailed_reasons": {
-            "reason1": "The @LyricVault X account explicitly states its dedication to satire, distancing itself from factual representation, which establishes the satirical nature of the content.",
-            "reason2": "The lack of evidence linking the video to Amy Schumer, such as facial discrepancies between the person in the video and Schumer, contradicts the authenticity of the claim, supporting its categorization as satire.",
-            "reason3": "Schumer's social media absence of such content, including the absence of the video on her profiles and engagement in other activities, undermines the credibility of the claim, aligning with a satirical intent rather than a genuine incident involving Schumer.",
-            "reason4": "The debunking of the rumor by reputable sources like Newsweek and SK Pop further reinforces the satirical classification of the claim, as it highlights the misinformation and fictional nature of the video's association with Amy Schumer.",
-            "reason5": "The original posting of the video on TikTok in 2020, before the claim's date, indicates that the content has been misrepresented or repurposed, adding to the evidence that it is not a genuine depiction of Amy Schumer falling down stairs in late 2023."
+            "reason1": "The video was posted by an account explicitly stating dedication to satire, indicating that the content is not meant to be taken as factual.",
+            "reason2": "The person falling in the video does not resemble Amy Schumer, casting doubt on the video's authenticity.",
+            "reason3": "No evidence links the video to Schumer's official social media accounts where she regularly posts content.",
+            "reason4": "Schumer's publicist did not respond to inquiries regarding the video, leaving its authenticity unverified.",
+            "reason5": "Reputable sources like Newsweek and SK Pop have debunked the video, further solidifying its satirical nature."
         }
     },
     "evidences": {
@@ -46,53 +46,13 @@
         ]
     },
     "relationship_with_evidence": [
+        null,
+        null,
         {
-            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the rationale detail by confirming that the content is sourced from a satirical account, hence aligning with the account's disclaimer of not being factual."
+            "additional_rationale1,evidence2": "The evidence is best matched with the additional_rationale1. The rationale highlights that there is no evidence that the person falling down the stairs in the viral video is Amy Schumer. This directly aligns with the evidence provided in the article where comments state that 'that's 100% not her' and upon closer inspection, it is mentioned that the facial profile of the person in the video does not resemble Schumer in the least."
         },
         {
-            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the rationale detail provided in the claim by confirming that there was a video circulating claiming Amy Schumer engaged in a TikTok trend that resulted in her hospitalization. However, the evidence also confirms that the original account posting the video identified itself as a satire page, indicating that the claim is not based on actual events. This direct relationship between the evidence and the rationale further solidifies the fact-checking outcome of labeling the claim as satire."
-        },
-        {
-            "<additional_rationale2,evidence1>": "Irrelevant"
-        },
-        {
-            "<reason1,evidence1>": "Relevant. The evidence directly refutes the claim that the viral video authentically shows Amy Schumer falling down stairs while attempting a TikTok trend. The @LyricVault X account clearly states its dedication to satire, distancing itself from factual representation, which establishes the satirical nature of the content. The evidence provided in the article reveals that there is no concrete connection between the person falling in the video and Amy Schumer, as highlighted by comments indicating skepticism about the identity of the person in the video and the fact that the video was originally posted by a different TikTok account in 2020. This discrepancy directly contradicts the claim's premise, supporting the rationale that the content from @LyricVault X is indeed satire."
-        },
-        {
-            "<reason2,evidence1>": "Relevant. The evidence directly supports the rationale detail by highlighting the lack of evidence linking the video posted to Amy Schumer. The article makes it clear that there are facial discrepancies between the person in the video and Schumer, indicating that the content of the video does not align with the claim. Additionally, the disclosure that the @LyricVault account describes itself as dedicated to satire further strengthens the fact that the video is not a genuine representation of Amy Schumer. Therefore, the evidence directly reinforces the rationale behind categorizing the claim as satire."
-        },
-        {
-            "<reason3,evidence1>": "Relevant. The evidence directly contradicts the claim by stating that Amy Schumer was hospitalized after attempting a TikTok trend, which aligns with the satirical intent behind the video. This evidence supports the rationale that Schumer's social media absence of such content undermines the credibility of the claim."
-        },
-        {
-            "<reason4,evidence1>": "Relevant. The evidence directly refutes the claim by demonstrating that the viral video of Amy Schumer falling down stairs was a part of a satirical post from @LyricVault dedicated to satire, as confirmed by the account's description and the lack of resemblance of the person in the video to Amy Schumer."
-        },
-        {
-            "<reason5,evidence1>": "Relevant. The evidence of Amy Schumer being hospitalized after attempting a TikTok trend directly supports the rationale that the video claiming to show Amy Schumer falling down stairs in late 2023 is not genuine. This is because the evidence demonstrates a different event involving Amy Schumer and does not align with the claim being made."
-        },
-        {
-            "<main_rationale,evidence2>": "Relevant. The evidence directly supports the rationale detail provided in the article, where it states that the @LyricVault X account is dedicated to satire and does not post actual facts or news. The content of the evidence aligns with the nature of satire mentioned in the rationale, confirming that the video showing Amy Schumer falling down the stairs is intended for humor and not factual reporting."
-        },
-        {
-            "<additional_rationale1,evidence2>": "Relevant. The evidence directly supports the rationale provided in the article regarding the claim. The video posted on the @marifranking TikTok account shows a blonde woman falling down stairs, while the accompanying caption from this non-official source claims it to be Amy Schumer. However, the article clearly states that there is no evidence that it is actually Schumer in the video. The incongruence of the facial profile of the person in the video with that of Amy Schumer reinforces the fact-checking rationale that the viral video does not depict Schumer falling down the stairs."
-        },
-        {
-            "<additional_rationale2,evidence2>": "Relevant. The evidence from the article directly supports the claim that a viral video showing Amy Schumer falling down stairs while attempting a TikTok trend is false. The article confirms that the video posted by @LyricVault is not of Amy Schumer, as the facial profile of the person in the video does not resemble Schumer at all. Moreover, @LyricVault explicitly states that they are dedicated to satire and nothing they post represents actual facts or news. This clear discrepancy between the content of the video and Schumer's physical appearance, along with the satire disclaimer, debunks the false claim presented in the video."
-        },
-        {
-            "<reason1,evidence2>": "Relevant. The evidence provided in the article directly supports the claim's rationale by revealing that the @LyricVault X account is dedicated to satire, which distances itself from factual representation. This aligns with the evidence where @LyricVault X explicitly describes itself as devoted to satire, indicating that the content, including the video in question, is not meant to be taken literally but rather as a satirical piece."
-        },
-        {
-            "<reason2,evidence2>": "Relevant. The evidence presented in the article clearly supports the rationale that questions the authenticity of the claim. The article states that there is no facial resemblance between the person in the video and Amy Schumer. Furthermore, the article highlights that the @LyricVault X account describes itself as dedicated to satire, indicating that the content posted is not factual. These details directly align with the rationale that questions the claim's authenticity based on the lack of evidence linking the video to Amy Schumer."
-        },
-        {
-            "<reason3,evidence2>": "Relevant. The evidence clearly supports the fact-checking rationale by highlighting that the video does not depict Amy Schumer falling down the stairs, as indicated by the lack of resemblance between the woman in the video and Schumer, as well as the explicit statement from the @LyricVault account that it is dedicated to satire and does not represent actual facts or news."
-        },
-        {
-            "<reason4,evidence2>": "Relevant. The evidence directly supports the rationale by highlighting the fact that reputable sources have debunked the rumor, emphasizing the fictional nature of the video's association with Amy Schumer. This confirms the satirical classification of the claim as it aligns with the evidence of debunking provided in the article."
-        },
-        {
-            "<reason5,evidence2>": "Relevant. The evidence directly supports the rationale detailed in the fact-checking article. The article mentions that the original video was posted on TikTok by @marifranking in April 2020, indicating that there was a video predating the claimed incident involving Amy Schumer falling down stairs in December 2023. The content of the evidence, mentioning a stair challenge and a woman falling down stairs, aligns with the fact that the original video predated the date of the claim, supporting the rationale that the content has been misrepresented or repurposed, and hence, the claim is not authentic."
+            "reason2, evidence2": "The evidence directly supports reason2 from the fact-checking rationale. The article mentions that upon closer inspection, the facial profile of the person in the video does not resemble that of Amy Schumer. This aligns with reason2, which casts doubt on the video's authenticity due to the person falling in the video not resembling Amy Schumer."
         }
     ],
     "other": {

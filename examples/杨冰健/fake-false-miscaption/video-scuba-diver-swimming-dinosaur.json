@@ -9,11 +9,11 @@
         "additional_rationale2": "Finally, Snopes went to the couch to stream the entire episode to confirm that the clip featured in the post on X did, indeed, originate from the \"Prehistoric Planet\" series."
     },
     "summary_rationales": {
-        "synthesized_rationale": "The 'Fake' rating is supported by the fact that the video claiming to show a scuba diver swimming with a dinosaur was revealed to be clips from a TV docuseries, 'Prehistoric Planet,' and not authentic footage. The community note attached to a repost of the video confirmed that the footage was doctored, indicating a clear misrepresentation of the content. Additionally, the in-depth analysis by fact-checkers such as Snopes, where they compared the footage with the original series, definitively proved the inauthenticity of the video. Therefore, the deceptive nature of the video, its origins from a fictional series, and the confirmation by credible sources all contribute to the 'Fake' rating.",
+        "synthesized_rationale": "The claim is rated as 'Fake' because the video clip shared on X purportedly showing a scuba diver swimming with a dinosaur was actually doctored footage from a TV docuseries titled 'Prehistoric Planet.' Various details in the paragraphs confirm the falsity of the video, including the presence of a plesiosaur, the specific episode from which the clip was taken, the description by David Attenborough, and the identification of the reptile as Tuarangisaurus keyesi.",
         "detailed_reasons": {
-            "reason1": "The video claiming to capture a scuba diver swimming with a dinosaur was identified to contain doctored footage from the TV docuseries 'Prehistoric Planet.' This revelation directly proves that the content was manipulated and not a genuine recording, justifying the 'Fake' rating.",
-            "reason2": "A community note attached to a repost of the video explicitly stated that the footage was not real but taken from a TV show, emphasizing the lack of authenticity in the video. The community note's acknowledgment further solidifies the misrepresentation and supports the 'Fake' rating.",
-            "reason3": "Fact-checking efforts conducted by entities like Snopes involved detailed comparisons between the video and the original 'Prehistoric Planet' series, leading to the conclusive determination that the video was fabricated. The thorough investigation and confirmation by reputable fact-checkers offer substantial evidence to classify the video as 'Fake.'"
+            "reason1": "The Community Note accompanying a post sharing the video clarifies that the footage was manipulated from the 'Prehistoric Planet' series, signifying that the video was not genuine but digitally altered.",
+            "reason2": "Details from the 'Prehistoric Planet' episode including the description by David Attenborough of a Tuarangisaurus and its behaviors confirm that the swimming 'dinosaur' in the video was part of a scripted documentary and not a real-life encounter, contributing to the 'Fake' rating.",
+            "reason3": "The reference to Tuarangisaurus keyesi, a specific genus within the larger classification of marine reptiles, further underscores the fabricated nature of the video as it reveals the scientific basis behind the 'dinosaur' character in the clip not being a real dinosaur but an extinct aquatic reptile from millions of years ago."
         }
     },
     "evidences": {
@@ -40,77 +40,27 @@
         ]
     },
     "relationship_with_evidence": [
+        null,
         {
-            "<main_rationale,evidence1>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the video shared claiming to show a dinosaur swimming was actually doctored footage from the TV docuseries 'Prehistoric Planet' as reported in the Community Note. The evidence in the form of a tweet acknowledges the attempt to remove the video and reveals the deception in the video, aligning perfectly with the rationale that the post was fake."
+            "reason2, evidence1": "The evidence directly supports reason2 from the fact-checking rationale. The tweet describes divers capturing a video of a swimming dinosaur, which aligns with the details presented in reason2 that mention the specific behaviors and description of a Tuarangisaurus from the 'Prehistoric Planet' series. This clear link between the evidence and reason2 confirms that the video is not genuine but digitally altered, leading to the 'Fake' rating."
         },
         {
-            "<additional_rationale1,evidence1>": "Relevant. The evidence directly supports the claim by confirming the details mentioned in the rationale. The article describes a video shared on X in March 2024 that purported to show divers filming a dinosaur in the Pacific Ocean. The evidence aligns with the claim by stating, 'They are now trying to remove this video from the Internet. It shows evidence that we have been lied to all along and that dinosaurs exist.' The evidence directly corresponds to the claim of a scuba diver swimming with a dinosaur, indicating a direct relationship between the evidence and the claim's content."
+            "main_rationale, evidence2": "The evidence directly supports the main rationale provided for the claim. The article clearly states that the video shared on X claiming to show a scuba diver swimming with a dinosaur was doctored footage from the 2022 TV docuseries 'Prehistoric Planet.' This matches the main rationale stating that the post was fake due to including doctored footage from the series."
         },
         {
-            "<additional_rationale2,evidence1>": "Relevant. The evidence directly supports the claim by demonstrating that the video shared on X contained doctored footage from the TV docuseries 'Prehistoric Planet,' confirming that the claim of a scuba diver swimming with a dinosaur was fake."
+            "reason2, evidence2": "The evidence directly supports Reason 2 by confirming that the swimming 'dinosaur' in the video was part of a scripted documentary 'Prehistoric Planet' featuring David Attenborough describing a Tuarangisaurus and its behaviors. This directly aligns with the rationale that the video was not genuine but digitally altered, contributing to the 'Fake' rating."
         },
         {
-            "<reason1,evidence1>": "Irrelevant"
+            "additional_rationale1, evidence3": "The evidence directly supports the additional rationale1 presented in the fact-checking article. The evidence describes a scenario involving a pregnant Tuarangisaurus in distress with her young calf, which aligns with the information provided in the article about the specific type of dinosaur being a plesiosaur, an aquatic reptile from the late Cretaceous period. This direct correspondence confirms that the evidence is relevant to the additional rationale1 focusing on the identification of the dinosaur species in the fake video."
         },
         {
-            "<reason2,evidence1>": "Irrelevant"
+            "reason2, evidence3": "The evidence directly supports reason2 from the combined claim and rationale dictionary. The evidence mentions a pregnant Tuarangisaurus in distress with her young calf, matching the description provided in reason2 about the behaviors of Tuarangisaurus as part of a scripted documentary episode from 'Prehistoric Planet'."
         },
         {
-            "<reason3,evidence1>": "Relevant. The evidence presented in the article directly supports the fact-checking rationale detailed in the claim. The evidence discusses how a video circulated online claiming to show divers filming a dinosaur in the Pacific Ocean was debunked through comparisons with the 'Prehistoric Planet' series, confirming that the video was fabricated. This aligns with the fact-checking efforts that involved a detailed comparison between the video and the original series, leading to the conclusive determination that the video was fake. The evidence directly corresponds to the rationale by providing context on the debunking process and confirming the video's falsity."
+            "<additional_rationale1, evidence4>": "The evidence from the article directly supports the additional rationale that identifies the dinosaur in the video as a plesiosaur, an order of carnivorous aquatic reptile primarily found in aquatic environments during the late Cretaceous periods, roughly 100 million years ago. The content of the evidence aligns closely with the description of the Tuarangisaurus provided in the additional rationale, reinforcing the fact that the video footage was indeed portraying this specific type of marine reptile."
         },
         {
-            "<main_rationale,evidence2>": "Relevant. The evidence directly supports the rationale provided in the article. The evidence details the specific content, namely, the description of the TV docuseries 'Prehistoric Planet,' which matches the explanation given in the Community Note about the video being doctored from this TV show. Both the evidence and the rationale describe the same event of the video clip being a part of the 'Prehistoric Planet' series, supporting the fact-checking rationale that the claim of a scuba diver swimming with a dinosaur is fake."
-        },
-        {
-            "<additional_rationale1,evidence2>": "Irrelevant"
-        },
-        {
-            "<additional_rationale2,evidence2>": "Relevant. The evidence directly supports the claim by confirming that the video mentioned in the claim, which purportedly showed a scuba diver swimming with a dinosaur, actually originated from the 'Prehistoric Planet' series as detailed in the article. The evidence aligns perfectly with the rationale provided for fact-checking the claim."
-        },
-        {
-            "<reason1,evidence2>": "Relevant. The evidence directly supports the rationale that the video claiming to show a scuba diver swimming with a dinosaur was doctored footage from the TV docuseries 'Prehistoric Planet,' hence justifying the 'Fake' rating of the claim."
-        },
-        {
-            "<reason2,evidence2>": "Irrelevant"
-        },
-        {
-            "<reason3,evidence2>": "Relevant. The evidence directly supports the fact-checking rationale by detailing the description of the 'Prehistoric Planet' series, aligning with the conclusion that the video showing a dinosaur swimming with a scuba diver was fabricated. The evidence provided in the article clearly connects the video shared on social media to the doctored footage from the TV series, substantiating the fact-checking determination of the video being fake."
-        },
-        {
-            "<main_rationale,evidence3>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the video shared is fake and consists of doctored footage from the 2022 TV docuseries 'Prehistoric Planet.' The content of the evidence describes a scene from the show where a pregnant Tuarangisaurus is in distress, aligning with the information provided in the Community Note that identified the dinosaur in the video as a plesiosaur from the same series."
-        },
-        {
-            "<additional_rationale1,evidence3>": "Relevant. The evidence directly supports the rationale detail by describing a specific event related to a Tuarangisaurus, which aligns with the information provided in the article regarding the plesiosaur mentioned in the claim."
-        },
-        {
-            "<additional_rationale2,evidence3>": "Relevant. The evidence directly supports the claim by confirming that the video shared to X, which purported to show a scuba diver swimming with a dinosaur, was actually sourced from the 'Prehistoric Planet' series, specifically featuring the scene with a Tuarangisaurus in distress."
-        },
-        {
-            "<reason1,evidence3>": "Relevant. The evidence directly supports the claim's rationale detail by confirming that the video showing a scuba diver swimming with a dinosaur was doctored footage from the TV docuseries 'Prehistoric Planet.' The identified scene involving a pregnant Tuarangisaurus and her calf in distress from the evidence matches the description of the doctored content, proving the falsity of the original claim and justifying the 'Fake' rating."
-        },
-        {
-            "<reason2,evidence3>": "Relevant. The evidence directly supports the claim by confirming that the footage of the swimming dinosaur was indeed taken from a TV show, 'Prehistoric Planet', as explicitly mentioned in the Community Note attached to the video repost. This aligns with the rationale detail that highlighted the lack of authenticity in the video, supporting the 'Fake' rating assigned to the claim."
-        },
-        {
-            "<reason3,evidence3>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the video claim of a scuba diver swimming with a dinosaur is fake. The evidence from the article clearly states that the video footage was doctored from the 'Prehistoric Planet' series, specifically mentioning a scene involving a pregnant Tuarangisaurus in distress and her young calf, which was matched to the original content by fact-checkers. This direct correspondence between the evidence and the fact-checking process conclusively aligns with the determination that the video was fabricated."
-        },
-        {
-            "<main_rationale,evidence4>": "Relevant. The evidence directly supports the claim's rationale by confirming that the video in question was indeed doctored footage from the 2022 TV docuseries 'Prehistoric Planet'. The evidence detailed in the article directly matches the specific description of the scene involving Tuarangisaurus provided in the post, indicating a clear and explicit connection between the evidence and the claim's rationale."
-        },
-        {
-            "<additional_rationale1,evidence4>": "Relevant. The evidence directly supports the claim that a video shared in March 2024 showed a scuba diver swimming with a dinosaur. The article content describes specific details of Tuarangisaurus, indicating its size, behavior, and characteristics, which align with the rationale detail identifying the dinosaur as a plesiosaur from the late Cretaceous period. The evidence from the article confirms that the video clip in question featured Tuarangisaurus, matching the claim's description of a dinosaur swimming with a scuba diver."
-        },
-        {
-            "<additional_rationale2,evidence4>": "Relevant. The evidence directly supports the claim by confirming that the content of the video shared on X, which allegedly showed a dinosaur with a scuba diver, actually originated from the 'Prehistoric Planet' series. The detailed description in the evidence matches the specifics mentioned by Snopes from the episode, such as the Tuarangisaurus, the mother-calf pair dynamics, and the unique features of the bay where the scene was filmed."
-        },
-        {
-            "<reason1,evidence4>": "Relevant. The evidence directly supports the claim's rationale by confirming that the video showing a scuba diver swimming with a dinosaur was indeed doctored footage from the TV docuseries 'Prehistoric Planet'. The article details how the specific scene with the Tuarangisaurus and its calf from the series was misrepresented as a real-life event in the viral video. This clear link between the evidence and the rationale establishes the falsity of the claim and justifies the 'Fake' rating."
-        },
-        {
-            "<reason2,evidence4>": "Relevant. The evidence directly supports the claim by describing the exact scene mentioned in the rationale detail. The evidence from the article mirrors the specific content of the community note attached to the video, confirming that the footage was not real but taken from a TV show."
-        },
-        {
-            "<reason3,evidence4>": "Relevant. The evidence directly supports the fact-checking rationale by confirming that the description of the marine reptile in the video clip matches the details provided in the 'Prehistoric Planet' series, ultimately proving that the video was fabricated. The specific similarities mentioned in the evidence regarding the Tuarangisaurus, including details about the mother and calf, their behavior, and the unique characteristics of the bay, align perfectly with the conclusive determination made by fact-checkers that the video was fake."
+            "reason2, evidence4": "The evidence presented in the article directly supports 'reason2' of the fact-checking rationale. The evidence describes details from the 'Prehistoric Planet' episode, including the description by David Attenborough of a Tuarangisaurus and its behaviors, confirming that the swimming 'dinosaur' in the video was part of a scripted documentary and not a real-life encounter. This direct match confirms the manipulation of the video and contributes to the 'Fake' rating."
         }
     ],
     "other": {
