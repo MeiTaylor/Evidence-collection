@@ -1,0 +1,42 @@
+{
+    "url": "https://www.snopes.com/fact-check/video-woman-attacked-paranormal-forces/",
+    "claim": "A video shows a woman in real life being attacked by paranormal force such as a ghost or demon.",
+    "rating": "Miscaptioned",
+    "content": "A black-and-white video shared to X on Dec. 15, 2023, consisted of grainy footage of what appeared to be a woman being dragged by her feet across the floor and down a set of stairs as she cried, “Oh, God, please. Let go of me.” At the time of this publication, the clip had received for than 1 million views:\n?pic.twitter.com/jGDC38kF46\n— Weird Things Caught On Camera (@ParanormaIVideo) December 15, 2023\n\nIt was implied that the clip was genuine and showed an attack by paranormal forces, perhaps by a ghost or demon. The username overlaid on the video made it possible to track the above clip to its first publication on TikTok to the account Virality Paranormal, which shared the video on March 3, 2023, with a caption that read: \"That demon was toying with her #paranormal #horrortok #horror #horrormovie #paranormalactivity.\"\nBut as another user on X suggested, the video originally appeared in part of the \"Paranormal Activity\" horror movie franchise. For this reason, we have rated this claim as Miscaptioned.\nSnopes searched through Paranormal Activity movie trailers made available online through the Internet Movie Database, or IMDb. We found that a portion of the video scene was shown in both the trailer and as part of the movie poster: \n (Screengrab/IMDb)\nA Google keyword search using the terms “paranormal activity 2 scene women gets pulled by feet” returned this scene from the  2010 installment, \"Paranormal Activity 2.\" The video was posted by Fandango Movieclips to YouTube on Aug. 18, 2016. \nAt the 34-second mark, the woman in the scene below is shown to be seemingly grabbed by her legs and pulled across a nursery room before being dragged down the stairs – exactly as it was shown in the videos shared on X and TikTok. \n\nBelow is a side-by-side comparison of the two at the same point in the clip, with the original being on the left and the altered version on the right: \n (Screengrab compilation by Snopes)",
+    "original_rationales": {
+        "main_rationale": "For this reason, we have rated this claim as Miscaptioned.",
+        "addtional_rationale1": "Snopes searched through Paranormal Activity movie trailers made available online through the Internet Movie Database, or IMDb.",
+        "addtional_rationale3": "Below is a side-by-side comparison of the two at the same point in the clip, with the original being on the left and the altered version on the right:"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Miscaptioned' rating is supported by the fact that the video, initially presented as a genuine paranormal attack, was found to be a scene from a movie, 'Paranormal Activity 2.' Despite being shared with captions implying a real-life event, the video was actually part of a known horror movie franchise. This discrepancy between the video's portrayal as real and its true origin led to the miscaptioned assessment.",
+        "detailed_reasons": {
+            "reason1": "The video, shared on platforms like TikTok with captions suggesting a supernatural attack, was traced back to a specific account and date. However, further investigation revealed that the video scene matched a segment from the 'Paranormal Activity 2' movie, indicating a misrepresentation of the video's content.",
+            "reason2": "Contrary to the initial claims of paranormal forces being implicated in the video, research into the origins of the footage established its linkage to a mainstream horror movie series. The clip's association with a well-known movie franchise discredits the original presentation of the video as capturing a real-life paranormal event.",
+            "reason3": "By conducting meticulous searches and comparisons with official movie sources, like IMDb and YouTube, it became evident that the video shared across social media was not a genuine occurrence but a scripted scene from 'Paranormal Activity 2.' The false contextualization of this cinematic footage as a genuine paranormal incident led to the rating of 'Miscaptioned'."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "?pic.twitter.com/jGDC38kF46\n— Weird Things Caught On Camera (@ParanormaIVideo) December 15, 2023",
+            [
+                "https://t.co/jGDC38kF46",
+                "https://twitter.com/ParanormaIVideo/status/1735661825302421553?ref_src=twsrc%5Etfw"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale,evidence1": "The evidence directly supports the main rationale provided for the claim. The black-and-white video shared on Twitter showing a woman being dragged by her feet aligns with the fact that the video was taken from the 'Paranormal Activity 2' movie, as identified through a side-by-side comparison. This clear visual similarity establishes a direct link between the evidence and the main rationale, justifying the 'Miscaptioned' rating."
+        },
+        {
+            "reason3, evidence1": "The evidence directly supports reason3 from the fact-checking article. The article mentions that through meticulous searches and comparisons with official movie sources like IMDb and YouTube, it was established that the video was not a genuine paranormal incident but a scripted scene from 'Paranormal Activity 2.' The side-by-side comparison in the evidence clearly shows how the scene from the video corresponds to a scene in the movie, affirming the fact that the video was misrepresented as a real-life paranormal event, leading to the rating of 'Miscaptioned.'"
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/7PfDjA-3RP4?si=UGCM91r1Ey1KHw6B"
+        ]
+    }
+}

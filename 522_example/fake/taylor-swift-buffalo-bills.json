@@ -1,0 +1,31 @@
+{
+    "url": "https://www.snopes.com/fact-check/taylor-swift-buffalo-bills/",
+    "claim": "A video shared in January 2024 accurately reports that two Buffalo Bills fans were detained after \"hijacking\" Taylor Swift's wireless sound system to play \"Shout\" at the Bills' Highmark Stadium.",
+    "rating": "Fake",
+    "content": "On Jan. 21, 2024, a TikTok user posted a video that supposedly showed 12-time Grammy Award winner Taylor Swift standing and displaying a shocked facial expression during a concert on her Eras Tour. According to the video, Swift was reacting to her sound system being \"hijacked\" by fans of the Buffalo Bills NFL team at the team's Highmark Stadium.\nThe caption in the video read, \"2 Buffalo Bills fans say 'worth it' after getting detained for hijacking Taylor Swift's wireless sound system.\"\nThe audio in the video featured a large crowd singing the classic Isley Brothers tune \"Shout\" — a song that has been a part of the Buffalo Bills home-game experience for decades.\nThe video received nearly 2 million views in less than 48 hours.\n \nHours after the video was posted to TikTok, the Bills played a home playoff game against the Kansas City Chiefs at Highmark Stadium in Orchard Park, New York. Swift attended the game. Her boyfriend, Chiefs tight end Travis Kelce, caught two touchdown passes that helped lead the team to a 27-24 victory over the Bills.\nSome top commenters under the TikTok video appeared to believe it was completely genuine and that two Bills fans truly had found a way to \"hijack\" Swift's sound system to play \"Shout.\"\n\"Don't ever underestimate Bills Mafia,\" one popular comment read, referencing a name for Bills fans.\nHowever, the truth was that while the visuals in the video were genuine, the audio had been manipulated.\n\"The funniest part of this is the number of people that haven't figured out this is stadium audio over a Taylor Swift concert video,\" one commenter posted.\nThe visuals in the video were taken from an Eras Tour concert on Aug. 8, 2023, at SoFi Stadium in Inglewood, California, the same venue where the NFL's Los Angeles Chargers and Los Angeles Rams play their home games. Swift played six nights at SoFi Stadium in early August.\nThe same moment from the TikTok video can be watched and listened to in a YouTube video that was recorded from another angle, beginning at the 11:24 mark.\n\nSwift was reacting to the crowd cheering for quite a long time after she sang \"Champagne Problems.\"\nDuring her tour, at least one TikTok user had catalogued the amount of time that crowds in different cities had given her ovations following the singing of the very same song.\n \nIn other words, the TikTok video was little more than an apparent joke. Swift never played an Eras Tour concert at the Bills' Highmark Stadium, and there's no truth to the idea that two of the team's fans were detained for \"hijacking\" her sound system.",
+    "original_rationales": {
+        "main_rationale": "In other words, the TikTok video was little more than an apparent joke. Swift never played an Eras Tour concert at the Bills' Highmark Stadium, and there's no truth to the idea that two of the team's fans were detained for \"hijacking\" her sound system.",
+        "additional_rationale1": "The caption in the video read, \"2 Buffalo Bills fans say 'worth it' after getting detained for hijacking Taylor Swift's wireless sound system.\"",
+        "additional_rationale2": "However, the truth was that while the visuals in the video were genuine, the audio had been manipulated."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim regarding Buffalo Bills fans 'hijacking' Taylor Swift's sound system at Highmark Stadium is rated as 'Fake' due to a TikTok video depicting this event being misrepresented; although the visuals were authentic, the audio was manipulated, and the actual incident did not occur as portrayed in the video. Swift's concert was not held at Highmark Stadium, and it was clarified that the crowd cheering featured in the video was stadium audio, not from a live event at the Stadium.",
+        "detailed_reasons": {
+            "reason1": "The video misrepresented the audio by overlaying stadium audio from a different event onto the visuals of Taylor Swift's concert, creating a false impression that fans had taken over Swift's sound system at Highmark Stadium.",
+            "reason2": "Swift never performed at the Bills' Highmark Stadium as shown in the video, highlighting a clear discrepancy between the depicted scenario and reality, thereby contributing to the 'Fake' rating.",
+            "reason3": "Evidence from commenters and comparisons to another recording confirm that the TikTok video was misleading, as spectators pointed out that it was a stadium audio recording combined with unrelated concert visuals, refuting the claim of fans 'hijacking' Swift's sound system.",
+            "reason4": "The presence of substantial ovations during Swift's actual concert performances, as catalogued in other TikTok videos, further reinforces the fact that the depicted disruption by Bills fans at Highmark Stadium was fabricated, supporting the 'Fake' rating."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": [
+            "https://www.tiktok.com/embed/7326414413957745963",
+            "https://www.youtube.com/embed/Fz7xcLOCIDg?si=RK03M3dsUax9NsBp&start=684",
+            "https://www.tiktok.com/embed/7263709221643111726"
+        ]
+    }
+}

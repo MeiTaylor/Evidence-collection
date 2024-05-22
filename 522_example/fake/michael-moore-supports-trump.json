@@ -1,0 +1,28 @@
+{
+    "url": "https://www.snopes.com/fact-check/michael-moore-supports-trump/",
+    "claim": "Academy Award-winning documentary filmmaker Michael Moore announced his support of former U.S. President Donald Trump for reelection in 2024.",
+    "rating": "False",
+    "content": "On Jan. 16, 2024, a user on X (formerly Twitter) named @Sadie_NC posted a video clip that displayed the caption, \"Michael Moore Supporting Trump.\"\nMichael Moore is an Academy Award-winning filmmaker who is perhaps best known for the best documentary Oscar that he won in 2003 for \"Bowling for Columbine,\" which was inspired by the 1999 Columbine High School shootings in Colorado.\nAbove the video, the X post (archived) read, \"Never did I think Michael Moore would hit the nail on the head. Absolutely stunned by what he has to say about Trump and Trump voters.\" The post received more than 7,000 reposts and over 17,000 likes.\nThe video displayed a watermark for TikTok user @justwownewsofficial, who had just posted the clip hours earlier on Jan. 16.\n \nThe video was sourced from Moore's 2016 film, \"Michael Moore in TrumpLand.\" In the clip, Moore says a number of things that make it seem like he is siding with Trump supporters and is perhaps endorsing his candidacy.\nHowever, at the point that the brief clip ends on X and TikTok, Moore continues in the full film by telling the audience that voting for Trump will be something they will \"regret.\"\n\"But I get it. You wanted to send a message,\" Moore says. \"You had righteous anger. And justifiable anger. Well, message sent. Goodnight America. You've just elected the last president of the United States.\"\nThe omitted ending was uploaded to Moore's official YouTube channel on Oct. 27, 2016 with the text description, \"Here's the REAL ending to Mike's ANTI-Trump rant that was cut out by Trump supporters.\"\n\nWe previously reported about this very same video clip from Moore's film when it was being shared online in the same out-of-context manner in the weeks before the 2016 U.S. presidential election. Since that time, even Trump himself at least twice shared the misleading video clip on social media, including at least once on his own Truth Social platform.",
+    "original_rationales": {
+        "main_rationale": "The video displayed a watermark for TikTok user @justwownewsofficial, who had just posted the clip hours earlier on Jan. 16.",
+        "additional_rationale1": "However, at the point that the brief clip ends on X and TikTok, Moore continues in the full film by telling the audience that voting for Trump will be something they will \"regret.\""
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that Michael Moore supports Donald Trump for reelection in 2024 is false. This conclusion is based on a comprehensive analysis of the text, which reveals that while a video clip initially suggests Moore's support for Trump, the full context demonstrates that Moore actually criticizes Trump and his supporters, emphasizing that voting for Trump would be regretful. The video was taken out of context, and Moore's actual message is contrary to what was portrayed, debunking the claim of his support for Trump.",
+        "detailed_reasons": {
+            "reason1": "The initial video clip posted on social media suggests Michael Moore is supporting Donald Trump, but a deeper examination reveals that the clip is taken from a larger context in Moore's 2016 film. In the full film, Moore explicitly states that voting for Trump would lead to regret, dispelling the idea of his support for Trump.",
+            "reason2": "Although the video clip circulated with a caption implying Moore's support for Trump, Moore's subsequent remarks make it clear that his true stance is critical of Trump and his followers. Moore highlights that voting for Trump was meant to send a message but cautions that the consequences will be regretted, showcasing his opposition rather than support.",
+            "reason3": "The spread of the video clip on social media, even being shared by Trump himself, emphasizes the misleading nature of the snippet. Despite attempts to misconstrue Moore's words, the full context reveals his negative sentiment towards Trump, reinforcing the false impression created by the out-of-context clip."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": [
+            "https://www.tiktok.com/embed/7324790198036925727",
+            "https://www.youtube.com/embed/sVLTQIUMq18?si=5G_o6NVKt18eHRGw"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://www.snopes.com/fact-check/us-cargo-ship-houthi-missile/",
+    "claim": "A video authentically shows a U.S.-owned cargo ship hit by a missile from Yemen’s Houthi rebels off the coast of Yemen in mid-January 2024.",
+    "rating": "Miscaptioned",
+    "content": "The video in question is from two years prior and shows a different cargo ship that burned off the coast of Sri Lanka.\nIn mid-January 2024, a viral video on X claimed to show a U.S.-owned cargo ship on fire and emitting heavy smoke after being hit by a missile from Yemen’s Houthi rebels. The video in question spread across the internet just as the U.S. military announced that a Houthi missile had struck a cargo ship off the coast of Yemen. The ship continued on its journey.\nThe video appears to show a cargo ship in the middle of the ocean covered in smoke. It was shared by a number of X accounts in a range of languages including Hebrew:\n\n\n(Screenshot via X)\nWhile a ship was indeed attacked by Houthi rebels on Jan. 15, the above video does not show the encounter in question. It was taken two years prior and shows the X-Press Pearl vessel disaster off the coast of Sri Lanka. We therefore rate the 2024 video posts as Miscaptioned.\nThe Sri Lanka Air Force’s official YouTube account shared footage of the X-Press Pearl fire in May 2021. When sections of that video were reposted on X after the Houthi cargo ship attack, they appeared to have been reversed and zoomed in on, to pass the vessel off as a different one. However, the coloring of the ship, the cargo aboard it and even the small rescue vessel spraying water onto it appear exactly the same as the one in the Sri Lankan Air Force video below:\n\nBBC News also shared the Air Force media depicting the X-Press Pearl incident when it happened:\n\nThe X-Press Pearl was a cargo ship carrying chemicals that caught fire off the coast of Sri Lanka in 2021, leaving behind an environmental disaster that would have ramifications for years to come. It burned for days off the coast, with the crew abandoning the ship, until eventually the flames were doused and parts of the ship sank into the waters.\nMeanwhile, the ship attacked by the Houthis in 2024 off the Yemeni coast in the Gulf of Aden was the Eagle Gibraltar. The company that owns the vessel told The Associated Press the ship had sustained “limited damage to a cargo hold but [is] stable and is heading out of the area. [...] All seafarers onboard the vessel are confirmed to be uninjured. The vessel is carrying a cargo of steel products.”\nThe Houthi rebels—a militia group that declared itself to be the state of Yemen and has been fighting the internationally recognized Yemen government since 2014 — declared military operations targeting Israel in late 2023 after Israel began bombarding Gaza. The rebels also began targeting U.S. and British-owned vessels that they said were linked to Israel or headed to Israeli ports, arguing it was to pressure Israel to halt its attack on Gaza and ease restrictions on humanitarian aid for the Palestinians.",
+    "original_rationales": {
+        "main_rationale": "While a ship was indeed attacked by Houthi rebels on Jan. 15, the above video does not show the encounter in question. It was taken two years prior and shows the X-Press Pearl vessel disaster off the coast of Sri Lanka. We therefore rate the 2024 video posts as Miscaptioned.",
+        "additional_rationale1": "The Sri Lanka Air Force’s official YouTube account shared footage of the X-Press Pearl fire in May 2021.",
+        "additional_rationale2": "The X-Press Pearl was a cargo ship carrying chemicals that caught fire off the coast of Sri Lanka in 2021, leaving behind an environmental disaster that would have ramifications for years to come."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Miscaptioned' rating is based on the misidentification of the cargo ship incident shown in the video, which is from a separate event two years prior off the coast of Sri Lanka, not the one involving a U.S.-owned cargo ship attacked by Houthi rebels in Yemen. The misrepresentation through reversed and zoomed-in footage led to an inaccurate connection between the events, warranting the rating due to the misleading nature of the video.",
+        "detailed_reasons": {
+            "reason1": "The video in question, despite circulating in association with the Houthi rebels' attack on an American cargo ship in 2024 off Yemen, actually depicts the X-Press Pearl incident near Sri Lanka from 2021, displaying a different vessel and context entirely.",
+            "reason2": "Sections of the video were manipulated through reversal and zooming to present the ship differently, attributing a false identity to it. This intentional misrepresentation contributed to the confusion between the actual events, justifying the 'Miscaptioned' rating.",
+            "reason3": "The similarities between the ship shown in the video and the X-Press Pearl ship involved in the Sri Lanka incident, including the appearance, cargo, and rescue operations, further confirm the mislabeling of the video. The visual cues aligned with the Sri Lankan disaster, not the Houthi attack in Yemen.",
+            "reason4": "The distinction made between the ships, particularly identifying the vessel in the video as the X-Press Pearl and not the Eagle Gibraltar targeted by Houthis in 2024, solidifies the basis for the 'Miscaptioned' rating. The accurate identification clarifies the misattribution of the video to the Yemen attack."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/bgpS6gu-LLg?feature=oembed&start=1",
+            "https://www.youtube.com/embed/SoYQLOh6_rk?feature=oembed&start=1"
+        ]
+    }
+}
